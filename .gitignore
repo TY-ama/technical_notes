@@ -1,6 +1,6 @@
 # Obsidian-specific ignores
 
-# このファイルはPCごとのウィンドウやタブの状態を保存するため、無視します
+# このファイルはPCごとのウィンドウやタブの状態を保存するため無視します
 .obsidian/workspace.json
 .obsidian/workspaces.json
 
