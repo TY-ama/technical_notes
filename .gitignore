@@ -1,0 +1,11 @@
+# Obsidian-specific ignores
+
+# このファイルはPCごとのウィンドウやタブの状態を保存するため、無視します
+.obsidian/workspace.json
+.obsidian/workspaces.json
+
+# キャッシュファイルは不要なので無視します
+.obsidian/cache/
+
+# ゴミ箱フォルダ（もしあれば）
+.trash/
