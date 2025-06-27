@@ -1,12 +1,26 @@
-Ruby3.2.2、Rails7.1.1に変更
-Railsプロジェクトを作成まで完了
-再ビルドができない
+# Docker + Rails
 
-## rails_new後権限変更 
+DockerとRailsを連携させる際のメモです。
 
-sudo chown -R (ユーザ名):(ユーザ名)  /home/(ユーザ名)/(フォルダ名)
+### RubyとRailsのバージョン変更
 
-## コンテナの起動
+-   Ruby 3.2.2、Rails 7.1.1 に変更しました。
+-   Railsプロジェクトの作成まで完了しましたが、再ビルドができない問題が発生しました。
 
+### `rails new` 後の権限変更
+
+`rails new` コマンド実行後に権限の問題が発生した場合、以下のコマンドで権限を変更します。
+
+```bash
+sudo chown -R <ユーザー名>:<ユーザー名> /home/<ユーザー名>/<フォルダ名>
+# 例: sudo chown -R ty09:ty09 /home/ty09/my_project
+```
+
+### コンテナの起動
+
+Docker Composeでコンテナを起動する際は、`docker compose up -d` のように、`up` と `-d` の間にスペースを入れます。
+
+```bash
 docker compose up -d
--でなくスペース
+# 誤った例: docker compose up-d
+```

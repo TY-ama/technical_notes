@@ -1,12 +1,16 @@
-### new 
+# `new` と `create` の違い
 
-- フォーム(View)に渡すため、空のオブジェクトを作成
-	- フォームは渡されたオブジェクトをもとに入力欄を作成
-		- `form_with model: @task`をすると
-		- `partName:string`という属性があれば`form.text_field :partName`などを自動で書いてくれる
+Railsにおける `new` アクションと `create` アクションの役割の違いです。
 
-### create
+### `new` アクション
 
-- フォーム(View)から送られてきたデータを使って新しいオブジェクトを作成、DBへ保存
-	- `@task = Task.new(task_params)`としてフォームの内容をもとにオブジェクトを作成
-	- `@task.save`でデータベースへ保存
+- フォーム (View) にデータを渡すために、空のオブジェクトを作成します。
+- フォームは、渡されたオブジェクトの属性に基づいて入力欄を生成します。
+  - 例: `form_with model: @task` と記述すると、`@task` オブジェクトに `partName:string` という属性があれば、`form.text_field :partName` のような入力フィールドが自動的に作成されます。
+
+### `create` アクション
+
+- フォーム (View) から送信されたデータを使用して、新しいオブジェクトを作成し、データベースに保存します。
+  - 例:
+    - `@task = Task.new(task_params)` のように、フォームの内容を元にオブジェクトを作成します。
+    - `@task.save` でデータベースにデータを保存します。
