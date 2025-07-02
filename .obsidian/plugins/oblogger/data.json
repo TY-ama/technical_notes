@@ -14,26 +14,33 @@
     {
       "groupName": "",
       "collapsedFolders": [],
-      "isVisible": true,
+      "isVisible": false,
       "sortMethod": "alphabetical",
       "sortAscending": true,
       "logsFolderVisible": true,
       "templatesFolderVisible": false,
       "excludedFolders": [],
       "isPinned": false,
-      "groupType": "dailies"
+      "groupType": "dailies",
+      "openFolders": [
+        "/"
+      ]
     },
     {
       "groupName": "",
       "collapsedFolders": [],
-      "isVisible": true,
+      "isVisible": false,
       "sortMethod": "type",
       "sortAscending": true,
       "logsFolderVisible": true,
       "templatesFolderVisible": true,
       "excludedFolders": [],
       "isPinned": false,
-      "groupType": "files"
+      "groupType": "files",
+      "openFolders": [
+        "/",
+        "//image"
+      ]
     },
     {
       "groupName": "",
@@ -45,21 +52,43 @@
       "templatesFolderVisible": true,
       "excludedFolders": [],
       "isPinned": false,
-      "groupType": "recents"
+      "groupType": "recents",
+      "openFolders": []
     },
     {
       "groupName": "",
       "collapsedFolders": [],
-      "isVisible": true,
+      "isVisible": false,
       "sortMethod": "alphabetical",
       "sortAscending": true,
       "logsFolderVisible": false,
       "templatesFolderVisible": false,
       "excludedFolders": [],
       "isPinned": false,
-      "groupType": "untagged"
+      "groupType": "untagged",
+      "openFolders": [
+        "/"
+      ]
     }
   ],
   "dailiesTag": "daily",
-  "otcGroups": []
+  "otcGroups": [
+    {
+      "groupName": "t-notes",
+      "groupType": "tag_group",
+      "openFolders": [
+        "/",
+        "//docs",
+        "//obsi",
+        "//test"
+      ],
+      "isVisible": true,
+      "isPinned": false,
+      "sortMethod": "alphabetical",
+      "sortAscending": true,
+      "excludedFolders": [],
+      "logsFolderVisible": false,
+      "templatesFolderVisible": false
+    }
+  ]
 }

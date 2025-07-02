@@ -1,12 +1,11 @@
 ---
 tags:
-  - ruby
-datetimeCreate: 2025-07-03 00:06
+  - t-notes/obsi
+datetimeCreate: 2025-07-03 00:39
 ---
+![[スクリーンショット 2025-07-03 003321.png]]
 
-
-
-
+![[スクリーンショット 2025-07-03 002600.png]]
 
 
 ```dataviewjs
