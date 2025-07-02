@@ -5,7 +5,7 @@
   "clockVisible": false,
   "rxSeparatorVisible": true,
   "otcSeparatorVisible": true,
-  "recentsCount": 10,
+  "recentsCount": 5,
   "postLogAction": "quietly",
   "tagGroups": [],
   "loggingPath": "",
@@ -53,7 +53,9 @@
       "excludedFolders": [],
       "isPinned": false,
       "groupType": "recents",
-      "openFolders": []
+      "openFolders": [
+        "/"
+      ]
     },
     {
       "groupName": "",

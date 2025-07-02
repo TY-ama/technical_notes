@@ -1,5 +1,5 @@
 ---
-tags:
+tags: 
 datetimeCreate: {{date}} {{time}}
 ---
 
@@ -23,7 +23,7 @@ if (currentFile.file.tags && currentFile.file.tags.length > 0 && currentFile.fil
         const tag = currentFile.file.tags[i];
         
         // タグからページを検索 (自分自身は除外)
-        const pages = dv.pages('#' + tag)
+        const pages = dv.pages(tag)
             .where(p => p.file.path !== currentFile.file.path) 
             .sort(f => f.file.mtime.ts, "desc")
             .limit(15);

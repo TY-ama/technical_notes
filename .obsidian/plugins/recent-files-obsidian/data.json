@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "今回使用するバージョン",
-      "path": "docs/今回使用するバージョン.md"
-    },
-    {
-      "basename": "template",
-      "path": "Templates/template.md"
+      "basename": "2025-07-18-成果発表",
+      "path": "docs/2025-07-18-成果発表.md"
     },
     {
       "basename": "課題一覧",
       "path": "docs/課題一覧.md"
+    },
+    {
+      "basename": "今回使用するバージョン",
+      "path": "docs/今回使用するバージョン.md"
+    },
+    {
+      "basename": "oblogger",
+      "path": "oblogger.md"
+    },
+    {
+      "basename": "template",
+      "path": "Templates/template.md"
     },
     {
       "basename": "Ubuntu連携",
@@ -19,10 +27,6 @@
     {
       "basename": "ぼくがかんがえた最強のObsidian設定｜古村藍",
       "path": "Web-clip/ぼくがかんがえた最強のObsidian設定｜古村藍.md"
-    },
-    {
-      "basename": "oblogger",
-      "path": "oblogger.md"
     },
     {
       "basename": "mysql2",

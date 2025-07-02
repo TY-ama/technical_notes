@@ -4,7 +4,7 @@
     "explainSearch": false,
     "extraContext": false,
     "matchingCase": false,
-    "query": "",
+    "query": "tag:t-notes",
     "sortOrder": "alphabetical"
   },
   "showFilePath": false,
