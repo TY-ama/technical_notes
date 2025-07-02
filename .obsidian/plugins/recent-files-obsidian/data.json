@@ -1,0 +1,24 @@
+{
+  "recentFiles": [
+    {
+      "basename": "無題のファイル",
+      "path": "無題のファイル.md"
+    },
+    {
+      "basename": "アプリ作成の流れ",
+      "path": "Rails/在庫管理アプリ/アプリ作成の流れ.md"
+    },
+    {
+      "basename": "template",
+      "path": "Templates/template.md"
+    },
+    {
+      "basename": "test",
+      "path": "test/test.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
