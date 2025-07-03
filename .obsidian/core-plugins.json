@@ -2,12 +2,12 @@
   "file-explorer": true,
   "global-search": true,
   "switcher": true,
-  "graph": true,
+  "graph": false,
   "backlink": true,
-  "canvas": true,
+  "canvas": false,
   "outgoing-link": true,
   "tag-pane": true,
-  "properties": false,
+  "properties": true,
   "page-preview": true,
   "daily-notes": true,
   "templates": true,
@@ -27,5 +27,5 @@
   "file-recovery": true,
   "publish": false,
   "sync": true,
-  "webviewer": false
+  "webviewer": true
 }

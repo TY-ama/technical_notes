@@ -1,4 +1,4 @@
-# UbuntuとGitHubの連携 (SSH接続)
+e# UbuntuとGitHubの連携 (SSH接続)
 
 Ubuntu環境からGitHubにSSH接続するための設定手順です。
 

@@ -1,26 +1,7 @@
 ---
-tags:
-  - t-notes/docs
-datetimeCreate: 2025-07-03 01:09
+tags: 
+datetimeCreate: {{date}} {{time}}
 ---
-
-## Ubuntu
-
-- 24.04.1
-
-## Docker
-
-- cliant　：28.1.1
-- server   ：28.1.1
-
-## Ruby
-
-- 3.2.2
-
-##  Rails
-
-- 7.1.5
-
 
 
 
@@ -84,7 +65,3 @@ if (outgoingLinks.length > 0) {
     }
 }
 ```
-
-
-
-
