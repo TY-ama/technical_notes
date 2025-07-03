@@ -4,7 +4,7 @@
     "explainSearch": false,
     "extraContext": false,
     "matchingCase": false,
-    "query": "tag:t-notes",
+    "query": "tag:t-notes/Rails",
     "sortOrder": "alphabetical"
   },
   "showFilePath": false,

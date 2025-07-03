@@ -80,13 +80,14 @@
       "groupType": "tag_group",
       "openFolders": [
         "/",
+        "//Rails",
+        "//Rails/Bootstrap",
         "//docs",
-        "//obsi",
-        "//test"
+        "//obsi"
       ],
       "isVisible": true,
       "isPinned": false,
-      "sortMethod": "alphabetical",
+      "sortMethod": "ctime",
       "sortAscending": true,
       "excludedFolders": [],
       "logsFolderVisible": false,
