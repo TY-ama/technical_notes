@@ -5,12 +5,16 @@
       "path": "グリッドシステム.md"
     },
     {
-      "basename": "マージン・パディング",
-      "path": "マージン・パディング.md"
-    },
-    {
       "basename": "テーブル",
       "path": "テーブル.md"
+    },
+    {
+      "basename": "2025-07-18-成果発表",
+      "path": "docs/2025-07-18-成果発表.md"
+    },
+    {
+      "basename": "マージン・パディング",
+      "path": "マージン・パディング.md"
     },
     {
       "basename": "プログラムを埋め込む",
@@ -27,10 +31,6 @@
     {
       "basename": "build時のエラー",
       "path": "Docker/build時のエラー.md"
-    },
-    {
-      "basename": "2025-07-18-成果発表",
-      "path": "docs/2025-07-18-成果発表.md"
     },
     {
       "basename": "課題一覧",
