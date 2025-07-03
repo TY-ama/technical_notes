@@ -1,9 +1,10 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Minimal",
   "interfaceFontFamily": "メイリオ,あずきフォント",
   "textFontFamily": "メイリオ",
   "monospaceFontFamily": "源ノ角ゴシックCode JP",
   "baseFontSizeAction": true,
-  "baseFontSize": 18
+  "baseFontSize": 22,
+  "accentColor": "#4d6dac"
 }

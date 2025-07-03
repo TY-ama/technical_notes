@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "oblogger",
+      "path": "oblogger.md"
+    },
+    {
+      "basename": "build時のエラー",
+      "path": "Docker/build時のエラー.md"
+    },
+    {
       "basename": "2025-07-18-成果発表",
       "path": "docs/2025-07-18-成果発表.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "今回使用するバージョン",
       "path": "docs/今回使用するバージョン.md"
-    },
-    {
-      "basename": "oblogger",
-      "path": "oblogger.md"
     },
     {
       "basename": "template",

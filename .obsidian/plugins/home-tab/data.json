@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "oblogger.md",
+      "timestamp": 1751508980286
+    },
+    {
+      "filepath": "Docker/build時のエラー.md",
+      "timestamp": 1751508980095
+    },
+    {
       "filepath": "docs/2025-07-18-成果発表.md",
-      "timestamp": 1751472592598
+      "timestamp": 1751508979287
     },
     {
       "filepath": "docs/課題一覧.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "docs/今回使用するバージョン.md",
       "timestamp": 1751472580445
-    },
-    {
-      "filepath": "oblogger.md",
-      "timestamp": 1751472579178
-    },
-    {
-      "filepath": "Templates/template.md",
-      "timestamp": 1751472452349
     }
   ],
   "bookmarkedFileStore": [],
