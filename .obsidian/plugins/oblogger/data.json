@@ -83,10 +83,8 @@
         "//DB",
         "//Obsidian",
         "//Rails",
-        "//Rails/Bootstrap",
         "//Ruby",
-        "//docs",
-        "//obsi"
+        "//docs"
       ],
       "isVisible": true,
       "isPinned": false,
