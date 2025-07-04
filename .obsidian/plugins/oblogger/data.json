@@ -80,6 +80,8 @@
       "groupType": "tag_group",
       "openFolders": [
         "/",
+        "//DB",
+        "//Obsidian",
         "//Rails",
         "//Rails/Bootstrap",
         "//Ruby",

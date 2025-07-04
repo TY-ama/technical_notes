@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "DB (Access)",
+      "path": "DB (Access).md"
+    },
+    {
       "basename": "ぼくがかんがえた最強のObsidian設定｜古村藍",
       "path": "Clippings/ぼくがかんがえた最強のObsidian設定｜古村藍.md"
+    },
+    {
+      "basename": "やること",
+      "path": "やること.md"
+    },
+    {
+      "basename": "2025-07-18-成果発表",
+      "path": "docs/2025-07-18-成果発表.md"
+    },
+    {
+      "basename": "Dockerとは",
+      "path": "Docker/Dockerとは.md"
+    },
+    {
+      "basename": "今回使用するバージョン",
+      "path": "docs/今回使用するバージョン.md"
     },
     {
       "basename": "Gemini-margin",
@@ -21,10 +41,6 @@
       "path": "Clippings/Gemini-d-grid.md"
     },
     {
-      "basename": "2025-07-18-成果発表",
-      "path": "docs/2025-07-18-成果発表.md"
-    },
-    {
       "basename": "プログラムを埋め込む",
       "path": "Markdown/プログラムを埋め込む.md"
     },
@@ -39,10 +55,6 @@
     {
       "basename": "課題一覧",
       "path": "docs/課題一覧.md"
-    },
-    {
-      "basename": "今回使用するバージョン",
-      "path": "docs/今回使用するバージョン.md"
     },
     {
       "basename": "template",
