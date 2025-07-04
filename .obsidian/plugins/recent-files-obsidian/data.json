@@ -1,36 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "フォーム",
-      "path": "フォーム.md"
+      "basename": "ぼくがかんがえた最強のObsidian設定｜古村藍",
+      "path": "Clippings/ぼくがかんがえた最強のObsidian設定｜古村藍.md"
     },
     {
-      "basename": "マージン・パディング",
-      "path": "マージン・パディング.md"
-    },
-    {
-      "basename": "テーブル",
-      "path": "テーブル.md"
-    },
-    {
-      "basename": "グリッドシステム",
-      "path": "グリッドシステム.md"
-    },
-    {
-      "basename": "Gemini-d-grid",
-      "path": "Gemini-d-grid.md"
-    },
-    {
-      "basename": "Gemini-form",
-      "path": "Gemini-form.md"
+      "basename": "Gemini-margin",
+      "path": "Clippings/Gemini-margin.md"
     },
     {
       "basename": "Gemini-grid+table",
-      "path": "Gemini-grid+table.md"
+      "path": "Clippings/Gemini-grid+table.md"
     },
     {
-      "basename": "erbにおけるコメントアウト",
-      "path": "erbにおけるコメントアウト.md"
+      "basename": "Gemini-form",
+      "path": "Clippings/Gemini-form.md"
+    },
+    {
+      "basename": "Gemini-d-grid",
+      "path": "Clippings/Gemini-d-grid.md"
     },
     {
       "basename": "2025-07-18-成果発表",
@@ -43,10 +31,6 @@
     {
       "basename": "Pasted image 20250703115217",
       "path": "res/Pasted image 20250703115217.png"
-    },
-    {
-      "basename": "oblogger",
-      "path": "oblogger.md"
     },
     {
       "basename": "build時のエラー",
@@ -67,10 +51,6 @@
     {
       "basename": "Ubuntu連携",
       "path": "Git/Ubuntu連携.md"
-    },
-    {
-      "basename": "ぼくがかんがえた最強のObsidian設定｜古村藍",
-      "path": "Web-clip/ぼくがかんがえた最強のObsidian設定｜古村藍.md"
     },
     {
       "basename": "mysql2",
