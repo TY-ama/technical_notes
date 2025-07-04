@@ -1,6 +1,6 @@
 ---
 tags:
-  - t-notes/obsi
+  - t-notes/Obsidian
 datetimeCreate: 2025-07-03 00:39
 ---
 ![[スクリーンショット 2025-07-03 003321.png]]
