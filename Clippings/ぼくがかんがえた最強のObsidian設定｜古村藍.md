@@ -1,13 +1,14 @@
 ---
-title: "ぼくがかんがえた最強のObsidian設定｜古村藍"
-source: "https://note.com/indigo372/n/nae1e72203c5b"
+title: ぼくがかんがえた最強のObsidian設定｜古村藍
+source: https://note.com/indigo372/n/nae1e72203c5b
 author:
   - "[[古村藍]]"
 published: 2023-10-06
 created: 2025-07-04
-description: "私はObsidianを使い始めて一年近くが経ちます。 例に漏れず本ツールの有用性やカスタム性に魅了されて使い続けているわけですが、活発に更新されるツールなので使い方や設定も日々変わっていきます。 そんな中、ここ最近「これでFAじゃね？」という設定に落ち着いてきたので、今の私のObsidian環境を晒します。 はじめに書いておきたいのは、「すべての人にとって最適な形などない」ということです。ある人にとっては有用なカスタマイズでも、ある人にとっては不便なだけかも知れない。 なので今回は「対象となる人」をはじめに宣言しておきます。以下に当てはまる人であれば私が使っている設定は有用に働くかも知"
+description: 私はObsidianを使い始めて一年近くが経ちます。 例に漏れず本ツールの有用性やカスタム性に魅了されて使い続けているわけですが、活発に更新されるツールなので使い方や設定も日々変わっていきます。 そんな中、ここ最近「これでFAじゃね？」という設定に落ち着いてきたので、今の私のObsidian環境を晒します。 はじめに書いておきたいのは、「すべての人にとって最適な形などない」ということです。ある人にとっては有用なカスタマイズでも、ある人にとっては不便なだけかも知れない。 なので今回は「対象となる人」をはじめに宣言しておきます。以下に当てはまる人であれば私が使っている設定は有用に働くかも知
 tags:
-  - "t-notes/Obsidian"
+  - t-notes/Obsidian
+  - t-notes/clippings
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/118184169/rectangle_large_type_2_7de677668886d1653dcea589ad5990b3.png?width=1200)
 
@@ -308,7 +309,7 @@ Obsidianは日々進化しているツールですので、定期的な更新情
 	#タスク管理
 	](https://note.com/hashtag/%E3%82%BF%E3%82%B9%E3%82%AF%E7%AE%A1%E7%90%86)
 - [
-	#Obsidian
+	
 	](https://note.com/hashtag/Obsidian)
 
 [![note会員1000万人突破記念　1000万ポイントみんなで山分け祭　エントリー7/8（火）まで](https://assets.st-note.com/poc-image/manual/production/20250623_1000_top_notedetail.jpg?width=620&dpr=2)](https://note.com/info/n/ncceb4a6506fc)

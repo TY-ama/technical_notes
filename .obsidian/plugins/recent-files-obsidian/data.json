@@ -1,16 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "DB (Access)",
-      "path": "Info Notes/DB (Access).md"
-    },
-    {
       "basename": "ぼくがかんがえた最強のObsidian設定｜古村藍",
       "path": "Clippings/ぼくがかんがえた最強のObsidian設定｜古村藍.md"
     },
     {
+      "basename": "Gemini-form",
+      "path": "Clippings/Gemini-form.md"
+    },
+    {
+      "basename": "Gemini-d-grid",
+      "path": "Clippings/Gemini-d-grid.md"
+    },
+    {
+      "basename": "コンテナ作成",
+      "path": "Docker/コンテナ作成.md"
+    },
+    {
+      "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで 1",
+      "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで 1.md"
+    },
+    {
+      "basename": "Dockerfile(webページとは若干違う)",
+      "path": "Docker/Dockerfile(webページとは若干違う).md"
+    },
+    {
+      "basename": "build時のエラー",
+      "path": "Docker/build時のエラー.md"
+    },
+    {
+      "basename": "Dockerとは",
+      "path": "Docker/Dockerとは.md"
+    },
+    {
+      "basename": "Dockerコマンド",
+      "path": "Docker/Dockerコマンド.md"
+    },
+    {
+      "basename": "key error",
+      "path": "Docker/key error.md"
+    },
+    {
+      "basename": "Linux (Ubuntu24.04) へのインストール",
+      "path": "Docker/Linux (Ubuntu24.04) へのインストール.md"
+    },
+    {
+      "basename": "WSL導入→VScode連携→docker導入→",
+      "path": "Docker/WSL導入→VScode連携→docker導入→.md"
+    },
+    {
+      "basename": "基本用語",
+      "path": "Docker/基本用語.md"
+    },
+    {
+      "basename": "権限変更",
+      "path": "Docker/権限変更.md"
+    },
+    {
+      "basename": "コンテナの入り方",
+      "path": "Docker/コンテナの入り方.md"
+    },
+    {
+      "basename": "template",
+      "path": "Templates/template.md"
+    },
+    {
       "basename": "oblogger",
       "path": "Info Notes/oblogger.md"
+    },
+    {
+      "basename": "DB (Access)",
+      "path": "Info Notes/DB (Access).md"
     },
     {
       "basename": "やること",
@@ -19,10 +79,6 @@
     {
       "basename": "2025-07-18-成果発表",
       "path": "docs/2025-07-18-成果発表.md"
-    },
-    {
-      "basename": "Dockerとは",
-      "path": "Docker/Dockerとは.md"
     },
     {
       "basename": "今回使用するバージョン",
@@ -37,14 +93,6 @@
       "path": "Clippings/Gemini-grid+table.md"
     },
     {
-      "basename": "Gemini-form",
-      "path": "Clippings/Gemini-form.md"
-    },
-    {
-      "basename": "Gemini-d-grid",
-      "path": "Clippings/Gemini-d-grid.md"
-    },
-    {
       "basename": "プログラムを埋め込む",
       "path": "Markdown/プログラムを埋め込む.md"
     },
@@ -53,16 +101,8 @@
       "path": "res/Pasted image 20250703115217.png"
     },
     {
-      "basename": "build時のエラー",
-      "path": "Docker/build時のエラー.md"
-    },
-    {
       "basename": "課題一覧",
       "path": "docs/課題一覧.md"
-    },
-    {
-      "basename": "template",
-      "path": "Templates/template.md"
     },
     {
       "basename": "Ubuntu連携",
