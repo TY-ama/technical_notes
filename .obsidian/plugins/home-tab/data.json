@@ -24,24 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Clippings/ぼくがかんがえた最強のObsidian設定｜古村藍.md",
-      "timestamp": 1751739340091
+      "filepath": "Docker/Railsアプリ作成まで.md",
+      "timestamp": 1753200332415
     },
     {
-      "filepath": "Clippings/Gemini-form.md",
-      "timestamp": 1751739338612
+      "filepath": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md",
+      "timestamp": 1753200331785
     },
     {
-      "filepath": "Clippings/Gemini-d-grid.md",
-      "timestamp": 1751739331159
+      "filepath": "Clippings/windowsにWSL2+Docker環境を構築する手順.md",
+      "timestamp": 1753200331074
     },
     {
-      "filepath": "Docker/コンテナ作成.md",
-      "timestamp": 1751739240978
-    },
-    {
-      "filepath": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで 1.md",
-      "timestamp": 1751739201187
+      "filepath": "Docker/Dockerfile(webページとは若干違う).md",
+      "timestamp": 1753199279779
     }
   ],
   "bookmarkedFileStore": [],

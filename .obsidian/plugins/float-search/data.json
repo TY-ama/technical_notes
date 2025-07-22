@@ -4,7 +4,7 @@
     "explainSearch": false,
     "extraContext": false,
     "matchingCase": false,
-    "query": "tag:t-notes/DB",
+    "query": "tag:t-notes/Docker",
     "sortOrder": "alphabetical"
   },
   "showFilePath": false,

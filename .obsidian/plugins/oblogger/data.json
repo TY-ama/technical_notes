@@ -80,7 +80,9 @@
       "groupType": "tag_group",
       "openFolders": [
         "/",
-        "//DB",
+        "//AI生成",
+        "//Docker",
+        "//Docker/導入",
         "//Obsidian",
         "//Rails",
         "//Ruby",

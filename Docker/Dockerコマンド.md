@@ -1,6 +1,4 @@
-# Dockerコマンド一覧
-
-Dockerの操作に使用するコマンドの一覧です。
+> Dockerの操作に使用するコマンドの一覧です。
 
 ### Dockerデーモンとユーザー権限
 
@@ -10,7 +8,6 @@ Dockerの操作に使用するコマンドの一覧です。
 -   これにより、`docker` コマンドを実行する際に毎回 `sudo` を付ける必要がなくなります。
 -   `<ユーザー名>` の部分は、実際のユーザー名に置き換えてください。
 -   参考情報:
-    -   [Qiita: dockerコマンドをsudoなしで実行する](https://qiita.com/k5n/items/2212b87feac5ebc33ecb)
     -   [KAGOYA CLOUD: UbuntuにDockerをインストールする](https://www.kagoya.jp/howto/cloud/container/dockerubuntu/)
 
 ### イメージ関連コマンド

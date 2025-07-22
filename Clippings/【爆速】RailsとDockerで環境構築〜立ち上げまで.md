@@ -1,13 +1,15 @@
 ---
-title: "【爆速】RailsとDockerで環境構築〜立ち上げまで"
-source: "https://qiita.com/3Zz8Xx/items/3341a795e1c6fa24bf33"
+title: 【爆速】RailsとDockerで環境構築〜立ち上げまで
+source: https://qiita.com/3Zz8Xx/items/3341a795e1c6fa24bf33
 author:
   - "[[3Zz8Xx]]"
 published: 2022-11-01
 created: 2025-07-06
-description: "今回は、RailsとDockerの環境構築をして簡単なアプリケーション作成までざっくりとまとめてみました。 この記事にした経緯として、これまでは、主にRuby on Rails（以下 Rails）を使った社内のシステムや副業で運営していたサブスク型のサービス開発をしていたの..."
+description: 今回は、RailsとDockerの環境構築をして簡単なアプリケーション作成までざっくりとまとめてみました。 この記事にした経緯として、これまでは、主にRuby on Rails（以下 Rails）を使った社内のシステムや副業で運営していたサブスク型のサービス開発をしていたの...
 tags:
-  - "t-notes/clippings"
+  - t-notes/clippings
+  - t-notes/Docker/導入
+  - t-notes/Rails
 ---
 
 今回は、RailsとDockerの環境構築をして簡単なアプリケーション作成までざっくりとまとめてみました。
@@ -249,7 +251,7 @@ services:
 
 ```gemfile
 source 'https://rubygems.org'
-gem 'rails', '~> 6.1.4'
+gem 'rails', '~> 7.1.5'
 ```
 
 今回インストールするRailsのバージョンを指定します。

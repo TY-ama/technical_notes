@@ -1,5 +1,6 @@
 {
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "showUnsupportedFiles": true
 }

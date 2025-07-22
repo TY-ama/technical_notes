@@ -1,24 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "ぼくがかんがえた最強のObsidian設定｜古村藍",
-      "path": "Clippings/ぼくがかんがえた最強のObsidian設定｜古村藍.md"
+      "basename": "Railsアプリ作成まで",
+      "path": "Docker/Railsアプリ作成まで.md"
     },
     {
-      "basename": "Gemini-form",
-      "path": "Clippings/Gemini-form.md"
+      "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで",
+      "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md"
     },
     {
-      "basename": "Gemini-d-grid",
-      "path": "Clippings/Gemini-d-grid.md"
-    },
-    {
-      "basename": "コンテナ作成",
-      "path": "Docker/コンテナ作成.md"
-    },
-    {
-      "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで 1",
-      "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで 1.md"
+      "basename": "windowsにWSL2+Docker環境を構築する手順",
+      "path": "Clippings/windowsにWSL2+Docker環境を構築する手順.md"
     },
     {
       "basename": "Dockerfile(webページとは若干違う)",
@@ -29,40 +21,116 @@
       "path": "Docker/build時のエラー.md"
     },
     {
-      "basename": "Dockerとは",
-      "path": "Docker/Dockerとは.md"
-    },
-    {
-      "basename": "Dockerコマンド",
-      "path": "Docker/Dockerコマンド.md"
-    },
-    {
-      "basename": "key error",
-      "path": "Docker/key error.md"
-    },
-    {
-      "basename": "Linux (Ubuntu24.04) へのインストール",
-      "path": "Docker/Linux (Ubuntu24.04) へのインストール.md"
-    },
-    {
-      "basename": "WSL導入→VScode連携→docker導入→",
-      "path": "Docker/WSL導入→VScode連携→docker導入→.md"
-    },
-    {
       "basename": "基本用語",
       "path": "Docker/基本用語.md"
-    },
-    {
-      "basename": "権限変更",
-      "path": "Docker/権限変更.md"
     },
     {
       "basename": "コンテナの入り方",
       "path": "Docker/コンテナの入り方.md"
     },
     {
+      "basename": "Linux (Ubuntu24.04) へのインストール",
+      "path": "Docker/Linux (Ubuntu24.04) へのインストール.md"
+    },
+    {
+      "basename": "key error",
+      "path": "Docker/key error.md"
+    },
+    {
+      "basename": "Dockerコマンド",
+      "path": "Docker/Dockerコマンド.md"
+    },
+    {
+      "basename": "ぼくがかんがえた最強のObsidian設定｜古村藍",
+      "path": "Clippings/ぼくがかんがえた最強のObsidian設定｜古村藍.md"
+    },
+    {
+      "basename": "今回使用するバージョン",
+      "path": "docs/今回使用するバージョン.md"
+    },
+    {
+      "basename": "Pasted image 20250613161244",
+      "path": "res/Pasted image 20250613161244.png"
+    },
+    {
+      "basename": "Pasted image 20250613161123",
+      "path": "res/Pasted image 20250613161123.png"
+    },
+    {
+      "basename": "Pasted image 20250619112456",
+      "path": "res/Pasted image 20250619112456.png"
+    },
+    {
+      "basename": "Pasted image 20250619115500",
+      "path": "res/Pasted image 20250619115500.png"
+    },
+    {
+      "basename": "Pasted image 20250703115217",
+      "path": "res/Pasted image 20250703115217.png"
+    },
+    {
+      "basename": "スクリーンショット 2025-07-03 002600",
+      "path": "res/スクリーンショット 2025-07-03 002600.png"
+    },
+    {
+      "basename": "スクリーンショット 2025-07-03 003321",
+      "path": "res/スクリーンショット 2025-07-03 003321.png"
+    },
+    {
+      "basename": "Gemini-Docker-本番環境",
+      "path": "Docker/Gemini-Docker-本番環境.md"
+    },
+    {
+      "basename": "Dockerとは",
+      "path": "Docker/Dockerとは.md"
+    },
+    {
+      "basename": "2025-07-18-成果発表",
+      "path": "docs/2025-07-18-成果発表.md"
+    },
+    {
+      "basename": "attr_accessor(属性アクセサ)",
+      "path": "Ruby/class/attr_accessor(属性アクセサ).md"
+    },
+    {
+      "basename": "クラスとインスタンス",
+      "path": "Ruby/class/クラスとインスタンス.md"
+    },
+    {
+      "basename": "権限変更",
+      "path": "Docker/権限変更.md"
+    },
+    {
       "basename": "template",
       "path": "Templates/template.md"
+    },
+    {
+      "basename": "Gemini-d-grid",
+      "path": "Clippings/Gemini-d-grid.md"
+    },
+    {
+      "basename": "見本",
+      "path": "Rails/Railsアプリ/見本.md"
+    },
+    {
+      "basename": "ログアウト時にNo route matchesが出る場合",
+      "path": "Rails/Railsアプリ/ログアウト時にNo route matchesが出る場合.md"
+    },
+    {
+      "basename": "ルーティングの登録",
+      "path": "Rails/Railsアプリ/ルーティングの登録.md"
+    },
+    {
+      "basename": "コントローラ",
+      "path": "Rails/Railsアプリ/コントローラ.md"
+    },
+    {
+      "basename": "viewの生成",
+      "path": "Rails/Railsアプリ/viewの生成.md"
+    },
+    {
+      "basename": "Gemini-form",
+      "path": "Clippings/Gemini-form.md"
     },
     {
       "basename": "oblogger",
@@ -77,14 +145,6 @@
       "path": "docs/やること.md"
     },
     {
-      "basename": "2025-07-18-成果発表",
-      "path": "docs/2025-07-18-成果発表.md"
-    },
-    {
-      "basename": "今回使用するバージョン",
-      "path": "docs/今回使用するバージョン.md"
-    },
-    {
       "basename": "Gemini-margin",
       "path": "Clippings/Gemini-margin.md"
     },
@@ -95,10 +155,6 @@
     {
       "basename": "プログラムを埋め込む",
       "path": "Markdown/プログラムを埋め込む.md"
-    },
-    {
-      "basename": "Pasted image 20250703115217",
-      "path": "res/Pasted image 20250703115217.png"
     },
     {
       "basename": "課題一覧",
