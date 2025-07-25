@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Railsアプリ作成まで",
-      "path": "Docker/Railsアプリ作成まで.md"
+      "basename": "ぼくがかんがえた最強のObsidian設定｜古村藍",
+      "path": "Clippings/ぼくがかんがえた最強のObsidian設定｜古村藍.md"
+    },
+    {
+      "basename": "保管庫増設時",
+      "path": "Info Notes/保管庫増設時.md"
+    },
+    {
+      "basename": "コメントアウト",
+      "path": "Info Notes/コメントアウト.md"
+    },
+    {
+      "basename": "アプリ作成の流れ",
+      "path": "Rails/在庫管理アプリ/アプリ作成の流れ.md"
+    },
+    {
+      "basename": "導入の流れ",
+      "path": "Docker/導入の流れ.md"
     },
     {
       "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで",
@@ -13,6 +29,18 @@
       "path": "Clippings/windowsにWSL2+Docker環境を構築する手順.md"
     },
     {
+      "basename": "Git設定",
+      "path": "Info Notes/Git設定.md"
+    },
+    {
+      "basename": "コールアウト",
+      "path": "Info Notes/コールアウト.md"
+    },
+    {
+      "basename": "オンライン自習室アプリを個人で開発した件",
+      "path": "Clippings/オンライン自習室アプリを個人で開発した件.md"
+    },
+    {
       "basename": "Dockerfile(webページとは若干違う)",
       "path": "Docker/Dockerfile(webページとは若干違う).md"
     },
@@ -21,12 +49,36 @@
       "path": "Docker/build時のエラー.md"
     },
     {
+      "basename": "Dockerコマンド",
+      "path": "Docker/Dockerコマンド.md"
+    },
+    {
+      "basename": "命名規則",
+      "path": "Ruby/命名規則.md"
+    },
+    {
+      "basename": "メソッド作成",
+      "path": "Ruby/class/メソッド作成.md"
+    },
+    {
+      "basename": "attr_accessor(属性アクセサ)",
+      "path": "Ruby/class/attr_accessor(属性アクセサ).md"
+    },
+    {
       "basename": "基本用語",
       "path": "Docker/基本用語.md"
     },
     {
+      "basename": "Gemini-margin",
+      "path": "Clippings/Gemini-margin.md"
+    },
+    {
       "basename": "コンテナの入り方",
       "path": "Docker/コンテナの入り方.md"
+    },
+    {
+      "basename": "newとcreateの違い",
+      "path": "Rails/在庫管理アプリ/newとcreateの違い.md"
     },
     {
       "basename": "Linux (Ubuntu24.04) へのインストール",
@@ -35,14 +87,6 @@
     {
       "basename": "key error",
       "path": "Docker/key error.md"
-    },
-    {
-      "basename": "Dockerコマンド",
-      "path": "Docker/Dockerコマンド.md"
-    },
-    {
-      "basename": "ぼくがかんがえた最強のObsidian設定｜古村藍",
-      "path": "Clippings/ぼくがかんがえた最強のObsidian設定｜古村藍.md"
     },
     {
       "basename": "今回使用するバージョン",
@@ -87,10 +131,6 @@
     {
       "basename": "2025-07-18-成果発表",
       "path": "docs/2025-07-18-成果発表.md"
-    },
-    {
-      "basename": "attr_accessor(属性アクセサ)",
-      "path": "Ruby/class/attr_accessor(属性アクセサ).md"
     },
     {
       "basename": "クラスとインスタンス",
@@ -145,10 +185,6 @@
       "path": "docs/やること.md"
     },
     {
-      "basename": "Gemini-margin",
-      "path": "Clippings/Gemini-margin.md"
-    },
-    {
       "basename": "Gemini-grid+table",
       "path": "Clippings/Gemini-grid+table.md"
     },
@@ -159,34 +195,6 @@
     {
       "basename": "課題一覧",
       "path": "docs/課題一覧.md"
-    },
-    {
-      "basename": "Ubuntu連携",
-      "path": "Git/Ubuntu連携.md"
-    },
-    {
-      "basename": "mysql2",
-      "path": "Ruby/mysql2.md"
-    },
-    {
-      "basename": "puts",
-      "path": "Ruby/puts.md"
-    },
-    {
-      "basename": "putsやprint",
-      "path": "Ruby/putsやprint.md"
-    },
-    {
-      "basename": "コメント文",
-      "path": "Ruby/コメント文.md"
-    },
-    {
-      "basename": "ターミナル",
-      "path": "Ruby/ターミナル.md"
-    },
-    {
-      "basename": "アプリ作成の流れ",
-      "path": "Rails/在庫管理アプリ/アプリ作成の流れ.md"
     }
   ],
   "omittedPaths": [],

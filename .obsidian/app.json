@@ -2,5 +2,7 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "strictLineBreaks": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "General Notes"
 }
