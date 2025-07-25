@@ -80,13 +80,8 @@
       "groupType": "tag_group",
       "openFolders": [
         "/",
-        "//Docker",
         "//Docker/導入",
-        "//Obsidian",
-        "//Rails",
-        "//Ruby",
-        "//clippings",
-        "//docs"
+        "//clippings"
       ],
       "isVisible": true,
       "isPinned": false,
