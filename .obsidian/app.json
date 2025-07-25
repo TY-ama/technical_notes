@@ -4,5 +4,6 @@
   "strictLineBreaks": false,
   "showUnsupportedFiles": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "General Notes"
+  "newFileFolderPath": "General Notes",
+  "attachmentFolderPath": "res"
 }
