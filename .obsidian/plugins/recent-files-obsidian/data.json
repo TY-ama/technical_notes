@@ -5,6 +5,10 @@
       "path": "Rails/在庫管理アプリ/アプリ作成の流れ.md"
     },
     {
+      "basename": "MVCモデルとは",
+      "path": "Rails/MVCモデルとは.md"
+    },
+    {
       "basename": "@name(インスタンス変数)",
       "path": "Ruby/class/@name(インスタンス変数).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Dockerとは",
       "path": "Docker/Dockerとは.md"
-    },
-    {
-      "basename": "2025-07-18-成果発表",
-      "path": "docs/2025-07-18-成果発表.md"
     }
   ],
   "omittedPaths": [],

@@ -25,11 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "Rails/在庫管理アプリ/アプリ作成の流れ.md",
-      "timestamp": 1753721517896
+      "timestamp": 1753722308811
+    },
+    {
+      "filepath": "Rails/MVCモデルとは.md",
+      "timestamp": 1753722307417
     },
     {
       "filepath": "Ruby/class/@name(インスタンス変数).md",
-      "timestamp": 1753721503804
+      "timestamp": 1753722305746
     },
     {
       "filepath": "Ruby/class/クラスとインスタンス.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "Rails/Railsアプリ/コントローラ.md",
       "timestamp": 1753721493252
-    },
-    {
-      "filepath": "Ruby/配列.md",
-      "timestamp": 1753718731182
     }
   ],
   "bookmarkedFileStore": [],
