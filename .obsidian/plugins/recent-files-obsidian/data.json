@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "コンテナの入り方",
-      "path": "Docker/コンテナの入り方.md"
-    },
-    {
       "basename": "アプリ作成の流れ",
       "path": "Rails/在庫管理アプリ/アプリ作成の流れ.md"
+    },
+    {
+      "basename": "コンテナの入り方",
+      "path": "Docker/コンテナの入り方.md"
     },
     {
       "basename": "ぼくがかんがえた最強のObsidian設定｜古村藍",
