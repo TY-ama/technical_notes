@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Rails/Railsアプリ/コントローラ.md",
+      "timestamp": 1753718734452
+    },
+    {
+      "filepath": "Ruby/配列.md",
+      "timestamp": 1753718731182
+    },
+    {
       "filepath": "Rails/在庫管理アプリ/アプリ作成の流れ.md",
-      "timestamp": 1753717567755
+      "timestamp": 1753718712311
     },
     {
-      "filepath": "Docker/コンテナの入り方.md",
-      "timestamp": 1753717406462
+      "filepath": "Ruby/型指定.md",
+      "timestamp": 1753718695806
     },
     {
-      "filepath": "Clippings/ぼくがかんがえた最強のObsidian設定｜古村藍.md",
-      "timestamp": 1753717238313
-    },
-    {
-      "filepath": "res/Pasted image 20250725194953.png",
-      "timestamp": 1753717237904
-    },
-    {
-      "filepath": "res/Pasted image 20250725194716.png",
-      "timestamp": 1753717237006
+      "filepath": "Ruby/繰り返し.md",
+      "timestamp": 1753718695124
     }
   ],
   "bookmarkedFileStore": [],

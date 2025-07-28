@@ -1,8 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "コントローラ",
+      "path": "Rails/Railsアプリ/コントローラ.md"
+    },
+    {
+      "basename": "配列",
+      "path": "Ruby/配列.md"
+    },
+    {
       "basename": "アプリ作成の流れ",
       "path": "Rails/在庫管理アプリ/アプリ作成の流れ.md"
+    },
+    {
+      "basename": "型指定",
+      "path": "Ruby/型指定.md"
+    },
+    {
+      "basename": "繰り返し",
+      "path": "Ruby/繰り返し.md"
+    },
+    {
+      "basename": "ハッシュ",
+      "path": "Ruby/ハッシュ.md"
+    },
+    {
+      "basename": "ターミナル",
+      "path": "Ruby/ターミナル.md"
+    },
+    {
+      "basename": "コメント文",
+      "path": "Ruby/コメント文.md"
+    },
+    {
+      "basename": "putsやprint",
+      "path": "Ruby/putsやprint.md"
+    },
+    {
+      "basename": "puts",
+      "path": "Ruby/puts.md"
+    },
+    {
+      "basename": "mysql2",
+      "path": "Ruby/mysql2.md"
+    },
+    {
+      "basename": "メソッド作成",
+      "path": "Ruby/class/メソッド作成.md"
+    },
+    {
+      "basename": "クラスとインスタンス",
+      "path": "Ruby/class/クラスとインスタンス.md"
+    },
+    {
+      "basename": "initilize",
+      "path": "Ruby/class/initilize.md"
+    },
+    {
+      "basename": "attr_accessor(属性アクセサ)",
+      "path": "Ruby/class/attr_accessor(属性アクセサ).md"
+    },
+    {
+      "basename": "@name(インスタンス変数)",
+      "path": "Ruby/class/@name(インスタンス変数).md"
     },
     {
       "basename": "コンテナの入り方",
@@ -105,14 +165,6 @@
       "path": "Ruby/命名規則.md"
     },
     {
-      "basename": "メソッド作成",
-      "path": "Ruby/class/メソッド作成.md"
-    },
-    {
-      "basename": "attr_accessor(属性アクセサ)",
-      "path": "Ruby/class/attr_accessor(属性アクセサ).md"
-    },
-    {
       "basename": "基本用語",
       "path": "Docker/基本用語.md"
     },
@@ -147,58 +199,6 @@
     {
       "basename": "2025-07-18-成果発表",
       "path": "docs/2025-07-18-成果発表.md"
-    },
-    {
-      "basename": "クラスとインスタンス",
-      "path": "Ruby/class/クラスとインスタンス.md"
-    },
-    {
-      "basename": "権限変更",
-      "path": "Docker/権限変更.md"
-    },
-    {
-      "basename": "template",
-      "path": "Templates/template.md"
-    },
-    {
-      "basename": "Gemini-d-grid",
-      "path": "Clippings/Gemini-d-grid.md"
-    },
-    {
-      "basename": "見本",
-      "path": "Rails/Railsアプリ/見本.md"
-    },
-    {
-      "basename": "ログアウト時にNo route matchesが出る場合",
-      "path": "Rails/Railsアプリ/ログアウト時にNo route matchesが出る場合.md"
-    },
-    {
-      "basename": "ルーティングの登録",
-      "path": "Rails/Railsアプリ/ルーティングの登録.md"
-    },
-    {
-      "basename": "コントローラ",
-      "path": "Rails/Railsアプリ/コントローラ.md"
-    },
-    {
-      "basename": "viewの生成",
-      "path": "Rails/Railsアプリ/viewの生成.md"
-    },
-    {
-      "basename": "Gemini-form",
-      "path": "Clippings/Gemini-form.md"
-    },
-    {
-      "basename": "oblogger",
-      "path": "Info Notes/oblogger.md"
-    },
-    {
-      "basename": "DB (Access)",
-      "path": "Info Notes/DB (Access).md"
-    },
-    {
-      "basename": "やること",
-      "path": "docs/やること.md"
     }
   ],
   "omittedPaths": [],
