@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "クラスとインスタンス",
+      "path": "Ruby/class/クラスとインスタンス.md"
+    },
+    {
+      "basename": "@name(インスタンス変数)",
+      "path": "Ruby/class/@name(インスタンス変数).md"
+    },
+    {
       "basename": "アプリ作成の流れ",
       "path": "Rails/在庫管理アプリ/アプリ作成の流れ.md"
     },
@@ -49,20 +57,12 @@
       "path": "Ruby/class/メソッド作成.md"
     },
     {
-      "basename": "クラスとインスタンス",
-      "path": "Ruby/class/クラスとインスタンス.md"
-    },
-    {
       "basename": "initilize",
       "path": "Ruby/class/initilize.md"
     },
     {
       "basename": "attr_accessor(属性アクセサ)",
       "path": "Ruby/class/attr_accessor(属性アクセサ).md"
-    },
-    {
-      "basename": "@name(インスタンス変数)",
-      "path": "Ruby/class/@name(インスタンス変数).md"
     },
     {
       "basename": "コンテナの入り方",

@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Ruby/class/クラスとインスタンス.md",
+      "timestamp": 1753721091624
+    },
+    {
+      "filepath": "Ruby/class/@name(インスタンス変数).md",
+      "timestamp": 1753721087748
+    },
+    {
       "filepath": "Rails/在庫管理アプリ/アプリ作成の流れ.md",
       "timestamp": 1753720336867
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "Ruby/配列.md",
       "timestamp": 1753718731182
-    },
-    {
-      "filepath": "Ruby/型指定.md",
-      "timestamp": 1753718695806
-    },
-    {
-      "filepath": "Ruby/繰り返し.md",
-      "timestamp": 1753718695124
     }
   ],
   "bookmarkedFileStore": [],
