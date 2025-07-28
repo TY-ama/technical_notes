@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "コンテナの入り方",
+      "path": "Docker/コンテナの入り方.md"
+    },
+    {
+      "basename": "アプリ作成の流れ",
+      "path": "Rails/在庫管理アプリ/アプリ作成の流れ.md"
+    },
+    {
       "basename": "ぼくがかんがえた最強のObsidian設定｜古村藍",
       "path": "Clippings/ぼくがかんがえた最強のObsidian設定｜古村藍.md"
+    },
+    {
+      "basename": "Pasted image 20250725194953",
+      "path": "res/Pasted image 20250725194953.png"
+    },
+    {
+      "basename": "Pasted image 20250725194716",
+      "path": "res/Pasted image 20250725194716.png"
     },
     {
       "basename": "「Obsidian Git」を導入してみた。｜devlive",
@@ -47,10 +63,6 @@
     {
       "basename": "コメントアウト",
       "path": "Info Notes/コメントアウト.md"
-    },
-    {
-      "basename": "アプリ作成の流れ",
-      "path": "Rails/在庫管理アプリ/アプリ作成の流れ.md"
     },
     {
       "basename": "導入の流れ",
@@ -107,10 +119,6 @@
     {
       "basename": "Gemini-margin",
       "path": "Clippings/Gemini-margin.md"
-    },
-    {
-      "basename": "コンテナの入り方",
-      "path": "Docker/コンテナの入り方.md"
     },
     {
       "basename": "newとcreateの違い",
@@ -191,14 +199,6 @@
     {
       "basename": "やること",
       "path": "docs/やること.md"
-    },
-    {
-      "basename": "Gemini-grid+table",
-      "path": "Clippings/Gemini-grid+table.md"
-    },
-    {
-      "basename": "プログラムを埋め込む",
-      "path": "Markdown/プログラムを埋め込む.md"
     }
   ],
   "omittedPaths": [],
