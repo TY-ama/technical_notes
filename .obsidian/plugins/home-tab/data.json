@@ -24,16 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Rails/在庫管理アプリ/アプリ作成の流れ.md",
+      "timestamp": 1753720336867
+    },
+    {
       "filepath": "Rails/Railsアプリ/コントローラ.md",
-      "timestamp": 1753718734452
+      "timestamp": 1753720334226
     },
     {
       "filepath": "Ruby/配列.md",
       "timestamp": 1753718731182
-    },
-    {
-      "filepath": "Rails/在庫管理アプリ/アプリ作成の流れ.md",
-      "timestamp": 1753718712311
     },
     {
       "filepath": "Ruby/型指定.md",
