@@ -81,6 +81,8 @@
       "openFolders": [
         "/",
         "//Docker/導入",
+        "//Git",
+        "//Obsidian",
         "//Rails"
       ],
       "isVisible": true,
