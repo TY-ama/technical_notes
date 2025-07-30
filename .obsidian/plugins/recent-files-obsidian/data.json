@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "コントローラ",
+      "path": "Rails/Railsアプリ/コントローラ.md"
+    },
+    {
       "basename": "アプリ作成の流れ",
       "path": "Rails/在庫管理アプリ/アプリ作成の流れ.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "クラスとインスタンス",
       "path": "Ruby/class/クラスとインスタンス.md"
-    },
-    {
-      "basename": "コントローラ",
-      "path": "Rails/Railsアプリ/コントローラ.md"
     },
     {
       "basename": "配列",
