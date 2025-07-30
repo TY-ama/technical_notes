@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "コメントアウト(erb)",
+      "path": "Rails/コメントアウト(erb).md"
+    },
+    {
+      "basename": "Gemini-form",
+      "path": "Clippings/Gemini-form.md"
+    },
+    {
+      "basename": "コメント文",
+      "path": "Ruby/コメント文.md"
+    },
+    {
+      "basename": "%=、%とは",
+      "path": "Rails/%=、%とは.md"
+    },
+    {
       "basename": "アプリ作成の流れ",
       "path": "Rails/在庫管理アプリ/アプリ作成の流れ.md"
     },
@@ -47,10 +63,6 @@
     {
       "basename": "ターミナル",
       "path": "Ruby/ターミナル.md"
-    },
-    {
-      "basename": "コメント文",
-      "path": "Ruby/コメント文.md"
     },
     {
       "basename": "putsやprint",
@@ -187,18 +199,6 @@
     {
       "basename": "key error",
       "path": "Docker/key error.md"
-    },
-    {
-      "basename": "今回使用するバージョン",
-      "path": "docs/今回使用するバージョン.md"
-    },
-    {
-      "basename": "Gemini-Docker-本番環境",
-      "path": "Docker/Gemini-Docker-本番環境.md"
-    },
-    {
-      "basename": "Dockerとは",
-      "path": "Docker/Dockerとは.md"
     }
   ],
   "omittedPaths": [],

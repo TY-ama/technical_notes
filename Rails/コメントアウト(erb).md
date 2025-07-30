@@ -1,6 +1,4 @@
-# コメントアウト
-
-RailsのERB (Embedded Ruby) ファイルでのコメントアウト方法です。
+>RailsのERB (Embedded Ruby) ファイルでのコメントアウト方法です。
 
 - **単一行コメント**:
   ```erb
