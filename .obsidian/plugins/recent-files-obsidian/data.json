@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Railsアプリ作成の流れ",
+      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
+    },
+    {
+      "basename": "%=、%とは",
+      "path": "Rails/%=、%とは.md"
+    },
+    {
       "basename": "コメントアウト(erb)",
       "path": "Rails/コメントアウト(erb).md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "コメント文",
       "path": "Ruby/コメント文.md"
-    },
-    {
-      "basename": "%=、%とは",
-      "path": "Rails/%=、%とは.md"
-    },
-    {
-      "basename": "アプリ作成の流れ",
-      "path": "Rails/在庫管理アプリ/アプリ作成の流れ.md"
     },
     {
       "basename": "コントローラ",

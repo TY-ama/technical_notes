@@ -3,8 +3,6 @@ tags:
   - t-notes/Rails
 datetimeCreate: 2025-07-25 17:57
 ---
-# Railsアプリケーションの作成手順
-
 ## 開発環境
 
 - **コンテナ内での作業**: Dockerコンテナ内で作業を行います。

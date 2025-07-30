@@ -24,7 +24,15 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Rails/コメントアウト.md",
+      "filepath": "Rails/在庫管理アプリ/アプリ作成の流れ.md",
+      "timestamp": 1753857583249
+    },
+    {
+      "filepath": "Rails/%=、%とは.md",
+      "timestamp": 1753857532527
+    },
+    {
+      "filepath": "Rails/コメントアウト(erb).md",
       "timestamp": 1753857312422
     },
     {
@@ -34,14 +42,6 @@
     {
       "filepath": "Ruby/コメント文.md",
       "timestamp": 1753857244481
-    },
-    {
-      "filepath": "Rails/%=、%とは.md",
-      "timestamp": 1753857168247
-    },
-    {
-      "filepath": "Rails/在庫管理アプリ/アプリ作成の流れ.md",
-      "timestamp": 1753857021486
     }
   ],
   "bookmarkedFileStore": [],
