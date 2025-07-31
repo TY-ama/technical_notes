@@ -24,24 +24,8 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Rails/在庫管理アプリ/アプリ作成の流れ.md",
-      "timestamp": 1753857583249
-    },
-    {
-      "filepath": "Rails/%=、%とは.md",
-      "timestamp": 1753857532527
-    },
-    {
-      "filepath": "Rails/コメントアウト(erb).md",
-      "timestamp": 1753857312422
-    },
-    {
-      "filepath": "Clippings/Gemini-form.md",
-      "timestamp": 1753857295156
-    },
-    {
-      "filepath": "Ruby/コメント文.md",
-      "timestamp": 1753857244481
+      "filepath": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md",
+      "timestamp": 1753965375930
     }
   ],
   "bookmarkedFileStore": [],
