@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "繰り返し(do)",
+      "path": "Ruby/繰り返し(do).md"
+    },
+    {
       "basename": "Git連携：複数PCメモ同期",
       "path": "Git/Git連携：複数PCメモ同期.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "型指定",
       "path": "Ruby/型指定.md"
-    },
-    {
-      "basename": "繰り返し",
-      "path": "Ruby/繰り返し.md"
     },
     {
       "basename": "ハッシュ",
