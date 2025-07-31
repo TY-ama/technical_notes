@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Git連携：複数PCメモ同期",
+      "path": "Git/Git連携：複数PCメモ同期.md"
+    },
+    {
       "basename": "Railsアプリ作成の流れ",
       "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Linux (Ubuntu24.04) へのインストール",
       "path": "Docker/Linux (Ubuntu24.04) へのインストール.md"
-    },
-    {
-      "basename": "key error",
-      "path": "Docker/key error.md"
     }
   ],
   "omittedPaths": [],
