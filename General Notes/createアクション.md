@@ -1,12 +1,10 @@
 ---
 tags:
-  - t-notes/HTML
-datetimeCreate: 2025-08-08 01:43
+  - t-notes/Rails
+datetimeCreate: 2025-08-08 01:47
 ---
-```html
-<br>
-```
-
+>フォームから送られてきたデータを処理する
+## 処理
 
 
 

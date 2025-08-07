@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "改行",
-      "path": "General Notes/改行.md"
+      "basename": "createアクション",
+      "path": "General Notes/createアクション.md"
+    },
+    {
+      "basename": "改行(br)",
+      "path": "General Notes/改行(br).md"
     },
     {
       "basename": "Railsアプリ作成の流れ",
@@ -195,10 +199,6 @@
     {
       "basename": "Gemini-margin",
       "path": "Clippings/Gemini-margin.md"
-    },
-    {
-      "basename": "newとcreateの違い",
-      "path": "Rails/在庫管理アプリ/newとcreateの違い.md"
     }
   ],
   "omittedPaths": [],
