@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "改行",
+      "path": "General Notes/改行.md"
+    },
+    {
       "basename": "Railsアプリ作成の流れ",
       "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "newとcreateの違い",
       "path": "Rails/在庫管理アプリ/newとcreateの違い.md"
-    },
-    {
-      "basename": "Linux (Ubuntu24.04) へのインストール",
-      "path": "Docker/Linux (Ubuntu24.04) へのインストール.md"
     }
   ],
   "omittedPaths": [],
