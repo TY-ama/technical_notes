@@ -18,7 +18,7 @@ datetimeCreate: 2025-07-25 17:57
     - **項目**:
 		- 部品名 (`partName`): 文字列型 (string)
 		- 個数 (`quantity`): 整数型 (integer)
-- **項目名の確認**: `db/schema.rb` ファイルで確認できます。
+- **項目名の確認**: `db/schema.rb` ファイルでデータベースの項目名が確認できます。
 
 - **モデル生成コマンド**:
   ```bash
