@@ -9,8 +9,11 @@ datetimeCreate: 2025-08-13 00:28
 ```html
 <%= button_to '削除', post, method: :delete, data: { turbo_confirm: '本当に削除しますか？' } %>
 ```
-### なぜdeleteを呼ぶのか
-
+### なぜ削除する物の指定をしないのか
+```ruby
+@posts.each do |post|
+```
+- ループ内でpostオブジェクトを渡すと
 
 
 
