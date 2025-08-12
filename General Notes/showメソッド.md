@@ -1,9 +1,10 @@
 ---
-tags: 
+tags:
+  - t-notes/Rails
 datetimeCreate: 2025-08-13 01:03
 ---
 
-
+詳細ページ
 
 
 

@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "showメソッド",
-      "path": "General Notes/showメソッド.md"
-    },
-    {
       "basename": "destroyメソッド",
       "path": "General Notes/destroyメソッド.md"
     },
     {
-      "basename": "Railsアプリ作成の流れ",
-      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
+      "basename": "showメソッド",
+      "path": "General Notes/showメソッド.md"
     },
     {
       "basename": "createアクション",
       "path": "General Notes/createアクション.md"
+    },
+    {
+      "basename": "Railsアプリ作成の流れ",
+      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
     },
     {
       "basename": "改行(br)",

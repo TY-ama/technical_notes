@@ -9,6 +9,14 @@ datetimeCreate: 2025-08-13 00:28
 ```html
 <%= button_to '削除', post, method: :delete, data: { turbo_confirm: '本当に削除しますか？' } %>
 ```
+### deleteは何？
+- DELETEリクエストのこと
+- HTTP
+	- GET: リソースを取得する（例: ページを表示する）
+	- POST: 新しいリソースを作成する（例: 新規投稿を作成する）
+	- PATCH / PUT: 既存のリソースを更新する（例: 投稿を編集する）
+	- **DELETE**: 既存のリソースを削除する
+
 ### なぜ削除する物の指定をしないのか
 ```ruby
 @posts.each do |post|
