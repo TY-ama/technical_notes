@@ -4,24 +4,7 @@ tags:
 datetimeCreate: 2025-08-13 00:28
 ---
 
-## 削除ボタンを実装するとき
-```html.erb
-<tbody>
-<% @posts.each do |post| %>
-  <tr>
-	<td><%= post.title %></td>
-	<td><%= link_to '詳細', post %></td>
-	<td><%= link_to '編集', edit_post_path(post) %></td>
-	<td>
-	  <%# ↓ ここがポイント！ %>
-	  <%= button_to '削除', post, method: :delete, data: { turbo_confirm: '本当に削除しますか？' } %>
-	</td>
-  </tr>
-<% end %>
-</tbody>
-```
-- `@posts.each do |post|`のループに入っているため、データの id はループごとに変わっている
-	- ループのなかで destroy を呼べば」
+
 
 
 
