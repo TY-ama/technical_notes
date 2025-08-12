@@ -5,10 +5,11 @@ datetimeCreate: 2025-08-13 00:28
 ---
 ## 削除ボタン
 
-- 通常 destroy.html.erb は作らず、view に削除ボタンを設置する
+- destroy アクションは基本一覧画面などにリダイレクトするため destroy.html.erbは作らない
 ```html
 <%= button_to '削除', post, method: :delete, data: { turbo_confirm: '本当に削除しますか？' } %>
 ```
+### なぜdeleteを呼ぶのか
 
 
 
