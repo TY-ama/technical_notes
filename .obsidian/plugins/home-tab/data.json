@@ -24,20 +24,8 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "General Notes/無題のファイル.md",
-      "timestamp": 1754585237451
-    },
-    {
-      "filepath": "General Notes/改行(br).md",
-      "timestamp": 1754585060092
-    },
-    {
-      "filepath": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md",
-      "timestamp": 1754585059421
-    },
-    {
-      "filepath": "Ruby/繰り返し(each do).md",
-      "timestamp": 1754584437275
+      "filepath": "General Notes/createアクション.md",
+      "timestamp": 1755011922625
     }
   ],
   "bookmarkedFileStore": [],
