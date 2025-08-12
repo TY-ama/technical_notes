@@ -1,22 +1,8 @@
 ---
-tags:
-  - t-notes/Rails
-datetimeCreate: 2025-08-13 00:28
+tags: 
+datetimeCreate: 2025-08-13 01:03
 ---
-## 削除ボタン
 
-- destroy アクションは基本一覧画面などにリダイレクトするため destroy.html.erbは作らない
-```html
-<%= button_to '削除', post, method: :delete, data: { turbo_confirm: '本当に削除しますか？' } %>
-```
-### なぜ削除する物の指定をしないのか
-```ruby
-@posts.each do |post|
-```
-- ループ内のpost:
-	- ループで現在扱っているオブジェクト (例：idが1の投稿、次にidが2の投稿...)が 入っている
-- Railsにpostを渡すと:
-	- 自動的にそのデータのidを含んだURL (例：/posts/1) を生成
 
 
 
