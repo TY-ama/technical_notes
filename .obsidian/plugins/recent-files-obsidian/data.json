@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "destroyメソッド",
+      "path": "General Notes/destroyメソッド.md"
+    },
+    {
       "basename": "Railsアプリ作成の流れ",
       "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "基本用語",
       "path": "Docker/基本用語.md"
-    },
-    {
-      "basename": "Gemini-margin",
-      "path": "Clippings/Gemini-margin.md"
     }
   ],
   "omittedPaths": [],
