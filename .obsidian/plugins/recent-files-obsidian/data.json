@@ -5,12 +5,12 @@
       "path": "General Notes/createアクション.md"
     },
     {
-      "basename": "改行(br)",
-      "path": "General Notes/改行(br).md"
-    },
-    {
       "basename": "Railsアプリ作成の流れ",
       "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
+    },
+    {
+      "basename": "改行(br)",
+      "path": "General Notes/改行(br).md"
     },
     {
       "basename": "繰り返し(each do)",
