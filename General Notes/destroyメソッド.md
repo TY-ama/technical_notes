@@ -18,7 +18,14 @@ datetimeCreate: 2025-08-13 00:28
 	- PATCH / PUT: 既存のリソースを更新する（例: 投稿を編集する）
 	- **DELETE**: 既存のリソースを削除する
 	-　button_to の method: :delete は、ブラウザに「サーバーに対して **DELETE という種類の通信** をしてください」と指示するためのものです。
-- railsアプリ
+- railsアプリのdestroyアクション
+
+| 操作 (CRUD)       | アクション名       | 対応するHTTPメソッド   |
+| --------------- | ------------ | -------------- |
+| **C**reate (作成) | new, create  | GET, POST      |
+| **R**ead (読み取り) | index, show  | GET            |
+| **U**pdate (更新) | edit, update | GET, PATCH/PUT |
+| **D**elete (削除) | destroy      | DELETE         |
 
 ### なぜ削除する物の指定をしないのか
 ```ruby
