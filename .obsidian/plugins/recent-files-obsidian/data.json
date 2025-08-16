@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "無題のファイル",
+      "path": "General Notes/無題のファイル.md"
+    },
+    {
       "basename": "destroyメソッド",
       "path": "General Notes/destroyメソッド.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Dockerコマンド",
       "path": "Docker/Dockerコマンド.md"
-    },
-    {
-      "basename": "命名規則",
-      "path": "Ruby/命名規則.md"
     }
   ],
   "omittedPaths": [],
