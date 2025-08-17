@@ -81,6 +81,7 @@
       "openFolders": [
         "/",
         "//DB",
+        "//Docker",
         "//Obsidian",
         "//Rails",
         "//Ruby",
