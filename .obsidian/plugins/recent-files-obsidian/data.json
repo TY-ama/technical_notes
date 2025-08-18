@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "無題のファイル 1",
+      "path": "General Notes/無題のファイル 1.md"
+    },
+    {
       "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで",
       "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "build時のエラー",
       "path": "Docker/build時のエラー.md"
-    },
-    {
-      "basename": "Dockerコマンド",
-      "path": "Docker/Dockerコマンド.md"
     }
   ],
   "omittedPaths": [],
