@@ -1,5 +1,10 @@
 {
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "General Notes",
+  "attachmentFolderPath": "res",
+  "readableLineLength": false
 }

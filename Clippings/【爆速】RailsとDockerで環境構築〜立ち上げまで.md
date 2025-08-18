@@ -8,8 +8,8 @@ created: 2025-07-06
 description: 今回は、RailsとDockerの環境構築をして簡単なアプリケーション作成までざっくりとまとめてみました。 この記事にした経緯として、これまでは、主にRuby on Rails（以下 Rails）を使った社内のシステムや副業で運営していたサブスク型のサービス開発をしていたの...
 tags:
   - t-notes/clippings
+  - t-notes/Docker/導入
   - t-notes/Rails
-  - t-notes/Docker
 ---
 
 今回は、RailsとDockerの環境構築をして簡単なアプリケーション作成までざっくりとまとめてみました。
@@ -251,7 +251,7 @@ services:
 
 ```gemfile
 source 'https://rubygems.org'
-gem 'rails', '~> 6.1.4'
+gem 'rails', '~> 7.1.5'
 ```
 
 今回インストールするRailsのバージョンを指定します。

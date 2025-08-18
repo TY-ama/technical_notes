@@ -1,66 +1,16 @@
 ---
 tags:
-  - t-notes/ruby
-datetimeCreate: 2025-07-29 02:06
+  - t-notes/Git
+datetimeCreate: 2025-07-25 17:32
 ---
+## Gitを使う際の初期設定
+>変更者の記録のためユーザー名とメールアドレス登録
+```shell
+git config --global user.name "ユーザー名"
+git config --global user.email "example@gmail.com"
+```
 >[!note]
->クラス (設計図) ≒ 構造体 
->(C言語の `Person` 構造体)
->
->インスタンス (作られた物) ≒ `main` 関数内の変数 
->(C言語の `Person taro` 変数)
-
-### C言語の例
-
-```c
-typedef struct {
-  char name[20];
-  int age;
-} Person;
-
-int main() {
-  Person taro;
-  strcpy(taro.name, "たろう");
-  taro.age = 15;
-  return 0;
-}
-```
-
-### Rubyの例
-
-```ruby
-class Person
-  attr_accessor :name, :age
-
-  def initialize(name, age)
-    @name = name
-    @age = age
-  end
-
-  def introduce # メソッド
-    puts "名前: #{@name}"
-    puts "年齢: #{@age}"
-  end
-end
-
-taro = Person.new("たろう", 15) # newメソッドを使用すると、自動的にinitializeメソッドが呼び出されます。
-taro.introduce
-```
-
-### C言語とRubyのクラス・インスタンスの比較
-
-| 概念         | C言語             | Ruby                       |
-|--------------|-------------------|----------------------------|
-| データの型   | `struct`          | `class`                    |
-| データの作成 | 変数を定義        | `new`でインスタンス生成    |
-| 関数との関係 | 別々に定義        | クラス内にメソッドとして定義 |
-| メンバ変数   | `.`でアクセス     | `@`でインスタンス変数を表す |
-
-
-
-
-
-
+>一般的にはGithubで使っているユーザー名とメールアドレスを使う
 
 ```dataviewjs
 // ===== 関連ノート (タグ基準) =====

@@ -1,62 +1,40 @@
 ---
 tags:
-  - t-notes/ruby
-datetimeCreate: 2025-07-29 02:06
+  - t-notes/Rails
+datetimeCreate: 2025-08-13 00:28
 ---
->[!note]
->クラス (設計図) ≒ 構造体 
->(C言語の `Person` 構造体)
->
->インスタンス (作られた物) ≒ `main` 関数内の変数 
->(C言語の `Person taro` 変数)
+## 削除ボタン
 
-### C言語の例
-
-```c
-typedef struct {
-  char name[20];
-  int age;
-} Person;
-
-int main() {
-  Person taro;
-  strcpy(taro.name, "たろう");
-  taro.age = 15;
-  return 0;
-}
+- destroy アクションは基本一覧画面などにリダイレクトするため destroy.html.erbは作らない
+```html
+<%= button_to '削除', post, method: :delete, data: { turbo_confirm: '本当に削除しますか？' } %>
 ```
+### deleteは何？
+- DELETEリクエストのこと
+- Railsの命名規則とHTTPメソッドの命名規則がある
+- HTTPレイヤーのdeleteメソッド
+	- GET: リソースを取得する（例: ページを表示する）
+	- POST: 新しいリソースを作成する（例: 新規投稿を作成する）
+	- PATCH / PUT: 既存のリソースを更新する（例: 投稿を編集する）
+	- **DELETE**: 既存のリソースを削除する
+	-　button_to の method: :delete は、ブラウザに「サーバーに対して **DELETE という種類の通信** をしてください」と指示するためのものです。
+- railsアプリのdestroyアクション
 
-### Rubyの例
+| 操作 (CRUD)       | アクション名       | 対応するHTTPメソッド   |
+| --------------- | ------------ | -------------- |
+| **C**reate (作成) | new, create  | GET, POST      |
+| **R**ead (読み取り) | index, show  | GET            |
+| **U**pdate (更新) | edit, update | GET, PATCH/PUT |
+| **D**elete (削除) | destroy      | DELETE         |
 
+### なぜ削除する物の指定をしないのか
 ```ruby
-class Person
-  attr_accessor :name, :age
-
-  def initialize(name, age)
-    @name = name
-    @age = age
-  end
-
-  def introduce # メソッド
-    puts "名前: #{@name}"
-    puts "年齢: #{@age}"
-  end
-end
-
-taro = Person.new("たろう", 15) # newメソッドを使用すると、自動的にinitializeメソッドが呼び出されます。
-taro.introduce
+@posts.each do |post|
 ```
-
-### C言語とRubyのクラス・インスタンスの比較
-
-| 概念         | C言語             | Ruby                       |
-|--------------|-------------------|----------------------------|
-| データの型   | `struct`          | `class`                    |
-| データの作成 | 変数を定義        | `new`でインスタンス生成    |
-| 関数との関係 | 別々に定義        | クラス内にメソッドとして定義 |
-| メンバ変数   | `.`でアクセス     | `@`でインスタンス変数を表す |
-
-
+- ループ内のpost:
+	- ループで現在扱っているオブジェクト (例：idが1の投稿、次にidが2の投稿...)が 入っている
+- Railsにpostを渡すと:
+	- 自動的にそのデータのidを含んだURL (例：/posts/1) を生成
 
 
 

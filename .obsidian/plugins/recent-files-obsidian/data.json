@@ -1,24 +1,188 @@
 {
   "recentFiles": [
     {
-      "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで 1",
-      "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで 1.md"
+      "basename": "無題のファイル",
+      "path": "General Notes/無題のファイル.md"
     },
     {
-      "basename": "ぼくがかんがえた最強のObsidian設定｜古村藍",
-      "path": "Clippings/ぼくがかんがえた最強のObsidian設定｜古村藍.md"
+      "basename": "destroyメソッド",
+      "path": "General Notes/destroyメソッド.md"
+    },
+    {
+      "basename": "showメソッド",
+      "path": "General Notes/showメソッド.md"
+    },
+    {
+      "basename": "createアクション",
+      "path": "General Notes/createアクション.md"
+    },
+    {
+      "basename": "Railsアプリ作成の流れ",
+      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
+    },
+    {
+      "basename": "改行(br)",
+      "path": "General Notes/改行(br).md"
+    },
+    {
+      "basename": "繰り返し(each do)",
+      "path": "Ruby/繰り返し(each do).md"
+    },
+    {
+      "basename": "Git連携：複数PCメモ同期",
+      "path": "Git/Git連携：複数PCメモ同期.md"
+    },
+    {
+      "basename": "%=、%とは",
+      "path": "Rails/%=、%とは.md"
+    },
+    {
+      "basename": "コメントアウト(erb)",
+      "path": "Rails/コメントアウト(erb).md"
     },
     {
       "basename": "Gemini-form",
       "path": "Clippings/Gemini-form.md"
     },
     {
-      "basename": "Gemini-d-grid",
-      "path": "Clippings/Gemini-d-grid.md"
+      "basename": "コメント文",
+      "path": "Ruby/コメント文.md"
+    },
+    {
+      "basename": "コントローラ",
+      "path": "Rails/Railsアプリ/コントローラ.md"
+    },
+    {
+      "basename": "「Obsidian Git」を導入してみた。｜devlive",
+      "path": "Clippings/「Obsidian Git」を導入してみた。｜devlive.md"
     },
     {
       "basename": "コンテナ作成",
       "path": "Docker/コンテナ作成.md"
+    },
+    {
+      "basename": "MVCモデルとは",
+      "path": "Rails/MVCモデルとは.md"
+    },
+    {
+      "basename": "@name(インスタンス変数)",
+      "path": "Ruby/class/@name(インスタンス変数).md"
+    },
+    {
+      "basename": "クラスとインスタンス",
+      "path": "Ruby/class/クラスとインスタンス.md"
+    },
+    {
+      "basename": "配列",
+      "path": "Ruby/配列.md"
+    },
+    {
+      "basename": "型指定",
+      "path": "Ruby/型指定.md"
+    },
+    {
+      "basename": "ハッシュ",
+      "path": "Ruby/ハッシュ.md"
+    },
+    {
+      "basename": "ターミナル",
+      "path": "Ruby/ターミナル.md"
+    },
+    {
+      "basename": "putsやprint",
+      "path": "Ruby/putsやprint.md"
+    },
+    {
+      "basename": "puts",
+      "path": "Ruby/puts.md"
+    },
+    {
+      "basename": "mysql2",
+      "path": "Ruby/mysql2.md"
+    },
+    {
+      "basename": "initilize",
+      "path": "Ruby/class/initilize.md"
+    },
+    {
+      "basename": "attr_accessor(属性アクセサ)",
+      "path": "Ruby/class/attr_accessor(属性アクセサ).md"
+    },
+    {
+      "basename": "コンテナの入り方",
+      "path": "Docker/コンテナの入り方.md"
+    },
+    {
+      "basename": "ぼくがかんがえた最強のObsidian設定｜古村藍",
+      "path": "Clippings/ぼくがかんがえた最強のObsidian設定｜古村藍.md"
+    },
+    {
+      "basename": "Pasted image 20250725194953",
+      "path": "res/Pasted image 20250725194953.png"
+    },
+    {
+      "basename": "Pasted image 20250725194716",
+      "path": "res/Pasted image 20250725194716.png"
+    },
+    {
+      "basename": "スクリーンショット 2025-07-03 003321",
+      "path": "res/スクリーンショット 2025-07-03 003321.png"
+    },
+    {
+      "basename": "スクリーンショット 2025-07-03 002600",
+      "path": "res/スクリーンショット 2025-07-03 002600.png"
+    },
+    {
+      "basename": "Pasted image 20250725194004",
+      "path": "res/Pasted image 20250725194004.png"
+    },
+    {
+      "basename": "Pasted image 20250703115217",
+      "path": "res/Pasted image 20250703115217.png"
+    },
+    {
+      "basename": "Pasted image 20250619115500",
+      "path": "res/Pasted image 20250619115500.png"
+    },
+    {
+      "basename": "Pasted image 20250619112456",
+      "path": "res/Pasted image 20250619112456.png"
+    },
+    {
+      "basename": "Pasted image 20250613161244",
+      "path": "res/Pasted image 20250613161244.png"
+    },
+    {
+      "basename": "Pasted image 20250613161123",
+      "path": "res/Pasted image 20250613161123.png"
+    },
+    {
+      "basename": "保管庫増設時",
+      "path": "Info Notes/保管庫増設時.md"
+    },
+    {
+      "basename": "コメントアウト",
+      "path": "Info Notes/コメントアウト.md"
+    },
+    {
+      "basename": "導入の流れ",
+      "path": "Docker/導入の流れ.md"
+    },
+    {
+      "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで",
+      "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md"
+    },
+    {
+      "basename": "windowsにWSL2+Docker環境を構築する手順",
+      "path": "Clippings/windowsにWSL2+Docker環境を構築する手順.md"
+    },
+    {
+      "basename": "ターミナル",
+      "path": "Ruby/ターミナル.md"
+    },
+    {
+      "basename": "オンライン自習室アプリを個人で開発した件",
+      "path": "Clippings/オンライン自習室アプリを個人で開発した件.md"
     },
     {
       "basename": "Dockerfile(webページとは若干違う)",
@@ -29,108 +193,8 @@
       "path": "Docker/build時のエラー.md"
     },
     {
-      "basename": "Dockerとは",
-      "path": "Docker/Dockerとは.md"
-    },
-    {
       "basename": "Dockerコマンド",
       "path": "Docker/Dockerコマンド.md"
-    },
-    {
-      "basename": "key error",
-      "path": "Docker/key error.md"
-    },
-    {
-      "basename": "Linux (Ubuntu24.04) へのインストール",
-      "path": "Docker/Linux (Ubuntu24.04) へのインストール.md"
-    },
-    {
-      "basename": "WSL導入→VScode連携→docker導入→",
-      "path": "Docker/WSL導入→VScode連携→docker導入→.md"
-    },
-    {
-      "basename": "基本用語",
-      "path": "Docker/基本用語.md"
-    },
-    {
-      "basename": "権限変更",
-      "path": "Docker/権限変更.md"
-    },
-    {
-      "basename": "コンテナの入り方",
-      "path": "Docker/コンテナの入り方.md"
-    },
-    {
-      "basename": "template",
-      "path": "Templates/template.md"
-    },
-    {
-      "basename": "oblogger",
-      "path": "Info Notes/oblogger.md"
-    },
-    {
-      "basename": "DB (Access)",
-      "path": "Info Notes/DB (Access).md"
-    },
-    {
-      "basename": "やること",
-      "path": "docs/やること.md"
-    },
-    {
-      "basename": "2025-07-18-成果発表",
-      "path": "docs/2025-07-18-成果発表.md"
-    },
-    {
-      "basename": "今回使用するバージョン",
-      "path": "docs/今回使用するバージョン.md"
-    },
-    {
-      "basename": "Gemini-margin",
-      "path": "Clippings/Gemini-margin.md"
-    },
-    {
-      "basename": "Gemini-grid+table",
-      "path": "Clippings/Gemini-grid+table.md"
-    },
-    {
-      "basename": "プログラムを埋め込む",
-      "path": "Markdown/プログラムを埋め込む.md"
-    },
-    {
-      "basename": "Pasted image 20250703115217",
-      "path": "res/Pasted image 20250703115217.png"
-    },
-    {
-      "basename": "課題一覧",
-      "path": "docs/課題一覧.md"
-    },
-    {
-      "basename": "Ubuntu連携",
-      "path": "Git/Ubuntu連携.md"
-    },
-    {
-      "basename": "mysql2",
-      "path": "Ruby/mysql2.md"
-    },
-    {
-      "basename": "puts",
-      "path": "Ruby/puts.md"
-    },
-    {
-      "basename": "putsやprint",
-      "path": "Ruby/putsやprint.md"
-    },
-    {
-      "basename": "コメント文",
-      "path": "Ruby/コメント文.md"
-    },
-    {
-      "basename": "ターミナル",
-      "path": "Ruby/ターミナル.md"
-    },
-    {
-      "basename": "アプリ作成の流れ",
-      "path": "Rails/在庫管理アプリ/アプリ作成の流れ.md"
     }
   ],
   "omittedPaths": [],

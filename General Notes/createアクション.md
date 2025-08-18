@@ -1,62 +1,21 @@
 ---
 tags:
-  - t-notes/ruby
-datetimeCreate: 2025-07-29 02:06
+  - t-notes/Rails
+datetimeCreate: 2025-08-08 01:47
 ---
->[!note]
->クラス (設計図) ≒ 構造体 
->(C言語の `Person` 構造体)
+>フォームから送られてきたデータを処理するアクション
 >
->インスタンス (作られた物) ≒ `main` 関数内の変数 
->(C言語の `Person taro` 変数)
+## 処理
 
-### C言語の例
+- 受け取ったデータ (params) を使って新しいTaskオブジェクトをデータベースに保存しようとする
+- 保存に成功した場合：
+	- 作成されたタスクの詳細ページ (/tasks/:id) やタスク一覧ページ (/tasks) にリダイレクトする
+- 保存に失敗した場合：
+	- new.html.erb を再描画する
 
-```c
-typedef struct {
-  char name[20];
-  int age;
-} Person;
+## create.html.erb が存在しない理由
 
-int main() {
-  Person taro;
-  strcpy(taro.name, "たろう");
-  taro.age = 15;
-  return 0;
-}
-```
-
-### Rubyの例
-
-```ruby
-class Person
-  attr_accessor :name, :age
-
-  def initialize(name, age)
-    @name = name
-    @age = age
-  end
-
-  def introduce # メソッド
-    puts "名前: #{@name}"
-    puts "年齢: #{@age}"
-  end
-end
-
-taro = Person.new("たろう", 15) # newメソッドを使用すると、自動的にinitializeメソッドが呼び出されます。
-taro.introduce
-```
-
-### C言語とRubyのクラス・インスタンスの比較
-
-| 概念         | C言語             | Ruby                       |
-|--------------|-------------------|----------------------------|
-| データの型   | `struct`          | `class`                    |
-| データの作成 | 変数を定義        | `new`でインスタンス生成    |
-| 関数との関係 | 別々に定義        | クラス内にメソッドとして定義 |
-| メンバ変数   | `.`でアクセス     | `@`でインスタンス変数を表す |
-
-
+- データを処理した後別のページにリダイレクトするか、既存のビューを再描画するから
 
 
 

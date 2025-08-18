@@ -1,10 +1,10 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Minimal",
+  "cssTheme": "Things",
   "interfaceFontFamily": "メイリオ,あずきフォント",
   "textFontFamily": "メイリオ",
   "monospaceFontFamily": "源ノ角ゴシックCode JP",
   "baseFontSizeAction": true,
-  "baseFontSize": 18,
+  "baseFontSize": 27,
   "accentColor": "#6b92e1"
 }
