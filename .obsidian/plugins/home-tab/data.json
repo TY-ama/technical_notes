@@ -22,7 +22,28 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "Clippings/【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん.md",
+      "timestamp": 1755515362137
+    },
+    {
+      "filepath": "General Notes/スライド作成プロンプト.md",
+      "timestamp": 1755515354236
+    },
+    {
+      "filepath": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md",
+      "timestamp": 1755515341962
+    },
+    {
+      "filepath": "General Notes/スライド作成プロンプト.txt",
+      "timestamp": 1755515306531
+    },
+    {
+      "filepath": "Clippings/ぼくがかんがえた最強のObsidian設定｜古村藍.md",
+      "timestamp": 1755515190164
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,

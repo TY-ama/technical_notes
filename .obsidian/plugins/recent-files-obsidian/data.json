@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん",
+      "path": "Clippings/【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん.md"
+    },
+    {
       "basename": "スライド作成プロンプト",
       "path": "General Notes/スライド作成プロンプト.md"
     },
     {
-      "basename": "求人情報閲覧システム　デザイン",
-      "path": "General Notes/求人情報閲覧システム　デザイン.md"
+      "basename": "Railsアプリ作成の流れ",
+      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
     },
     {
-      "basename": "【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん",
-      "path": "Clippings/【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん.md"
+      "basename": "スライド作成プロンプト",
+      "path": "General Notes/スライド作成プロンプト.txt"
+    },
+    {
+      "basename": "ぼくがかんがえた最強のObsidian設定｜古村藍",
+      "path": "Clippings/ぼくがかんがえた最強のObsidian設定｜古村藍.md"
+    },
+    {
+      "basename": "求人情報閲覧システム　デザイン",
+      "path": "General Notes/求人情報閲覧システム　デザイン.md"
     },
     {
       "basename": "クラスとインスタンス",
@@ -31,10 +43,6 @@
     {
       "basename": "showメソッド",
       "path": "General Notes/showメソッド.md"
-    },
-    {
-      "basename": "Railsアプリ作成の流れ",
-      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
     },
     {
       "basename": "改行(br)",
@@ -129,10 +137,6 @@
       "path": "Docker/コンテナの入り方.md"
     },
     {
-      "basename": "ぼくがかんがえた最強のObsidian設定｜古村藍",
-      "path": "Clippings/ぼくがかんがえた最強のObsidian設定｜古村藍.md"
-    },
-    {
       "basename": "Pasted image 20250725194953",
       "path": "res/Pasted image 20250725194953.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "コールアウト",
       "path": "Info Notes/コールアウト.md"
-    },
-    {
-      "basename": "オンライン自習室アプリを個人で開発した件",
-      "path": "Clippings/オンライン自習室アプリを個人で開発した件.md"
     }
   ],
   "omittedPaths": [],

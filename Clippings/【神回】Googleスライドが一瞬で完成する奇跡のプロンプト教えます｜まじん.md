@@ -16,7 +16,7 @@ tags:
 
 > [!warning] 警告
 > Google AI Studioでやること
-
+[[スライド作成プロンプト.txt]]
 
 [まじん](https://note.com/majin_108)
 
