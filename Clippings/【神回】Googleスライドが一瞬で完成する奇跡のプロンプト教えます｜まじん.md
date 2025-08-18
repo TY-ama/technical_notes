@@ -13,8 +13,8 @@ tags:
 
 ## 【神回】Googleスライドが一瞬で完成する"奇跡"のプロンプト教えます
 
-> [!N] 警告
-> 
+> [!warning] 警告
+> Google AI Studioでやること
 
 
 [まじん](https://note.com/majin_108)
