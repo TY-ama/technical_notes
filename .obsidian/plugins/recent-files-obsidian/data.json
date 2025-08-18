@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん",
+      "path": "Clippings/【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん.md"
+    },
+    {
+      "basename": "デザイン",
+      "path": "General Notes/デザイン.md"
+    },
+    {
+      "basename": "ほしい機能",
+      "path": "General Notes/ほしい機能.md"
+    },
+    {
       "basename": "createアクション",
       "path": "General Notes/createアクション.md"
     },
@@ -187,10 +199,6 @@
     {
       "basename": "Dockerfile(webページとは若干違う)",
       "path": "Docker/Dockerfile(webページとは若干違う).md"
-    },
-    {
-      "basename": "build時のエラー",
-      "path": "Docker/build時のエラー.md"
     }
   ],
   "omittedPaths": [],
