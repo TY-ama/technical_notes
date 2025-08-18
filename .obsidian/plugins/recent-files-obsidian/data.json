@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "データ項目",
+      "path": "データ項目.md"
+    },
+    {
       "basename": "ほしい機能",
       "path": "General Notes/ほしい機能.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Dockerfile(webページとは若干違う)",
       "path": "Docker/Dockerfile(webページとは若干違う).md"
-    },
-    {
-      "basename": "build時のエラー",
-      "path": "Docker/build時のエラー.md"
     }
   ],
   "omittedPaths": [],
