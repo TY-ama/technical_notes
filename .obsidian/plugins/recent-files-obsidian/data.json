@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "無題のファイル 1",
-      "path": "General Notes/無題のファイル 1.md"
+      "basename": "ほしい機能",
+      "path": "General Notes/ほしい機能.md"
+    },
+    {
+      "basename": "Gemini-form",
+      "path": "Clippings/Gemini-form.md"
+    },
+    {
+      "basename": "デザイン",
+      "path": "General Notes/デザイン.md"
     },
     {
       "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで",
       "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md"
-    },
-    {
-      "basename": "無題のファイル",
-      "path": "General Notes/無題のファイル.md"
     },
     {
       "basename": "destroyメソッド",
@@ -47,10 +51,6 @@
     {
       "basename": "コメントアウト(erb)",
       "path": "Rails/コメントアウト(erb).md"
-    },
-    {
-      "basename": "Gemini-form",
-      "path": "Clippings/Gemini-form.md"
     },
     {
       "basename": "コメント文",
