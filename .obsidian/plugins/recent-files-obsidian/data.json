@@ -5,6 +5,10 @@
       "path": "Clippings/【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん.md"
     },
     {
+      "basename": "2025-07-18-成果発表",
+      "path": "docs/2025-07-18-成果発表.md"
+    },
+    {
       "basename": "スライド作成プロンプト",
       "path": "General Notes/スライド作成プロンプト.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "windowsにWSL2+Docker環境を構築する手順",
       "path": "Clippings/windowsにWSL2+Docker環境を構築する手順.md"
-    },
-    {
-      "basename": "コールアウト",
-      "path": "Info Notes/コールアウト.md"
     }
   ],
   "omittedPaths": [],
