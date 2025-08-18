@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "General Notes/無題のファイル.md",
+      "timestamp": 1755514403798
+    },
+    {
       "filepath": "Clippings/【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん.md",
-      "timestamp": 1755512326419
+      "timestamp": 1755514400639
+    },
+    {
+      "filepath": "Ruby/class/クラスとインスタンス.md",
+      "timestamp": 1755514284773
     },
     {
       "filepath": "General Notes/デザイン.md",
@@ -34,10 +42,6 @@
     {
       "filepath": "General Notes/ほしい機能.md",
       "timestamp": 1755512316554
-    },
-    {
-      "filepath": "General Notes/createアクション.md",
-      "timestamp": 1755512177974
     }
   ],
   "bookmarkedFileStore": [],

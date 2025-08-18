@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "スライド作成プロンプト",
+      "path": "General Notes/スライド作成プロンプト.md"
+    },
+    {
       "basename": "【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん",
       "path": "Clippings/【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん.md"
+    },
+    {
+      "basename": "クラスとインスタンス",
+      "path": "Ruby/class/クラスとインスタンス.md"
     },
     {
       "basename": "デザイン",
@@ -75,10 +83,6 @@
     {
       "basename": "@name(インスタンス変数)",
       "path": "Ruby/class/@name(インスタンス変数).md"
-    },
-    {
-      "basename": "クラスとインスタンス",
-      "path": "Ruby/class/クラスとインスタンス.md"
     },
     {
       "basename": "配列",
@@ -195,10 +199,6 @@
     {
       "basename": "オンライン自習室アプリを個人で開発した件",
       "path": "Clippings/オンライン自習室アプリを個人で開発した件.md"
-    },
-    {
-      "basename": "Dockerfile(webページとは若干違う)",
-      "path": "Docker/Dockerfile(webページとは若干違う).md"
     }
   ],
   "omittedPaths": [],
