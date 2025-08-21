@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Ruby/putsやprint.md",
+      "timestamp": 1755750502988
+    },
+    {
+      "filepath": "Ruby/puts.md",
+      "timestamp": 1755750498680
+    },
+    {
       "filepath": "docs/2025-07-18-成果発表.md",
-      "timestamp": 1755750406905
+      "timestamp": 1755750497602
     },
     {
       "filepath": "General Notes/ほしい機能.md",

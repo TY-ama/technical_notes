@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "putsやprint",
+      "path": "Ruby/putsやprint.md"
+    },
+    {
+      "basename": "puts",
+      "path": "Ruby/puts.md"
+    },
+    {
       "basename": "2025-07-18-成果発表",
       "path": "docs/2025-07-18-成果発表.md"
     },
@@ -107,18 +115,6 @@
     {
       "basename": "ターミナル",
       "path": "Ruby/ターミナル.md"
-    },
-    {
-      "basename": "putsやprint",
-      "path": "Ruby/putsやprint.md"
-    },
-    {
-      "basename": "puts",
-      "path": "Ruby/puts.md"
-    },
-    {
-      "basename": "mysql2",
-      "path": "Ruby/mysql2.md"
     },
     {
       "basename": "メソッド作成",
