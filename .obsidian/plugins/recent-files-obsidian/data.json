@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "メソッド作成",
+      "path": "Ruby/class/メソッド作成.md"
+    },
+    {
+      "basename": "クラスとインスタンス",
+      "path": "Ruby/class/クラスとインスタンス.md"
+    },
+    {
+      "basename": "initilize",
+      "path": "Ruby/class/initilize.md"
+    },
+    {
+      "basename": "attr_accessor(属性アクセサ)",
+      "path": "Ruby/class/attr_accessor(属性アクセサ).md"
+    },
+    {
+      "basename": "@name(インスタンス変数)",
+      "path": "Ruby/class/@name(インスタンス変数).md"
+    },
+    {
+      "basename": "命名規則",
+      "path": "Ruby/命名規則.md"
+    },
+    {
+      "basename": "配列",
+      "path": "Ruby/配列.md"
+    },
+    {
+      "basename": "型指定",
+      "path": "Ruby/型指定.md"
+    },
+    {
+      "basename": "繰り返し(each do)",
+      "path": "Ruby/繰り返し(each do).md"
+    },
+    {
+      "basename": "ハッシュ",
+      "path": "Ruby/ハッシュ.md"
+    },
+    {
+      "basename": "ターミナル",
+      "path": "Ruby/ターミナル.md"
+    },
+    {
+      "basename": "コメント文",
+      "path": "Ruby/コメント文.md"
+    },
+    {
       "basename": "putsやprint",
       "path": "Ruby/putsやprint.md"
     },
@@ -37,10 +85,6 @@
       "path": "General Notes/デザイン.md"
     },
     {
-      "basename": "クラスとインスタンス",
-      "path": "Ruby/class/クラスとインスタンス.md"
-    },
-    {
       "basename": "createアクション",
       "path": "General Notes/createアクション.md"
     },
@@ -55,10 +99,6 @@
     {
       "basename": "改行(br)",
       "path": "General Notes/改行(br).md"
-    },
-    {
-      "basename": "繰り返し(each do)",
-      "path": "Ruby/繰り返し(each do).md"
     },
     {
       "basename": "Git連携：複数PCメモ同期",
@@ -77,10 +117,6 @@
       "path": "Clippings/Gemini-form.md"
     },
     {
-      "basename": "コメント文",
-      "path": "Ruby/コメント文.md"
-    },
-    {
       "basename": "コントローラ",
       "path": "Rails/Railsアプリ/コントローラ.md"
     },
@@ -95,38 +131,6 @@
     {
       "basename": "MVCモデルとは",
       "path": "Rails/MVCモデルとは.md"
-    },
-    {
-      "basename": "@name(インスタンス変数)",
-      "path": "Ruby/class/@name(インスタンス変数).md"
-    },
-    {
-      "basename": "配列",
-      "path": "Ruby/配列.md"
-    },
-    {
-      "basename": "型指定",
-      "path": "Ruby/型指定.md"
-    },
-    {
-      "basename": "ハッシュ",
-      "path": "Ruby/ハッシュ.md"
-    },
-    {
-      "basename": "ターミナル",
-      "path": "Ruby/ターミナル.md"
-    },
-    {
-      "basename": "メソッド作成",
-      "path": "Ruby/class/メソッド作成.md"
-    },
-    {
-      "basename": "initilize",
-      "path": "Ruby/class/initilize.md"
-    },
-    {
-      "basename": "attr_accessor(属性アクセサ)",
-      "path": "Ruby/class/attr_accessor(属性アクセサ).md"
     },
     {
       "basename": "コンテナの入り方",

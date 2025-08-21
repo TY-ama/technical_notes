@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Ruby/putsやprint.md",
-      "timestamp": 1755750502988
+      "filepath": "Ruby/class/メソッド作成.md",
+      "timestamp": 1755750756211
     },
     {
-      "filepath": "Ruby/puts.md",
-      "timestamp": 1755750498680
+      "filepath": "Ruby/class/クラスとインスタンス.md",
+      "timestamp": 1755750730678
     },
     {
-      "filepath": "docs/2025-07-18-成果発表.md",
-      "timestamp": 1755750497602
+      "filepath": "Ruby/class/initilize.md",
+      "timestamp": 1755750720465
     },
     {
-      "filepath": "General Notes/ほしい機能.md",
-      "timestamp": 1755750404406
+      "filepath": "Ruby/class/attr_accessor(属性アクセサ).md",
+      "timestamp": 1755750693029
     },
     {
-      "filepath": "Clippings/【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん.md",
-      "timestamp": 1755526907876
+      "filepath": "Ruby/class/@name(インスタンス変数).md",
+      "timestamp": 1755750645297
     }
   ],
   "bookmarkedFileStore": [],
