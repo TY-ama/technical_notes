@@ -4,7 +4,7 @@
     "explainSearch": false,
     "extraContext": false,
     "matchingCase": false,
-    "query": "tag:#IT",
+    "query": "tag:#t-notes/ruby",
     "sortOrder": "alphabetical"
   },
   "showFilePath": false,

@@ -5,20 +5,40 @@
       "path": "General Notes/ほしい機能.md"
     },
     {
+      "basename": "2025-07-18-成果発表",
+      "path": "docs/2025-07-18-成果発表.md"
+    },
+    {
+      "basename": "スライド作成プロンプト",
+      "path": "General Notes/スライド作成プロンプト.md"
+    },
+    {
+      "basename": "Railsアプリ作成の流れ",
+      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
+    },
+    {
+      "basename": "スライド作成プロンプト",
+      "path": "General Notes/スライド作成プロンプト.txt"
+    },
+    {
+      "basename": "ぼくがかんがえた最強のObsidian設定｜古村藍",
+      "path": "Clippings/ぼくがかんがえた最強のObsidian設定｜古村藍.md"
+    },
+    {
       "basename": "デザイン",
       "path": "General Notes/デザイン.md"
     },
     {
-      "basename": "Pasted image 20250725194953",
-      "path": "res/Pasted image 20250725194953.png"
+      "basename": "クラスとインスタンス",
+      "path": "Ruby/class/クラスとインスタンス.md"
     },
     {
-      "basename": "Gemini-form",
-      "path": "Clippings/Gemini-form.md"
+      "basename": "ほしい機能",
+      "path": "General Notes/ほしい機能.md"
     },
     {
-      "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで",
-      "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md"
+      "basename": "createアクション",
+      "path": "General Notes/createアクション.md"
     },
     {
       "basename": "destroyメソッド",
@@ -27,14 +47,6 @@
     {
       "basename": "showメソッド",
       "path": "General Notes/showメソッド.md"
-    },
-    {
-      "basename": "createアクション",
-      "path": "General Notes/createアクション.md"
-    },
-    {
-      "basename": "Railsアプリ作成の流れ",
-      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
     },
     {
       "basename": "改行(br)",
@@ -57,6 +69,10 @@
       "path": "Rails/コメントアウト(erb).md"
     },
     {
+      "basename": "Gemini-form",
+      "path": "Clippings/Gemini-form.md"
+    },
+    {
       "basename": "コメント文",
       "path": "Ruby/コメント文.md"
     },
@@ -69,20 +85,16 @@
       "path": "Clippings/「Obsidian Git」を導入してみた。｜devlive.md"
     },
     {
-      "basename": "コンテナ作成",
-      "path": "Docker/コンテナ作成.md"
+      "basename": "Git設定",
+      "path": "Info Notes/Git設定.md"
     },
     {
-      "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで 1",
-      "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで 1.md"
+      "basename": "MVCモデルとは",
+      "path": "Rails/MVCモデルとは.md"
     },
     {
       "basename": "@name(インスタンス変数)",
       "path": "Ruby/class/@name(インスタンス変数).md"
-    },
-    {
-      "basename": "クラスとインスタンス",
-      "path": "Ruby/class/クラスとインスタンス.md"
     },
     {
       "basename": "配列",
@@ -113,8 +125,8 @@
       "path": "Ruby/mysql2.md"
     },
     {
-      "basename": "WSL導入→VScode連携→docker導入→",
-      "path": "Docker/WSL導入→VScode連携→docker導入→.md"
+      "basename": "メソッド作成",
+      "path": "Ruby/class/メソッド作成.md"
     },
     {
       "basename": "initilize",
@@ -129,8 +141,8 @@
       "path": "Docker/コンテナの入り方.md"
     },
     {
-      "basename": "ぼくがかんがえた最強のObsidian設定｜古村藍",
-      "path": "Clippings/ぼくがかんがえた最強のObsidian設定｜古村藍.md"
+      "basename": "Pasted image 20250725194953",
+      "path": "res/Pasted image 20250725194953.png"
     },
     {
       "basename": "Pasted image 20250725194716",
@@ -181,20 +193,12 @@
       "path": "Docker/導入の流れ.md"
     },
     {
+      "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで",
+      "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md"
+    },
+    {
       "basename": "windowsにWSL2+Docker環境を構築する手順",
       "path": "Clippings/windowsにWSL2+Docker環境を構築する手順.md"
-    },
-    {
-      "basename": "ターミナル",
-      "path": "Ruby/ターミナル.md"
-    },
-    {
-      "basename": "オンライン自習室アプリを個人で開発した件",
-      "path": "Clippings/オンライン自習室アプリを個人で開発した件.md"
-    },
-    {
-      "basename": "Dockerfile(webページとは若干違う)",
-      "path": "Docker/Dockerfile(webページとは若干違う).md"
     }
   ],
   "omittedPaths": [],

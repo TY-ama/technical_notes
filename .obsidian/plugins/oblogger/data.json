@@ -80,16 +80,13 @@
       "groupType": "tag_group",
       "openFolders": [
         "/",
-        "//DB",
-        "//Docker",
         "//Docker/導入",
         "//Git",
         "//HTML",
         "//Obsidian",
         "//Rails",
-        "//Ruby",
-        "//clippings",
-        "//docs"
+        "//docs",
+        "//デザイン"
       ],
       "isVisible": true,
       "isPinned": false,
