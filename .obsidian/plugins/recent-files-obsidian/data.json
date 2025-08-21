@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "導入の流れ",
+      "path": "Docker/導入の流れ.md"
+    },
+    {
+      "basename": "windowsにWSL2+Docker環境を構築する手順",
+      "path": "Clippings/windowsにWSL2+Docker環境を構築する手順.md"
+    },
+    {
       "basename": "ほしい機能",
       "path": "General Notes/ほしい機能.md"
     },
@@ -185,16 +193,8 @@
       "path": "Info Notes/コメントアウト.md"
     },
     {
-      "basename": "導入の流れ",
-      "path": "Docker/導入の流れ.md"
-    },
-    {
       "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで",
       "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md"
-    },
-    {
-      "basename": "windowsにWSL2+Docker環境を構築する手順",
-      "path": "Clippings/windowsにWSL2+Docker環境を構築する手順.md"
     }
   ],
   "omittedPaths": [],
