@@ -5,7 +5,7 @@
     "extraContext": false,
     "matchingCase": false,
     "query": "",
-    "sortOrder": "alphabetical"
+    "sortOrder": "byModifiedTime"
   },
   "showFilePath": false,
   "showInstructions": true,
