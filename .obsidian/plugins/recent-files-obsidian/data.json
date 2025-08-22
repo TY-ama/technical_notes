@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "旧システムでやったこと",
+      "path": "General Notes/旧システムでやったこと.md"
+    },
+    {
+      "basename": "導入の流れ",
+      "path": "Docker/導入の流れ.md"
+    },
+    {
       "basename": "Railsアプリ作成の流れ",
       "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
     },
@@ -17,16 +25,8 @@
       "path": "Docker/コンテナの入り方.md"
     },
     {
-      "basename": "導入の流れ",
-      "path": "Docker/導入の流れ.md"
-    },
-    {
       "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで",
       "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md"
-    },
-    {
-      "basename": "旧システムでやったこと",
-      "path": "General Notes/旧システムでやったこと.md"
     },
     {
       "basename": "windowsにWSL2+Docker環境を構築する手順",
