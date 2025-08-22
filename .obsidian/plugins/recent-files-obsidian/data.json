@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "プリコンパイルって？",
+      "path": "General Notes/プリコンパイルって？.md"
+    },
+    {
       "basename": "Sassとは",
       "path": "General Notes/Sassとは.md"
+    },
+    {
+      "basename": "showメソッド",
+      "path": "General Notes/showメソッド.md"
+    },
+    {
+      "basename": "作業ログ",
+      "path": "docs/作業ログ.md"
     },
     {
       "basename": "【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん",
@@ -75,10 +87,6 @@
     {
       "basename": "旧システムでやったこと",
       "path": "General Notes/旧システムでやったこと.md"
-    },
-    {
-      "basename": "作業ログ",
-      "path": "docs/作業ログ.md"
     },
     {
       "basename": "今回使用するバージョン",
@@ -185,20 +193,12 @@
       "path": "General Notes/destroyメソッド.md"
     },
     {
-      "basename": "showメソッド",
-      "path": "General Notes/showメソッド.md"
-    },
-    {
       "basename": "改行(br)",
       "path": "General Notes/改行(br).md"
     },
     {
       "basename": "Git連携：複数PCメモ同期",
       "path": "Git/Git連携：複数PCメモ同期.md"
-    },
-    {
-      "basename": "%=、%とは",
-      "path": "Rails/%=、%とは.md"
     }
   ],
   "omittedPaths": [],
