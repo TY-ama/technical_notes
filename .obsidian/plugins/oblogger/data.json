@@ -81,7 +81,8 @@
       "openFolders": [
         "/",
         "//Docker",
-        "//Docker/導入"
+        "//Docker/導入",
+        "//Rails"
       ],
       "isVisible": true,
       "isPinned": false,

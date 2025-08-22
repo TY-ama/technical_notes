@@ -1,6 +1,6 @@
 ---
 tags:
-  - t-notes/Rails
+  - t-notes/Rails/スタイルシート
 datetimeCreate: 2025-08-22 23:19
 ---
 ### CSSを一つの巨大なファイルにまとめると

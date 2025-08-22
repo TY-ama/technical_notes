@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "WSL→Railsアプリまで",
+      "path": "Docker/WSL→Railsアプリまで.md"
+    },
+    {
+      "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで",
+      "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md"
+    },
+    {
+      "basename": "destroyメソッド",
+      "path": "General Notes/destroyメソッド.md"
+    },
+    {
+      "basename": "showメソッド",
+      "path": "General Notes/showメソッド.md"
+    },
+    {
+      "basename": "createアクション",
+      "path": "General Notes/createアクション.md"
+    },
+    {
       "basename": "プリコンパイルって？",
       "path": "General Notes/プリコンパイルって？.md"
     },
     {
       "basename": "Sassとは",
       "path": "General Notes/Sassとは.md"
-    },
-    {
-      "basename": "showメソッド",
-      "path": "General Notes/showメソッド.md"
     },
     {
       "basename": "作業ログ",
@@ -27,10 +43,6 @@
     {
       "basename": "Railsアプリ作成の流れ",
       "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
-    },
-    {
-      "basename": "導入の流れ",
-      "path": "Docker/導入の流れ.md"
     },
     {
       "basename": "権限変更",
@@ -63,10 +75,6 @@
     {
       "basename": "build時のエラー",
       "path": "Docker/build時のエラー.md"
-    },
-    {
-      "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで",
-      "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md"
     },
     {
       "basename": "windowsにWSL2+Docker環境を構築する手順",
@@ -183,14 +191,6 @@
     {
       "basename": "デザイン",
       "path": "General Notes/デザイン.md"
-    },
-    {
-      "basename": "createアクション",
-      "path": "General Notes/createアクション.md"
-    },
-    {
-      "basename": "destroyメソッド",
-      "path": "General Notes/destroyメソッド.md"
     },
     {
       "basename": "改行(br)",

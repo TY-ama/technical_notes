@@ -1,6 +1,6 @@
 ---
 tags:
-  - t-notes/Rails
+  - t-notes/Rails/controller
 datetimeCreate: 2025-08-08 01:47
 ---
 >フォームから送られてきたデータを処理するアクション

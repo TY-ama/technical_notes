@@ -1,6 +1,6 @@
 ---
 tags:
-  - t-notes/Rails
+  - t-notes/Rails/controller
 datetimeCreate: 2025-08-13 00:28
 ---
 ## 削除ボタン

@@ -4,8 +4,8 @@
     "explainSearch": false,
     "extraContext": false,
     "matchingCase": false,
-    "query": "",
-    "sortOrder": "byModifiedTime"
+    "query": "tag:t-notes/Rails/controller",
+    "sortOrder": "alphabetical"
   },
   "showFilePath": false,
   "showInstructions": true,
