@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "コンテナの入り方",
+      "path": "Docker/コンテナの入り方.md"
+    },
+    {
+      "basename": "Railsアプリ作成の流れ",
+      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
+    },
+    {
       "basename": "導入の流れ",
       "path": "Docker/導入の流れ.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "基本用語",
       "path": "Docker/基本用語.md"
-    },
-    {
-      "basename": "コンテナの入り方",
-      "path": "Docker/コンテナの入り方.md"
     },
     {
       "basename": "key error",
@@ -71,10 +75,6 @@
     {
       "basename": "今回使用するバージョン",
       "path": "docs/今回使用するバージョン.md"
-    },
-    {
-      "basename": "Railsアプリ作成の流れ",
-      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
     },
     {
       "basename": "2025-07-18-成果発表",
