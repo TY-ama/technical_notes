@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "旧システムでやったこと",
-      "path": "General Notes/旧システムでやったこと.md"
-    },
-    {
       "basename": "導入の流れ",
       "path": "Docker/導入の流れ.md"
+    },
+    {
+      "basename": "旧システムでやったこと",
+      "path": "General Notes/旧システムでやったこと.md"
     },
     {
       "basename": "windowsにWSL2+Docker環境を構築する手順",
