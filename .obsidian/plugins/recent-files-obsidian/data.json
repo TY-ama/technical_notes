@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん",
+      "path": "Clippings/【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん.md"
+    },
+    {
       "basename": "コンテナの入り方",
       "path": "Docker/コンテナの入り方.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "コントローラ",
       "path": "Rails/Railsアプリ/コントローラ.md"
-    },
-    {
-      "basename": "Git設定",
-      "path": "Info Notes/Git設定.md"
     }
   ],
   "omittedPaths": [],
