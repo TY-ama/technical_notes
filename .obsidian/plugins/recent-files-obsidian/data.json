@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Railsアプリ作成の流れ",
+      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
+    },
+    {
+      "basename": "Gemini-d-grid",
+      "path": "Clippings/Gemini-d-grid.md"
+    },
+    {
+      "basename": "Gemini-form",
+      "path": "Clippings/Gemini-form.md"
+    },
+    {
+      "basename": "コンテナの入り方",
+      "path": "Docker/コンテナの入り方.md"
+    },
+    {
       "basename": "導入の流れ",
       "path": "Docker/導入の流れ.md"
     },
@@ -85,10 +101,6 @@
       "path": "General Notes/スライド作成プロンプト.md"
     },
     {
-      "basename": "Railsアプリ作成の流れ",
-      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
-    },
-    {
       "basename": "スライド作成プロンプト",
       "path": "General Notes/スライド作成プロンプト.txt"
     },
@@ -129,10 +141,6 @@
       "path": "Rails/コメントアウト(erb).md"
     },
     {
-      "basename": "Gemini-form",
-      "path": "Clippings/Gemini-form.md"
-    },
-    {
       "basename": "コントローラ",
       "path": "Rails/Railsアプリ/コントローラ.md"
     },
@@ -147,10 +155,6 @@
     {
       "basename": "MVCモデルとは",
       "path": "Rails/MVCモデルとは.md"
-    },
-    {
-      "basename": "コンテナの入り方",
-      "path": "Docker/コンテナの入り方.md"
     },
     {
       "basename": "Pasted image 20250725194953",
@@ -195,10 +199,6 @@
     {
       "basename": "保管庫増設時",
       "path": "Info Notes/保管庫増設時.md"
-    },
-    {
-      "basename": "コメントアウト",
-      "path": "Info Notes/コメントアウト.md"
     }
   ],
   "omittedPaths": [],
