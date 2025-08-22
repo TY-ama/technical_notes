@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "作業ログ",
+      "path": "docs/作業ログ.md"
+    },
+    {
       "basename": "旧システムでやったこと",
       "path": "General Notes/旧システムでやったこと.md"
     },
     {
-      "basename": "Railsアプリ作成の流れ",
-      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
+      "basename": "2025-07-18-成果発表",
+      "path": "docs/2025-07-18-成果発表.md"
     },
     {
       "basename": "今回使用するバージョン",
       "path": "docs/今回使用するバージョン.md"
+    },
+    {
+      "basename": "課題一覧",
+      "path": "docs/課題一覧.md"
+    },
+    {
+      "basename": "やること",
+      "path": "docs/やること.md"
+    },
+    {
+      "basename": "Railsアプリ作成の流れ",
+      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
     },
     {
       "basename": "導入の流れ",
@@ -95,10 +111,6 @@
     {
       "basename": "puts",
       "path": "Ruby/puts.md"
-    },
-    {
-      "basename": "2025-07-18-成果発表",
-      "path": "docs/2025-07-18-成果発表.md"
     },
     {
       "basename": "スライド作成プロンプト",
@@ -187,18 +199,6 @@
     {
       "basename": "Pasted image 20250619115500",
       "path": "res/Pasted image 20250619115500.png"
-    },
-    {
-      "basename": "Pasted image 20250619112456",
-      "path": "res/Pasted image 20250619112456.png"
-    },
-    {
-      "basename": "Pasted image 20250613161244",
-      "path": "res/Pasted image 20250613161244.png"
-    },
-    {
-      "basename": "Pasted image 20250613161123",
-      "path": "res/Pasted image 20250613161123.png"
     }
   ],
   "omittedPaths": [],
