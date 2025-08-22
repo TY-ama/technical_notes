@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "導入の流れ",
+      "path": "Docker/導入の流れ.md"
+    },
+    {
+      "basename": "windowsにWSL2+Docker環境を構築する手順",
+      "path": "Clippings/windowsにWSL2+Docker環境を構築する手順.md"
+    },
+    {
       "basename": "旧システムでやったこと",
       "path": "General Notes/旧システムでやったこと.md"
     },
@@ -33,10 +41,6 @@
       "path": "docs/やること.md"
     },
     {
-      "basename": "導入の流れ",
-      "path": "Docker/導入の流れ.md"
-    },
-    {
       "basename": "Gemini-d-grid",
       "path": "Clippings/Gemini-d-grid.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで",
       "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md"
-    },
-    {
-      "basename": "windowsにWSL2+Docker環境を構築する手順",
-      "path": "Clippings/windowsにWSL2+Docker環境を構築する手順.md"
     },
     {
       "basename": "ほしい機能",

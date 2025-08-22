@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Docker/導入の流れ.md",
+      "timestamp": 1755839958149
+    },
+    {
+      "filepath": "Clippings/windowsにWSL2+Docker環境を構築する手順.md",
+      "timestamp": 1755839955323
+    },
+    {
       "filepath": "General Notes/旧システムでやったこと.md",
       "timestamp": 1755838231934
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "Docker/Dockerコマンド.md",
       "timestamp": 1755838195290
-    },
-    {
-      "filepath": "docs/今回使用するバージョン.md",
-      "timestamp": 1755838187955
-    },
-    {
-      "filepath": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md",
-      "timestamp": 1755838093051
     }
   ],
   "bookmarkedFileStore": [],
