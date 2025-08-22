@@ -5,12 +5,16 @@
       "path": "General Notes/旧システムでやったこと.md"
     },
     {
-      "basename": "導入の流れ",
-      "path": "Docker/導入の流れ.md"
-    },
-    {
       "basename": "Railsアプリ作成の流れ",
       "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
+    },
+    {
+      "basename": "今回使用するバージョン",
+      "path": "docs/今回使用するバージョン.md"
+    },
+    {
+      "basename": "導入の流れ",
+      "path": "Docker/導入の流れ.md"
     },
     {
       "basename": "Gemini-d-grid",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20250613161123",
       "path": "res/Pasted image 20250613161123.png"
-    },
-    {
-      "basename": "保管庫増設時",
-      "path": "Info Notes/保管庫増設時.md"
     }
   ],
   "omittedPaths": [],

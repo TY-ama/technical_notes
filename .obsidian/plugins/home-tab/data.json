@@ -25,23 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "General Notes/旧システムでやったこと.md",
-      "timestamp": 1755832089827
-    },
-    {
-      "filepath": "Docker/導入の流れ.md",
-      "timestamp": 1755831819952
+      "timestamp": 1755832184924
     },
     {
       "filepath": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md",
-      "timestamp": 1755831810302
+      "timestamp": 1755832163303
+    },
+    {
+      "filepath": "docs/今回使用するバージョン.md",
+      "timestamp": 1755832159547
+    },
+    {
+      "filepath": "Docker/導入の流れ.md",
+      "timestamp": 1755832154314
     },
     {
       "filepath": "Clippings/Gemini-d-grid.md",
       "timestamp": 1755831805407
-    },
-    {
-      "filepath": "Clippings/Gemini-form.md",
-      "timestamp": 1755831804212
     }
   ],
   "bookmarkedFileStore": [],
