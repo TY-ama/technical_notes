@@ -2,6 +2,7 @@
 tags:
   - t-notes/Rails/スタイルシート
 datetimeCreate: 2025-08-22 23:19
+description: Obsidianのコールアウト（Callouts）とは、ノート内の特定の情報（注意点、要約、ヒントなど）を視覚的に目立たせるための機能です。
 ---
 ### CSSを一つの巨大なファイルにまとめると
 
