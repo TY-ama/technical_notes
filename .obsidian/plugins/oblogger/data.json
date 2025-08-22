@@ -80,6 +80,7 @@
       "groupType": "tag_group",
       "openFolders": [
         "/",
+        "//Docker",
         "//Docker/導入"
       ],
       "isVisible": true,

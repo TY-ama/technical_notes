@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "作業ログ",
-      "path": "docs/作業ログ.md"
-    },
-    {
       "basename": "旧システムでやったこと",
       "path": "General Notes/旧システムでやったこと.md"
     },
     {
-      "basename": "2025-07-18-成果発表",
-      "path": "docs/2025-07-18-成果発表.md"
+      "basename": "作業ログ",
+      "path": "docs/作業ログ.md"
+    },
+    {
+      "basename": "Dockerコマンド",
+      "path": "Docker/Dockerコマンド.md"
     },
     {
       "basename": "今回使用するバージョン",
       "path": "docs/今回使用するバージョン.md"
+    },
+    {
+      "basename": "Railsアプリ作成の流れ",
+      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
+    },
+    {
+      "basename": "2025-07-18-成果発表",
+      "path": "docs/2025-07-18-成果発表.md"
     },
     {
       "basename": "課題一覧",
@@ -23,10 +31,6 @@
     {
       "basename": "やること",
       "path": "docs/やること.md"
-    },
-    {
-      "basename": "Railsアプリ作成の流れ",
-      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
     },
     {
       "basename": "導入の流れ",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20250703115217",
       "path": "res/Pasted image 20250703115217.png"
-    },
-    {
-      "basename": "Pasted image 20250619115500",
-      "path": "res/Pasted image 20250619115500.png"
     }
   ],
   "omittedPaths": [],
