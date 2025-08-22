@@ -17,6 +17,15 @@ datetimeCreate: 2025-08-22 23:19
 - ただし、CSSの仕様上、ファイルを役割ごとにわけることは少し手間がかかる
 - Sassを使うと、この「役割ごとに分けたCSSファイル」を、最終的にブラウザが読み込める**1つのCSSファイルに自動でまとめてくれる**という、便利な機能があります。
 
+### Sassを使うには
+
+- `app/assets/stylesheets`ディレクトリ内にSassファイル(`.scss`)を置く
+	- `app/assets/stylesheets/application.scss`
+	- `app/assets/stylesheets/_variables.scss`
+	- `app/assets/stylesheets/_buttons.scss`
+- ここでファイル名の先頭にアンダースコア(`_`)がついているものがある
+	- これは「部分的なファイルである」目印
+	- Sassのｓ
 
 
 
