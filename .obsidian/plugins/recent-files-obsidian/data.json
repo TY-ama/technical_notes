@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "複数のcssファイルのインポート",
+      "path": "General Notes/複数のcssファイルのインポート.md"
+    },
+    {
       "basename": "【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん",
       "path": "Clippings/【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "%=、%とは",
       "path": "Rails/%=、%とは.md"
-    },
-    {
-      "basename": "コントローラ",
-      "path": "Rails/Railsアプリ/コントローラ.md"
     }
   ],
   "omittedPaths": [],
