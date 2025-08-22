@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "導入の流れ",
+      "path": "Docker/導入の流れ.md"
+    },
+    {
+      "basename": "権限変更",
+      "path": "Docker/権限変更.md"
+    },
+    {
+      "basename": "基本用語",
+      "path": "Docker/基本用語.md"
+    },
+    {
+      "basename": "コンテナの入り方",
+      "path": "Docker/コンテナの入り方.md"
+    },
+    {
+      "basename": "key error",
+      "path": "Docker/key error.md"
+    },
+    {
+      "basename": "Gemini-Docker-本番環境",
+      "path": "Docker/Gemini-Docker-本番環境.md"
+    },
+    {
+      "basename": "Dockerとは",
+      "path": "Docker/Dockerとは.md"
+    },
+    {
+      "basename": "Dockerコマンド",
+      "path": "Docker/Dockerコマンド.md"
+    },
+    {
+      "basename": "Dockerfile(webページとは若干違う)",
+      "path": "Docker/Dockerfile(webページとは若干違う).md"
+    },
+    {
+      "basename": "build時のエラー",
+      "path": "Docker/build時のエラー.md"
+    },
+    {
       "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで",
       "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md"
     },
@@ -21,20 +61,12 @@
       "path": "Clippings/「Obsidian Git」を導入してみた。｜devlive.md"
     },
     {
-      "basename": "導入の流れ",
-      "path": "Docker/導入の流れ.md"
-    },
-    {
       "basename": "旧システムでやったこと",
       "path": "General Notes/旧システムでやったこと.md"
     },
     {
       "basename": "作業ログ",
       "path": "docs/作業ログ.md"
-    },
-    {
-      "basename": "Dockerコマンド",
-      "path": "Docker/Dockerコマンド.md"
     },
     {
       "basename": "今回使用するバージョン",
@@ -63,10 +95,6 @@
     {
       "basename": "Gemini-form",
       "path": "Clippings/Gemini-form.md"
-    },
-    {
-      "basename": "コンテナの入り方",
-      "path": "Docker/コンテナの入り方.md"
     },
     {
       "basename": "ほしい機能",
@@ -171,34 +199,6 @@
     {
       "basename": "Git設定",
       "path": "Info Notes/Git設定.md"
-    },
-    {
-      "basename": "MVCモデルとは",
-      "path": "Rails/MVCモデルとは.md"
-    },
-    {
-      "basename": "Pasted image 20250725194953",
-      "path": "res/Pasted image 20250725194953.png"
-    },
-    {
-      "basename": "Pasted image 20250725194716",
-      "path": "res/Pasted image 20250725194716.png"
-    },
-    {
-      "basename": "スクリーンショット 2025-07-03 003321",
-      "path": "res/スクリーンショット 2025-07-03 003321.png"
-    },
-    {
-      "basename": "スクリーンショット 2025-07-03 002600",
-      "path": "res/スクリーンショット 2025-07-03 002600.png"
-    },
-    {
-      "basename": "Pasted image 20250725194004",
-      "path": "res/Pasted image 20250725194004.png"
-    },
-    {
-      "basename": "Pasted image 20250703115217",
-      "path": "res/Pasted image 20250703115217.png"
     }
   ],
   "omittedPaths": [],
