@@ -30,7 +30,21 @@ datetimeCreate: 2025-08-22 23:19
 
 ### @useを使ってまとめる
 
-- `@use`を使うと、**読み込んだファイルに固有の名前空間
+- `@use`を使うと、**読み込んだファイルに固有の名前空間**を作ることができる(インスタンス？)
+- 例えば、`app/assets/stylesheets/application.scss`で`@use`を使って`_buttons.scss`と`_forms.scss`を読み込む場合、次のように書きます。
+```scss
+// @use はファイルの先頭に書く必要がある
+@use "variables";
+@use "buttons";
+@use "forms";
+
+// buttons.scss の中の変数やミックスインを使うには、接頭辞をつける
+.btn-primary {
+  background-color: buttons.$primary-color; // 例: buttons.scss の変数
+}
+```
+- この`@use`を使うと、`_buttons.scss`で定義された変数やミックスインは、`buttons.`という接頭辞をつけないと使えません。これにより、**ほかのファイルと名前が衝突するのを防ぐ**ことができる。
+- 一方、
 
 
 
