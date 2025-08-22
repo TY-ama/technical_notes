@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "コメントアウト(erb)",
+      "path": "Rails/コメントアウト(erb).md"
+    },
+    {
+      "basename": "コメント文",
+      "path": "Ruby/コメント文.md"
+    },
+    {
+      "basename": "「Obsidian Git」を導入してみた。｜devlive",
+      "path": "Clippings/「Obsidian Git」を導入してみた。｜devlive.md"
+    },
+    {
       "basename": "導入の流れ",
       "path": "Docker/導入の流れ.md"
     },
@@ -105,10 +117,6 @@
       "path": "Ruby/ターミナル.md"
     },
     {
-      "basename": "コメント文",
-      "path": "Ruby/コメント文.md"
-    },
-    {
       "basename": "putsやprint",
       "path": "Ruby/putsやprint.md"
     },
@@ -157,16 +165,8 @@
       "path": "Rails/%=、%とは.md"
     },
     {
-      "basename": "コメントアウト(erb)",
-      "path": "Rails/コメントアウト(erb).md"
-    },
-    {
       "basename": "コントローラ",
       "path": "Rails/Railsアプリ/コントローラ.md"
-    },
-    {
-      "basename": "「Obsidian Git」を導入してみた。｜devlive",
-      "path": "Clippings/「Obsidian Git」を導入してみた。｜devlive.md"
     },
     {
       "basename": "Git設定",
