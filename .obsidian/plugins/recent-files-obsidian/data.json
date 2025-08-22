@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで",
+      "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md"
+    },
+    {
+      "basename": "windowsにWSL2+Docker環境を構築する手順",
+      "path": "Clippings/windowsにWSL2+Docker環境を構築する手順.md"
+    },
+    {
       "basename": "コメントアウト(erb)",
       "path": "Rails/コメントアウト(erb).md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "旧システムでやったこと",
       "path": "General Notes/旧システムでやったこと.md"
-    },
-    {
-      "basename": "windowsにWSL2+Docker環境を構築する手順",
-      "path": "Clippings/windowsにWSL2+Docker環境を構築する手順.md"
     },
     {
       "basename": "作業ログ",
@@ -63,10 +67,6 @@
     {
       "basename": "コンテナの入り方",
       "path": "Docker/コンテナの入り方.md"
-    },
-    {
-      "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで",
-      "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md"
     },
     {
       "basename": "ほしい機能",

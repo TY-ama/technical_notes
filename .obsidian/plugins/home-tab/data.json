@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md",
+      "timestamp": 1755845040772
+    },
+    {
+      "filepath": "Clippings/windowsにWSL2+Docker環境を構築する手順.md",
+      "timestamp": 1755845040445
+    },
+    {
       "filepath": "Rails/コメントアウト(erb).md",
       "timestamp": 1755843469839
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "Clippings/「Obsidian Git」を導入してみた。｜devlive.md",
       "timestamp": 1755843359112
-    },
-    {
-      "filepath": "Docker/導入の流れ.md",
-      "timestamp": 1755843150731
-    },
-    {
-      "filepath": "General Notes/旧システムでやったこと.md",
-      "timestamp": 1755841105461
     }
   ],
   "bookmarkedFileStore": [],
