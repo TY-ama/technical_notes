@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "WSL→Railsアプリまで",
-      "path": "Docker/WSL→Railsアプリまで.md"
+      "basename": "Sassとは",
+      "path": "General Notes/Sassとは.md"
     },
     {
       "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで",
       "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md"
+    },
+    {
+      "basename": "WSL→Railsアプリまで",
+      "path": "Docker/WSL→Railsアプリまで.md"
     },
     {
       "basename": "destroyメソッド",
@@ -23,10 +27,6 @@
     {
       "basename": "プリコンパイルって？",
       "path": "General Notes/プリコンパイルって？.md"
-    },
-    {
-      "basename": "Sassとは",
-      "path": "General Notes/Sassとは.md"
     },
     {
       "basename": "作業ログ",

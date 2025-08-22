@@ -80,9 +80,9 @@
       "groupType": "tag_group",
       "openFolders": [
         "/",
-        "//Docker",
         "//Docker/導入",
-        "//Rails"
+        "//Rails",
+        "//Rails/スタイルシート"
       ],
       "isVisible": true,
       "isPinned": false,

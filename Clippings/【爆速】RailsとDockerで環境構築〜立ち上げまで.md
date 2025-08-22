@@ -9,7 +9,7 @@ description: 今回は、RailsとDockerの環境構築をして簡単なアプ�
 tags:
   - t-notes/clippings
   - t-notes/Docker/導入
-  - t-notes/Rails
+  - t-notes/Rails/導入
 ---
 
 今回は、RailsとDockerの環境構築をして簡単なアプリケーション作成までざっくりとまとめてみました。
