@@ -2,7 +2,7 @@
 tags:
   - t-notes/Rails/スタイルシート
 datetimeCreate: 2025-08-22 23:19
-description: パーシャルに書かれた部品をSassファイル(例：一覧ページ)で使う。一覧ページのボタンは_button.scssの.btn
+description: パーシャルに書かれた部品をSassファイル(例：一覧ページ)で使う。一覧ページのボタンは_button.scssの.btn-primaryを適用するみたいな。
 ---
 ### CSSを一つの巨大なファイルにまとめると
 
