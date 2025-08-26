@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "やること",
+      "path": "General Notes/やること.md"
+    },
+    {
       "basename": "作業ログ",
       "path": "docs/作業ログ.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "デザイン",
       "path": "General Notes/デザイン.md"
-    },
-    {
-      "basename": "改行(br)",
-      "path": "General Notes/改行(br).md"
     }
   ],
   "omittedPaths": [],
