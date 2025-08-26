@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "WSL→Railsアプリまで",
+      "path": "Docker/WSL→Railsアプリまで.md"
+    },
+    {
       "basename": "Railsアプリ作成の流れ",
       "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
+    },
+    {
+      "basename": "旧システムでやったこと",
+      "path": "General Notes/旧システムでやったこと.md"
     },
     {
       "basename": "コンテナの入り方",
       "path": "Docker/コンテナの入り方.md"
     },
     {
-      "basename": "WSL→Railsアプリまで",
-      "path": "Docker/WSL→Railsアプリまで.md"
-    },
-    {
       "basename": "Dockerコマンド",
       "path": "Docker/Dockerコマンド.md"
-    },
-    {
-      "basename": "旧システムでやったこと",
-      "path": "General Notes/旧システムでやったこと.md"
     },
     {
       "basename": "作業ログ",
