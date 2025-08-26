@@ -5,6 +5,14 @@
       "path": "Docker/WSL→Railsアプリまで.md"
     },
     {
+      "basename": "旧システムでやったこと",
+      "path": "General Notes/旧システムでやったこと.md"
+    },
+    {
+      "basename": "作業ログ",
+      "path": "docs/作業ログ.md"
+    },
+    {
       "basename": "Dockerコマンド",
       "path": "Docker/Dockerコマンド.md"
     },
@@ -25,10 +33,6 @@
       "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md"
     },
     {
-      "basename": "旧システムでやったこと",
-      "path": "General Notes/旧システムでやったこと.md"
-    },
-    {
       "basename": "Sassとは",
       "path": "General Notes/Sassとは.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "プリコンパイルって？",
       "path": "General Notes/プリコンパイルって？.md"
-    },
-    {
-      "basename": "作業ログ",
-      "path": "docs/作業ログ.md"
     },
     {
       "basename": "【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん",

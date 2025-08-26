@@ -111,6 +111,10 @@ su - ユーザー名
 
 それでは早速、はじめていきます。
 
+> [!NOTE] 二つ目を作るとき
+> 5つのファイルのみコピー
+
+
 ### 1\. Dockerに必要なファイルを準備
 
 まずは、今回サンプルで作るRailsのプロジェクト用に、任意の名前でディレクトリを作成します。
@@ -388,7 +392,7 @@ docker-compose up -d
 [http://localhost:3000/](http://localhost:3000/) にアクセスして、以下のように表示されていたらOKです。
 
 > [!warning]
-> **vivaldi**だとうまくいかない
+> **vivaldi**だとうまくいかないもある
 
 [![5.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2949803/fc12c9e3-ae21-5311-2167-f813ecee055a.png)](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2949803%2Ffc12c9e3-ae21-5311-2167-f813ecee055a.png?ixlib=rb-4.0.0&auto=format&gif-q=60&q=75&s=04d25a87f4bea851027b809eb69a62e9)
 
@@ -467,3 +471,5 @@ if (outgoingLinks.length > 0) {
     }
 }
 ```
+
+[^1]: 

@@ -25,7 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "Docker/WSL→Railsアプリまで.md",
-      "timestamp": 1756183386058
+      "timestamp": 1756183794869
+    },
+    {
+      "filepath": "General Notes/旧システムでやったこと.md",
+      "timestamp": 1756183762380
+    },
+    {
+      "filepath": "docs/作業ログ.md",
+      "timestamp": 1756183757231
     },
     {
       "filepath": "Docker/Dockerコマンド.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "Docker/コンテナの入り方.md",
       "timestamp": 1756183252221
-    },
-    {
-      "filepath": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md",
-      "timestamp": 1756183216045
-    },
-    {
-      "filepath": "Clippings/「Obsidian Git」を導入してみた。｜devlive.md",
-      "timestamp": 1756183211331
     }
   ],
   "bookmarkedFileStore": [],
