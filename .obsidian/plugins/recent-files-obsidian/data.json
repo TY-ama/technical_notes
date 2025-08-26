@@ -5,8 +5,12 @@
       "path": "Docker/コンテナの入り方.md"
     },
     {
-      "basename": "Sassとは",
-      "path": "General Notes/Sassとは.md"
+      "basename": "Railsアプリ作成の流れ",
+      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
+    },
+    {
+      "basename": "「Obsidian Git」を導入してみた。｜devlive",
+      "path": "Clippings/「Obsidian Git」を導入してみた。｜devlive.md"
     },
     {
       "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで",
@@ -15,6 +19,14 @@
     {
       "basename": "WSL→Railsアプリまで",
       "path": "Docker/WSL→Railsアプリまで.md"
+    },
+    {
+      "basename": "旧システムでやったこと",
+      "path": "General Notes/旧システムでやったこと.md"
+    },
+    {
+      "basename": "Sassとは",
+      "path": "General Notes/Sassとは.md"
     },
     {
       "basename": "destroyメソッド",
@@ -39,10 +51,6 @@
     {
       "basename": "【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん",
       "path": "Clippings/【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん.md"
-    },
-    {
-      "basename": "Railsアプリ作成の流れ",
-      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
     },
     {
       "basename": "権限変更",
@@ -87,14 +95,6 @@
     {
       "basename": "コメント文",
       "path": "Ruby/コメント文.md"
-    },
-    {
-      "basename": "「Obsidian Git」を導入してみた。｜devlive",
-      "path": "Clippings/「Obsidian Git」を導入してみた。｜devlive.md"
-    },
-    {
-      "basename": "旧システムでやったこと",
-      "path": "General Notes/旧システムでやったこと.md"
     },
     {
       "basename": "今回使用するバージョン",

@@ -82,7 +82,8 @@
         "/",
         "//Docker/導入",
         "//Rails",
-        "//Rails/スタイルシート"
+        "//Rails/スタイルシート",
+        "//docs"
       ],
       "isVisible": true,
       "isPinned": false,
