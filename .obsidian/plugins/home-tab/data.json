@@ -24,24 +24,8 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "General Notes/Sassとは.md",
-      "timestamp": 1755873871768
-    },
-    {
-      "filepath": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md",
-      "timestamp": 1755873845617
-    },
-    {
-      "filepath": "Docker/WSL→Railsアプリまで.md",
-      "timestamp": 1755873775939
-    },
-    {
-      "filepath": "General Notes/destroyメソッド.md",
-      "timestamp": 1755873703363
-    },
-    {
-      "filepath": "General Notes/showメソッド.md",
-      "timestamp": 1755873689037
+      "filepath": "Docker/コンテナの入り方.md",
+      "timestamp": 1756182980709
     }
   ],
   "bookmarkedFileStore": [],
