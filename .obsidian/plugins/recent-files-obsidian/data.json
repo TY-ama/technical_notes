@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "WSL→Railsアプリまで",
+      "path": "Docker/WSL→Railsアプリまで.md"
+    },
+    {
+      "basename": "Dockerコマンド",
+      "path": "Docker/Dockerコマンド.md"
+    },
+    {
       "basename": "コンテナの入り方",
       "path": "Docker/コンテナの入り方.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで",
       "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md"
-    },
-    {
-      "basename": "WSL→Railsアプリまで",
-      "path": "Docker/WSL→Railsアプリまで.md"
     },
     {
       "basename": "旧システムでやったこと",
@@ -71,10 +75,6 @@
     {
       "basename": "Dockerとは",
       "path": "Docker/Dockerとは.md"
-    },
-    {
-      "basename": "Dockerコマンド",
-      "path": "Docker/Dockerコマンド.md"
     },
     {
       "basename": "Dockerfile(webページとは若干違う)",
