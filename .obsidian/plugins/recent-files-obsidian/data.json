@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "作業ログ",
+      "path": "docs/作業ログ.md"
+    },
+    {
+      "basename": "旧システムでやったこと",
+      "path": "General Notes/旧システムでやったこと.md"
+    },
+    {
+      "basename": "cssbudling-rails",
+      "path": "General Notes/cssbudling-rails.md"
+    },
+    {
       "basename": "Dockerコマンド",
       "path": "Docker/Dockerコマンド.md"
     },
@@ -13,16 +25,8 @@
       "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
     },
     {
-      "basename": "旧システムでやったこと",
-      "path": "General Notes/旧システムでやったこと.md"
-    },
-    {
       "basename": "WSL→Railsアプリまで",
       "path": "Docker/WSL→Railsアプリまで.md"
-    },
-    {
-      "basename": "作業ログ",
-      "path": "docs/作業ログ.md"
     },
     {
       "basename": "「Obsidian Git」を導入してみた。｜devlive",
@@ -195,10 +199,6 @@
     {
       "basename": "改行(br)",
       "path": "General Notes/改行(br).md"
-    },
-    {
-      "basename": "Git連携：複数PCメモ同期",
-      "path": "Git/Git連携：複数PCメモ同期.md"
     }
   ],
   "omittedPaths": [],
