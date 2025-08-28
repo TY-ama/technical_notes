@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "WSL→Railsアプリまで",
+      "path": "Docker/WSL→Railsアプリまで.md"
+    },
+    {
       "basename": "旧システムでやったこと",
       "path": "General Notes/旧システムでやったこと.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "2025-08-28",
       "path": "General Notes/2025-08-28.md"
-    },
-    {
-      "basename": "WSL→Railsアプリまで",
-      "path": "Docker/WSL→Railsアプリまで.md"
     },
     {
       "basename": "Railsアプリ作成の流れ",

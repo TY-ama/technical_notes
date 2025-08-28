@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Docker/WSL→Railsアプリまで.md",
+      "timestamp": 1756359251277
+    },
+    {
       "filepath": "General Notes/旧システムでやったこと.md",
       "timestamp": 1756356001688
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "General Notes/2025-08-28.md",
       "timestamp": 1756349624195
-    },
-    {
-      "filepath": "Docker/WSL→Railsアプリまで.md",
-      "timestamp": 1756348913599
     }
   ],
   "bookmarkedFileStore": [],
