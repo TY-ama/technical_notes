@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md",
+      "timestamp": 1756347378555
+    },
+    {
       "filepath": "Docker/コンテナの入り方.md",
-      "timestamp": 1756346985678
+      "timestamp": 1756347216735
     },
     {
       "filepath": "Docker/WSL→Railsアプリまで.md",
@@ -34,10 +38,6 @@
     {
       "filepath": "General Notes/2025-08-28.md",
       "timestamp": 1756342196744
-    },
-    {
-      "filepath": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md",
-      "timestamp": 1756342194714
     },
     {
       "filepath": "General Notes/cssbudling-rails.md",
