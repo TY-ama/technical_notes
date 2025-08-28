@@ -24,7 +24,11 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "General Notes/無題のファイル.md",
+      "filepath": "General Notes/2025-08-28.md",
+      "timestamp": 1756339517477
+    },
+    {
+      "filepath": "General Notes/やること.md",
       "timestamp": 1756186393114
     },
     {
@@ -38,10 +42,6 @@
     {
       "filepath": "General Notes/cssbudling-rails.md",
       "timestamp": 1756186123439
-    },
-    {
-      "filepath": "Docker/Dockerコマンド.md",
-      "timestamp": 1756185932865
     }
   ],
   "bookmarkedFileStore": [],
