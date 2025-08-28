@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "旧システムでやったこと",
+      "path": "General Notes/旧システムでやったこと.md"
+    },
+    {
       "basename": "コンテナの入り方",
       "path": "Docker/コンテナの入り方.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "作業ログ",
       "path": "docs/作業ログ.md"
-    },
-    {
-      "basename": "旧システムでやったこと",
-      "path": "General Notes/旧システムでやったこと.md"
     },
     {
       "basename": "「Obsidian Git」を導入してみた。｜devlive",
