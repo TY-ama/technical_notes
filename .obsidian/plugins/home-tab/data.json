@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Docker/WSL→Railsアプリまで.md",
+      "timestamp": 1756344831718
+    },
+    {
       "filepath": "General Notes/2025-08-28.md",
       "timestamp": 1756342196744
     },
@@ -34,10 +38,6 @@
     {
       "filepath": "Docker/コンテナの入り方.md",
       "timestamp": 1756342133038
-    },
-    {
-      "filepath": "Docker/WSL→Railsアプリまで.md",
-      "timestamp": 1756342123889
     },
     {
       "filepath": "General Notes/cssbudling-rails.md",
