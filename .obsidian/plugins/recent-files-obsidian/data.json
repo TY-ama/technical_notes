@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "求人データ読み込み",
+      "path": "General Notes/求人データ読み込み.md"
+    },
+    {
+      "basename": "Pasted image 20250829105933",
+      "path": "res/Pasted image 20250829105933.png"
+    },
+    {
       "basename": "Dockerコマンド",
       "path": "Docker/Dockerコマンド.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "スライド作成プロンプト",
       "path": "General Notes/スライド作成プロンプト.txt"
-    },
-    {
-      "basename": "ぼくがかんがえた最強のObsidian設定｜古村藍",
-      "path": "Clippings/ぼくがかんがえた最強のObsidian設定｜古村藍.md"
     }
   ],
   "omittedPaths": [],
