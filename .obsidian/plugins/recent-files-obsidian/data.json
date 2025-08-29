@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "作業ログ",
+      "path": "docs/作業ログ.md"
+    },
+    {
       "basename": "MVCモデルとは",
       "path": "Rails/MVCモデルとは.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "求人情報閲覧システム　デザイン",
       "path": "General Notes/求人情報閲覧システム　デザイン.md"
-    },
-    {
-      "basename": "作業ログ",
-      "path": "docs/作業ログ.md"
     },
     {
       "basename": "Dockerコマンド",

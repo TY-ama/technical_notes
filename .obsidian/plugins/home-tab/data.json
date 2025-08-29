@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "docs/作業ログ.md",
+      "timestamp": 1756451771273
+    },
+    {
       "filepath": "Rails/MVCモデルとは.md",
       "timestamp": 1756449762913
     },
