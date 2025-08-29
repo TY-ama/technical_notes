@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "MVCモデルとは",
+      "path": "Rails/MVCモデルとは.md"
+    },
+    {
       "basename": "コンテナの入り方",
       "path": "Docker/コンテナの入り方.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "繰り返し(each do)",
       "path": "Ruby/繰り返し(each do).md"
-    },
-    {
-      "basename": "ハッシュ",
-      "path": "Ruby/ハッシュ.md"
     }
   ],
   "omittedPaths": [],
