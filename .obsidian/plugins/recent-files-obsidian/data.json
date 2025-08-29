@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "作業ログ",
+      "path": "docs/作業ログ.md"
+    },
+    {
+      "basename": "やること",
+      "path": "General Notes/やること.md"
+    },
+    {
       "basename": "求人データ読み込み",
       "path": "General Notes/求人データ読み込み.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Dockerコマンド",
       "path": "Docker/Dockerコマンド.md"
-    },
-    {
-      "basename": "作業ログ",
-      "path": "docs/作業ログ.md"
     },
     {
       "basename": "WSL→Railsアプリまで",
@@ -35,10 +39,6 @@
     {
       "basename": "cssbudling-rails",
       "path": "General Notes/cssbudling-rails.md"
-    },
-    {
-      "basename": "やること",
-      "path": "General Notes/やること.md"
     },
     {
       "basename": "「Obsidian Git」を導入してみた。｜devlive",

@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "docs/作業ログ.md",
+      "timestamp": 1756434302552
+    },
+    {
+      "filepath": "General Notes/やること.md",
+      "timestamp": 1756434288362
+    },
+    {
       "filepath": "General Notes/求人データ読み込み.md",
       "timestamp": 1756432808244
     },
@@ -34,10 +42,6 @@
     {
       "filepath": "Docker/Dockerコマンド.md",
       "timestamp": 1756432591038
-    },
-    {
-      "filepath": "docs/作業ログ.md",
-      "timestamp": 1756432590932
     }
   ],
   "bookmarkedFileStore": [],
