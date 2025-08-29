@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "ほしい機能",
+      "path": "General Notes/ほしい機能.md"
+    },
+    {
+      "basename": "やること",
+      "path": "General Notes/やること.md"
+    },
+    {
+      "basename": "改行(br)",
+      "path": "General Notes/改行(br).md"
+    },
+    {
+      "basename": "求人データ読み込み",
+      "path": "General Notes/求人データ読み込み.md"
+    },
+    {
+      "basename": "求人情報閲覧システム　デザイン",
+      "path": "General Notes/求人情報閲覧システム　デザイン.md"
+    },
+    {
       "basename": "コンテナの入り方",
       "path": "Docker/コンテナの入り方.md"
     },
@@ -11,14 +31,6 @@
     {
       "basename": "作業ログ",
       "path": "docs/作業ログ.md"
-    },
-    {
-      "basename": "やること",
-      "path": "General Notes/やること.md"
-    },
-    {
-      "basename": "求人データ読み込み",
-      "path": "General Notes/求人データ読み込み.md"
     },
     {
       "basename": "Pasted image 20250829105933",
@@ -137,10 +149,6 @@
       "path": "Clippings/Gemini-form.md"
     },
     {
-      "basename": "ほしい機能",
-      "path": "General Notes/ほしい機能.md"
-    },
-    {
       "basename": "メソッド作成",
       "path": "Ruby/class/メソッド作成.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "puts",
       "path": "Ruby/puts.md"
-    },
-    {
-      "basename": "スライド作成プロンプト",
-      "path": "General Notes/スライド作成プロンプト.md"
-    },
-    {
-      "basename": "スライド作成プロンプト",
-      "path": "General Notes/スライド作成プロンプト.txt"
     }
   ],
   "omittedPaths": [],
