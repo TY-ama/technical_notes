@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Railsアプリ作成の流れ",
+      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
+    },
+    {
       "basename": "DB",
       "path": "Info Notes/DB.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "コンテナの入り方",
       "path": "Docker/コンテナの入り方.md"
-    },
-    {
-      "basename": "Railsアプリ作成の流れ",
-      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
     },
     {
       "basename": "作業ログ",
