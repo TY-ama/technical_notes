@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dockerコマンド",
+      "path": "Docker/Dockerコマンド.md"
+    },
+    {
       "basename": "作業ログ",
       "path": "docs/作業ログ.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "コンテナの入り方",
       "path": "Docker/コンテナの入り方.md"
-    },
-    {
-      "basename": "Dockerコマンド",
-      "path": "Docker/Dockerコマンド.md"
     },
     {
       "basename": "Railsアプリ作成の流れ",
