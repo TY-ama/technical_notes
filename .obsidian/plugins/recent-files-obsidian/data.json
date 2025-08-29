@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DB",
+      "path": "Info Notes/DB.md"
+    },
+    {
       "basename": "ほしい機能",
       "path": "General Notes/ほしい機能.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "putsやprint",
       "path": "Ruby/putsやprint.md"
-    },
-    {
-      "basename": "puts",
-      "path": "Ruby/puts.md"
     }
   ],
   "omittedPaths": [],

@@ -80,6 +80,7 @@
       "groupType": "tag_group",
       "openFolders": [
         "/",
+        "//DB",
         "//Docker",
         "//Docker/導入",
         "//Rails",
