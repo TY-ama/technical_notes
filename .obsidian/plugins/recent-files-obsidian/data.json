@@ -5,20 +5,20 @@
       "path": "General Notes/データ項目の検討.md"
     },
     {
-      "basename": "()",
-      "path": "General Notes/().md"
-    },
-    {
       "basename": "DB",
       "path": "Info Notes/DB.md"
     },
     {
-      "basename": "ほしい機能",
-      "path": "General Notes/ほしい機能.md"
-    },
-    {
       "basename": "やること",
       "path": "General Notes/やること.md"
+    },
+    {
+      "basename": "旧システムでやったこと",
+      "path": "General Notes/旧システムでやったこと.md"
+    },
+    {
+      "basename": "ほしい機能",
+      "path": "General Notes/ほしい機能.md"
     },
     {
       "basename": "改行(br)",
@@ -55,10 +55,6 @@
     {
       "basename": "WSL→Railsアプリまで",
       "path": "Docker/WSL→Railsアプリまで.md"
-    },
-    {
-      "basename": "旧システムでやったこと",
-      "path": "General Notes/旧システムでやったこと.md"
     },
     {
       "basename": "cssbudling-rails",
