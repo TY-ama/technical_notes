@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "データ項目の検討",
+      "path": "General Notes/データ項目の検討.md"
+    },
+    {
+      "basename": "()",
+      "path": "General Notes/().md"
+    },
+    {
       "basename": "DB",
       "path": "Info Notes/DB.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "ハッシュ",
       "path": "Ruby/ハッシュ.md"
-    },
-    {
-      "basename": "ターミナル",
-      "path": "Ruby/ターミナル.md"
-    },
-    {
-      "basename": "putsやprint",
-      "path": "Ruby/putsやprint.md"
     }
   ],
   "omittedPaths": [],
