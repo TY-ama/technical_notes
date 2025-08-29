@@ -24,12 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "General Notes/データ項目の検討.md",
-      "timestamp": 1756441642045
+      "filepath": "Info Notes/DB.md",
+      "timestamp": 1756441839378
     },
     {
-      "filepath": "Info Notes/DB.md",
-      "timestamp": 1756441562496
+      "filepath": "General Notes/データ項目の検討.md",
+      "timestamp": 1756441642045
     },
     {
       "filepath": "General Notes/やること.md",
@@ -38,10 +38,6 @@
     {
       "filepath": "General Notes/旧システムでやったこと.md",
       "timestamp": 1756441537691
-    },
-    {
-      "filepath": "General Notes/ほしい機能.md",
-      "timestamp": 1756435772888
     }
   ],
   "bookmarkedFileStore": [],
