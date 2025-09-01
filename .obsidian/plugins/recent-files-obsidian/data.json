@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sassとは",
+      "path": "General Notes/Sassとは.md"
+    },
+    {
       "basename": "作業ログ",
       "path": "docs/作業ログ.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "【爆速】RailsとDockerで環境構築〜立ち上げまで",
       "path": "Clippings/【爆速】RailsとDockerで環境構築〜立ち上げまで.md"
-    },
-    {
-      "basename": "Sassとは",
-      "path": "General Notes/Sassとは.md"
     },
     {
       "basename": "destroyメソッド",
