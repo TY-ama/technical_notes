@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "General Notes/Sassとは.md",
+      "timestamp": 1756688069366
+    },
+    {
       "filepath": "Docker/コンテナの入り方.md",
       "timestamp": 1756687753208
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "General Notes/旧システムでやったこと.md",
       "timestamp": 1756687738617
-    },
-    {
-      "filepath": "General Notes/データ項目の検討.md",
-      "timestamp": 1756687737409
     }
   ],
   "bookmarkedFileStore": [],
