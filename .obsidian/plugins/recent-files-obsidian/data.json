@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "WSL→Railsアプリまで",
+      "path": "Docker/WSL→Railsアプリまで.md"
+    },
+    {
+      "basename": "コンテナの入り方",
+      "path": "Docker/コンテナの入り方.md"
+    },
+    {
       "basename": "旧システムでやったこと",
       "path": "General Notes/旧システムでやったこと.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Sassとは",
       "path": "General Notes/Sassとは.md"
-    },
-    {
-      "basename": "コンテナの入り方",
-      "path": "Docker/コンテナの入り方.md"
     },
     {
       "basename": "Railsアプリ作成の流れ",
@@ -67,10 +71,6 @@
     {
       "basename": "Dockerコマンド",
       "path": "Docker/Dockerコマンド.md"
-    },
-    {
-      "basename": "WSL→Railsアプリまで",
-      "path": "Docker/WSL→Railsアプリまで.md"
     },
     {
       "basename": "cssbudling-rails",
