@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Sassとは",
-      "path": "General Notes/Sassとは.md"
-    },
-    {
-      "basename": "作業ログ",
-      "path": "docs/作業ログ.md"
-    },
-    {
-      "basename": "MVCモデルとは",
-      "path": "Rails/MVCモデルとは.md"
-    },
-    {
       "basename": "コンテナの入り方",
       "path": "Docker/コンテナの入り方.md"
     },
     {
       "basename": "Railsアプリ作成の流れ",
       "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
+    },
+    {
+      "basename": "作業ログ",
+      "path": "docs/作業ログ.md"
+    },
+    {
+      "basename": "旧システムでやったこと",
+      "path": "General Notes/旧システムでやったこと.md"
+    },
+    {
+      "basename": "データ項目の検討",
+      "path": "General Notes/データ項目の検討.md"
+    },
+    {
+      "basename": "Sassとは",
+      "path": "General Notes/Sassとは.md"
+    },
+    {
+      "basename": "MVCモデルとは",
+      "path": "Rails/MVCモデルとは.md"
     },
     {
       "basename": "DB",
@@ -37,16 +45,8 @@
       "path": "res/Pasted image 20250829133432.png"
     },
     {
-      "basename": "データ項目の検討",
-      "path": "General Notes/データ項目の検討.md"
-    },
-    {
       "basename": "やること",
       "path": "General Notes/やること.md"
-    },
-    {
-      "basename": "旧システムでやったこと",
-      "path": "General Notes/旧システムでやったこと.md"
     },
     {
       "basename": "ほしい機能",
