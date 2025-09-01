@@ -5,6 +5,10 @@
       "path": "General Notes/旧システムでやったこと.md"
     },
     {
+      "basename": "sassのコンパイルについて",
+      "path": "General Notes/sassのコンパイルについて.md"
+    },
+    {
       "basename": "Sassとは",
       "path": "General Notes/Sassとは.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "型指定",
       "path": "Ruby/型指定.md"
-    },
-    {
-      "basename": "繰り返し(each do)",
-      "path": "Ruby/繰り返し(each do).md"
     }
   ],
   "omittedPaths": [],

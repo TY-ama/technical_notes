@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "General Notes/旧システムでやったこと.md",
-      "timestamp": 1756693048020
+      "timestamp": 1756694979033
+    },
+    {
+      "filepath": "General Notes/sassのコンパイルについて.md",
+      "timestamp": 1756694965589
     },
     {
       "filepath": "General Notes/Sassとは.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md",
       "timestamp": 1756687750996
-    },
-    {
-      "filepath": "docs/作業ログ.md",
-      "timestamp": 1756687739264
     }
   ],
   "bookmarkedFileStore": [],
