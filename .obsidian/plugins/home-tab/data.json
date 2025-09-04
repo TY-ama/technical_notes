@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "docs/作業ログ.md",
+      "timestamp": 1756951974858
+    },
+    {
+      "filepath": "General Notes/旧システムでやったこと.md",
+      "timestamp": 1756951964737
+    },
+    {
       "filepath": "Docker/コンテナの入り方.md",
       "timestamp": 1756951297598
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "General Notes/Sassとは.md",
       "timestamp": 1756951273067
-    },
-    {
-      "filepath": "General Notes/旧システムでやったこと.md",
-      "timestamp": 1756950786186
-    },
-    {
-      "filepath": "Docker/WSL→Railsアプリまで.md",
-      "timestamp": 1756950783173
     }
   ],
   "bookmarkedFileStore": [],
