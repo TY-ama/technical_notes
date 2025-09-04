@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "作業ログ",
-      "path": "docs/作業ログ.md"
-    },
-    {
-      "basename": "今回使用するバージョン",
-      "path": "docs/今回使用するバージョン.md"
-    },
-    {
       "basename": "コンテナの入り方",
       "path": "Docker/コンテナの入り方.md"
     },
@@ -19,6 +11,14 @@
     {
       "basename": "WSL→Railsアプリまで",
       "path": "Docker/WSL→Railsアプリまで.md"
+    },
+    {
+      "basename": "作業ログ",
+      "path": "docs/作業ログ.md"
+    },
+    {
+      "basename": "今回使用するバージョン",
+      "path": "docs/今回使用するバージョン.md"
     },
     {
       "basename": "旧システムでやったこと",
