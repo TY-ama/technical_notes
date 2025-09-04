@@ -13,16 +13,16 @@
       "path": "Docker/WSL→Railsアプリまで.md"
     },
     {
+      "basename": "旧システムでやったこと",
+      "path": "General Notes/旧システムでやったこと.md"
+    },
+    {
       "basename": "今回使用するバージョン",
       "path": "docs/今回使用するバージョン.md"
     },
     {
       "basename": "旧システムのコピー",
       "path": "General Notes/旧システムのコピー.md"
-    },
-    {
-      "basename": "旧システムでやったこと",
-      "path": "General Notes/旧システムでやったこと.md"
     },
     {
       "basename": "MVCモデルとは",
