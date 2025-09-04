@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "WSL→Railsアプリまで",
+      "path": "Docker/WSL→Railsアプリまで.md"
+    },
+    {
+      "basename": "旧システムのコピー",
+      "path": "General Notes/旧システムのコピー.md"
+    },
+    {
       "basename": "旧システムでやったこと",
       "path": "General Notes/旧システムでやったこと.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Sassとは",
       "path": "General Notes/Sassとは.md"
-    },
-    {
-      "basename": "WSL→Railsアプリまで",
-      "path": "Docker/WSL→Railsアプリまで.md"
     },
     {
       "basename": "sassのコンパイルについて",
@@ -195,10 +199,6 @@
     {
       "basename": "配列",
       "path": "Ruby/配列.md"
-    },
-    {
-      "basename": "型指定",
-      "path": "Ruby/型指定.md"
     }
   ],
   "omittedPaths": [],
