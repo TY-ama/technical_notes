@@ -5,20 +5,24 @@
       "path": "Docker/WSL→Railsアプリまで.md"
     },
     {
-      "basename": "コンテナの入り方",
-      "path": "Docker/コンテナの入り方.md"
-    },
-    {
       "basename": "旧システムのコピー",
       "path": "General Notes/旧システムのコピー.md"
     },
     {
-      "basename": "旧システムでやったこと",
-      "path": "General Notes/旧システムでやったこと.md"
+      "basename": "sassのコンパイルについて",
+      "path": "General Notes/sassのコンパイルについて.md"
     },
     {
       "basename": "作業ログ",
       "path": "docs/作業ログ.md"
+    },
+    {
+      "basename": "コンテナの入り方",
+      "path": "Docker/コンテナの入り方.md"
+    },
+    {
+      "basename": "旧システムでやったこと",
+      "path": "General Notes/旧システムでやったこと.md"
     },
     {
       "basename": "Railsアプリ作成の流れ",
@@ -27,10 +31,6 @@
     {
       "basename": "Sassとは",
       "path": "General Notes/Sassとは.md"
-    },
-    {
-      "basename": "sassのコンパイルについて",
-      "path": "General Notes/sassのコンパイルについて.md"
     },
     {
       "basename": "データ項目の検討",
