@@ -5,24 +5,44 @@
       "path": "General Notes/旧システムのコピー.md"
     },
     {
+      "basename": "旧システムでやったこと",
+      "path": "General Notes/旧システムでやったこと.md"
+    },
+    {
       "basename": "作業ログ",
       "path": "docs/作業ログ.md"
     },
     {
-      "basename": "WSL→Railsアプリまで",
-      "path": "Docker/WSL→Railsアプリまで.md"
+      "basename": "ほしい機能",
+      "path": "General Notes/ほしい機能.md"
+    },
+    {
+      "basename": "やること",
+      "path": "General Notes/やること.md"
+    },
+    {
+      "basename": "スライド作成プロンプト",
+      "path": "General Notes/スライド作成プロンプト.md"
+    },
+    {
+      "basename": "データ項目の検討",
+      "path": "General Notes/データ項目の検討.md"
+    },
+    {
+      "basename": "今回使用するバージョン",
+      "path": "docs/今回使用するバージョン.md"
     },
     {
       "basename": "sassのコンパイルについて",
       "path": "General Notes/sassのコンパイルについて.md"
     },
     {
-      "basename": "コンテナの入り方",
-      "path": "Docker/コンテナの入り方.md"
+      "basename": "WSL→Railsアプリまで",
+      "path": "Docker/WSL→Railsアプリまで.md"
     },
     {
-      "basename": "旧システムでやったこと",
-      "path": "General Notes/旧システムでやったこと.md"
+      "basename": "コンテナの入り方",
+      "path": "Docker/コンテナの入り方.md"
     },
     {
       "basename": "Railsアプリ作成の流れ",
@@ -31,10 +51,6 @@
     {
       "basename": "Sassとは",
       "path": "General Notes/Sassとは.md"
-    },
-    {
-      "basename": "データ項目の検討",
-      "path": "General Notes/データ項目の検討.md"
     },
     {
       "basename": "MVCモデルとは",
@@ -55,14 +71,6 @@
     {
       "basename": "Pasted image 20250829133432",
       "path": "res/Pasted image 20250829133432.png"
-    },
-    {
-      "basename": "やること",
-      "path": "General Notes/やること.md"
-    },
-    {
-      "basename": "ほしい機能",
-      "path": "General Notes/ほしい機能.md"
     },
     {
       "basename": "改行(br)",
@@ -149,10 +157,6 @@
       "path": "Ruby/コメント文.md"
     },
     {
-      "basename": "今回使用するバージョン",
-      "path": "docs/今回使用するバージョン.md"
-    },
-    {
       "basename": "2025-07-18-成果発表",
       "path": "docs/2025-07-18-成果発表.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "命名規則",
       "path": "Ruby/命名規則.md"
-    },
-    {
-      "basename": "配列",
-      "path": "Ruby/配列.md"
     }
   ],
   "omittedPaths": [],
