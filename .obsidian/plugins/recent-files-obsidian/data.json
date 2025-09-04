@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "旧システムでやったこと",
+      "path": "General Notes/旧システムでやったこと.md"
+    },
+    {
       "basename": "WSL→Railsアプリまで",
       "path": "Docker/WSL→Railsアプリまで.md"
     },
     {
       "basename": "コンテナの入り方",
       "path": "Docker/コンテナの入り方.md"
-    },
-    {
-      "basename": "旧システムでやったこと",
-      "path": "General Notes/旧システムでやったこと.md"
     },
     {
       "basename": "sassのコンパイルについて",
