@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "コンテナの入り方",
+      "path": "Docker/コンテナの入り方.md"
+    },
+    {
+      "basename": "Railsアプリ作成の流れ",
+      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
+    },
+    {
+      "basename": "Sassとは",
+      "path": "General Notes/Sassとは.md"
+    },
+    {
       "basename": "旧システムでやったこと",
       "path": "General Notes/旧システムでやったこと.md"
     },
@@ -9,20 +21,8 @@
       "path": "Docker/WSL→Railsアプリまで.md"
     },
     {
-      "basename": "コンテナの入り方",
-      "path": "Docker/コンテナの入り方.md"
-    },
-    {
       "basename": "sassのコンパイルについて",
       "path": "General Notes/sassのコンパイルについて.md"
-    },
-    {
-      "basename": "Sassとは",
-      "path": "General Notes/Sassとは.md"
-    },
-    {
-      "basename": "Railsアプリ作成の流れ",
-      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
     },
     {
       "basename": "作業ログ",
