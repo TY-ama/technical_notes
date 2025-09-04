@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "docs/作業ログ.md",
+      "timestamp": 1756969882800
+    },
+    {
+      "filepath": "docs/今回使用するバージョン.md",
+      "timestamp": 1756969782969
+    },
+    {
       "filepath": "Docker/コンテナの入り方.md",
       "timestamp": 1756969317999
     }

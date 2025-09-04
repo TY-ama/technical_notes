@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "作業ログ",
+      "path": "docs/作業ログ.md"
+    },
+    {
+      "basename": "今回使用するバージョン",
+      "path": "docs/今回使用するバージョン.md"
+    },
+    {
       "basename": "コンテナの入り方",
       "path": "Docker/コンテナの入り方.md"
     },
@@ -17,20 +25,12 @@
       "path": "General Notes/旧システムでやったこと.md"
     },
     {
-      "basename": "今回使用するバージョン",
-      "path": "docs/今回使用するバージョン.md"
-    },
-    {
       "basename": "旧システムのコピー",
       "path": "General Notes/旧システムのコピー.md"
     },
     {
       "basename": "MVCモデルとは",
       "path": "Rails/MVCモデルとは.md"
-    },
-    {
-      "basename": "作業ログ",
-      "path": "docs/作業ログ.md"
     },
     {
       "basename": "ほしい機能",
