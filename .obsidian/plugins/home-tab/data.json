@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "General Notes/旧システムのコピー.md",
+      "timestamp": 1756970535567
+    },
+    {
       "filepath": "Docker/コンテナの入り方.md",
       "timestamp": 1756970322689
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "docs/作業ログ.md",
       "timestamp": 1756969882800
-    },
-    {
-      "filepath": "docs/今回使用するバージョン.md",
-      "timestamp": 1756969782969
     }
   ],
   "bookmarkedFileStore": [],

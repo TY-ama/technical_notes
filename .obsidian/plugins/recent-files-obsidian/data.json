@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "旧システムのコピー",
+      "path": "General Notes/旧システムのコピー.md"
+    },
+    {
       "basename": "コンテナの入り方",
       "path": "Docker/コンテナの入り方.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "旧システムでやったこと",
       "path": "General Notes/旧システムでやったこと.md"
-    },
-    {
-      "basename": "旧システムのコピー",
-      "path": "General Notes/旧システムのコピー.md"
     },
     {
       "basename": "MVCモデルとは",
