@@ -13,6 +13,10 @@
       "path": "Docker/WSL→Railsアプリまで.md"
     },
     {
+      "basename": "今回使用するバージョン",
+      "path": "docs/今回使用するバージョン.md"
+    },
+    {
       "basename": "旧システムのコピー",
       "path": "General Notes/旧システムのコピー.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "データ項目の検討",
       "path": "General Notes/データ項目の検討.md"
-    },
-    {
-      "basename": "今回使用するバージョン",
-      "path": "docs/今回使用するバージョン.md"
     },
     {
       "basename": "sassのコンパイルについて",
