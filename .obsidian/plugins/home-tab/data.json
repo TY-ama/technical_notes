@@ -25,11 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "General Notes/旧システムのコピー.md",
-      "timestamp": 1756959519891
+      "timestamp": 1756959845003
     },
     {
       "filepath": "General Notes/旧システムでやったこと.md",
-      "timestamp": 1756959512375
+      "timestamp": 1756959838645
+    },
+    {
+      "filepath": "Docker/コンテナの入り方.md",
+      "timestamp": 1756959715142
     },
     {
       "filepath": "docs/作業ログ.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "General Notes/ほしい機能.md",
       "timestamp": 1756959266421
-    },
-    {
-      "filepath": "General Notes/やること.md",
-      "timestamp": 1756959265502
     }
   ],
   "bookmarkedFileStore": [],

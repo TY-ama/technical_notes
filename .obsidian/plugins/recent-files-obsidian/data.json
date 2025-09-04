@@ -9,6 +9,10 @@
       "path": "General Notes/旧システムでやったこと.md"
     },
     {
+      "basename": "コンテナの入り方",
+      "path": "Docker/コンテナの入り方.md"
+    },
+    {
       "basename": "作業ログ",
       "path": "docs/作業ログ.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "WSL→Railsアプリまで",
       "path": "Docker/WSL→Railsアプリまで.md"
-    },
-    {
-      "basename": "コンテナの入り方",
-      "path": "Docker/コンテナの入り方.md"
     },
     {
       "basename": "Railsアプリ作成の流れ",
