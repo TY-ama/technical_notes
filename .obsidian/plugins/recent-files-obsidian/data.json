@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "WSL→Railsアプリまで",
+      "path": "Docker/WSL→Railsアプリまで.md"
+    },
+    {
       "basename": "旧システムのコピー",
       "path": "General Notes/旧システムのコピー.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "sassのコンパイルについて",
       "path": "General Notes/sassのコンパイルについて.md"
-    },
-    {
-      "basename": "WSL→Railsアプリまで",
-      "path": "Docker/WSL→Railsアプリまで.md"
     },
     {
       "basename": "Railsアプリ作成の流れ",
