@@ -5,12 +5,12 @@
       "path": "General Notes/旧システムのコピー.md"
     },
     {
-      "basename": "作業ログ",
-      "path": "docs/作業ログ.md"
-    },
-    {
       "basename": "旧システムでやったこと",
       "path": "General Notes/旧システムでやったこと.md"
+    },
+    {
+      "basename": "作業ログ",
+      "path": "docs/作業ログ.md"
     },
     {
       "basename": "コンテナの入り方",
