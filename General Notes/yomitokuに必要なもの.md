@@ -4,6 +4,7 @@ tags:
 datetimeCreate: 2025-09-05 11:50
 ---
 - python：3.10 3.11 3.12
+	- 入ってる
 - Pytorch：2.5
 - CUDA：>=11.8
 
