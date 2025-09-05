@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "作業ログ",
+      "path": "docs/作業ログ.md"
+    },
+    {
       "basename": "求人登録",
       "path": "General Notes/求人登録.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "旧システムのコピー",
       "path": "General Notes/旧システムのコピー.md"
-    },
-    {
-      "basename": "作業ログ",
-      "path": "docs/作業ログ.md"
     },
     {
       "basename": "コンテナの入り方",
