@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "General Notes/無題のファイル.md",
+      "timestamp": 1757040616029
+    },
+    {
       "filepath": "General Notes/求人登録.md",
       "timestamp": 1757037717887
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "Rails/MVCモデルとは.md",
       "timestamp": 1757034403627
-    },
-    {
-      "filepath": "General Notes/旧システムでやったこと.md",
-      "timestamp": 1757032977863
     }
   ],
   "bookmarkedFileStore": [],

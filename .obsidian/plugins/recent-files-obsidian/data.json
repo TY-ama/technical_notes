@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "yomitokuに必要なもの",
+      "path": "General Notes/yomitokuに必要なもの.md"
+    },
+    {
       "basename": "求人登録",
       "path": "General Notes/求人登録.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "attr_accessor(属性アクセサ)",
       "path": "Ruby/class/attr_accessor(属性アクセサ).md"
-    },
-    {
-      "basename": "@name(インスタンス変数)",
-      "path": "Ruby/class/@name(インスタンス変数).md"
     }
   ],
   "omittedPaths": [],
