@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "無題のファイル",
+      "path": "General Notes/無題のファイル.md"
+    },
+    {
       "basename": "旧システムでやったこと",
       "path": "General Notes/旧システムでやったこと.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "@name(インスタンス変数)",
       "path": "Ruby/class/@name(インスタンス変数).md"
-    },
-    {
-      "basename": "命名規則",
-      "path": "Ruby/命名規則.md"
     }
   ],
   "omittedPaths": [],
