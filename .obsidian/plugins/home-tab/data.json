@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "General Notes/求人登録.md",
+      "timestamp": 1757049262593
+    },
+    {
       "filepath": "General Notes/旧システムのコピー.md",
       "timestamp": 1757047894559
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "General Notes/nvidiaドライバ.md",
       "timestamp": 1757045921188
-    },
-    {
-      "filepath": "Docker/WSL→Railsアプリまで.md",
-      "timestamp": 1757045912344
     }
   ],
   "bookmarkedFileStore": [],

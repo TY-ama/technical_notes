@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "求人登録",
+      "path": "General Notes/求人登録.md"
+    },
+    {
       "basename": "旧システムのコピー",
       "path": "General Notes/旧システムのコピー.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "WSL→Railsアプリまで",
       "path": "Docker/WSL→Railsアプリまで.md"
-    },
-    {
-      "basename": "求人登録",
-      "path": "General Notes/求人登録.md"
     },
     {
       "basename": "MVCモデルとは",
