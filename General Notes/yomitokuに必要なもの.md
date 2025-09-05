@@ -7,6 +7,7 @@ datetimeCreate: 2025-09-05 11:50
 	- 入ってる
 - Pytorch：2.5
 - nvidiaドライバ
+	- 580.82.07
 - CUDA：>=11.8
 
 
