@@ -5,16 +5,20 @@
       "path": "General Notes/求人登録.md"
     },
     {
+      "basename": "yomitokuに必要なもの",
+      "path": "General Notes/yomitokuに必要なもの.md"
+    },
+    {
       "basename": "旧システムのコピー",
       "path": "General Notes/旧システムのコピー.md"
     },
     {
-      "basename": "コンテナの入り方",
-      "path": "Docker/コンテナの入り方.md"
+      "basename": "作業ログ",
+      "path": "docs/作業ログ.md"
     },
     {
-      "basename": "yomitokuに必要なもの",
-      "path": "General Notes/yomitokuに必要なもの.md"
+      "basename": "コンテナの入り方",
+      "path": "Docker/コンテナの入り方.md"
     },
     {
       "basename": "nvidiaドライバ",
@@ -35,10 +39,6 @@
     {
       "basename": "Railsアプリ作成の流れ",
       "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
-    },
-    {
-      "basename": "作業ログ",
-      "path": "docs/作業ログ.md"
     },
     {
       "basename": "今回使用するバージョン",
