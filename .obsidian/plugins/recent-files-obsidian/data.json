@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "旧システムでやったこと",
+      "path": "General Notes/旧システムでやったこと.md"
+    },
+    {
       "basename": "MVCモデルとは",
       "path": "Rails/MVCモデルとは.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "今回使用するバージョン",
       "path": "docs/今回使用するバージョン.md"
-    },
-    {
-      "basename": "旧システムでやったこと",
-      "path": "General Notes/旧システムでやったこと.md"
     },
     {
       "basename": "ほしい機能",
