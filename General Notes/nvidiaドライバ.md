@@ -1,14 +1,9 @@
 ---
 tags:
-  - t-notes/docs
-datetimeCreate: 2025-09-05 11:50
+  - t-notes/
+datetimeCreate: 2025-09-05 13:16
 ---
-- python：3.10 3.11 3.12
-	- 入ってる
-- Pytorch：2.5
-- [[nvidiaドライバ]]
-	- 580.82.07
-- CUDA：>=11.8
+
 
 
 

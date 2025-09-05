@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "nvidiaドライバ",
+      "path": "General Notes/nvidiaドライバ.md"
+    },
+    {
       "basename": "yomitokuに必要なもの",
       "path": "General Notes/yomitokuに必要なもの.md"
+    },
+    {
+      "basename": "WSL→Railsアプリまで",
+      "path": "Docker/WSL→Railsアプリまで.md"
     },
     {
       "basename": "求人登録",
@@ -27,10 +35,6 @@
     {
       "basename": "Railsアプリ作成の流れ",
       "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
-    },
-    {
-      "basename": "WSL→Railsアプリまで",
-      "path": "Docker/WSL→Railsアプリまで.md"
     },
     {
       "basename": "作業ログ",
@@ -195,10 +199,6 @@
     {
       "basename": "initilize",
       "path": "Ruby/class/initilize.md"
-    },
-    {
-      "basename": "attr_accessor(属性アクセサ)",
-      "path": "Ruby/class/attr_accessor(属性アクセサ).md"
     }
   ],
   "omittedPaths": [],
