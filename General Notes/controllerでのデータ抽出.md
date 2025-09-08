@@ -1,8 +1,61 @@
 ---
-tags: 
+tags:
+  - t-notes/Rails
 datetimeCreate: 2025-09-08 09:14
 ---
-
+```ruby
+class DbsampleController < ApplicationController
+	def index
+	
+	    @dbsample = Array.new
+	
+	    @item = Offer.joins(:enterprise).where('? between start and end', Date.today)
+	
+	  
+	
+	    if request.post? then
+	
+	      @word = params['index']
+	
+	      if params[:all] == nil then
+	
+	        @item = Offer.joins(:enterprise).where('kyujincode LIKE ?',"%#{@word}%")
+	
+	          .or(Offer.joins(:enterprise).where('name LIKE ?',"%#{@word}%"))
+	
+	          .or(Offer.joins(:enterprise).where('kana LIKE ?',"%#{@word}%"))
+	
+	          .or(Offer.joins(:enterprise).where('content LIKE ?',"%#{@word}%"))
+	
+	          .or(Offer.joins(:enterprise).where('address LIKE ?',"%#{@word}%"))
+	
+	          .or(Offer.joins(:enterprise).where('main_address LIKE ?',"%#{@word}%"))
+	
+	          .where('? between start and end', Date.today)
+	
+	      else
+	
+	        @item = Offer.joins(:enterprise).where('kyujincode LIKE ?',"%#{@word}%")
+	
+	          .or(Offer.joins(:enterprise).where('name LIKE ?',"%#{@word}%"))
+	
+	          .or(Offer.joins(:enterprise).where('kana LIKE ?',"%#{@word}%"))
+	
+	          .or(Offer.joins(:enterprise).where('content LIKE ?',"%#{@word}%"))
+	
+	          .or(Offer.joins(:enterprise).where('address LIKE ?',"%#{@word}%"))
+	
+	          .or(Offer.joins(:enterprise).where('main_address LIKE ?',"%#{@word}%"))
+	
+	      end
+	
+	    end
+	
+	    @item = @item.order(sort_column + ' ' + sort_direction)
+	
+	  end
+end
+```
 
 
 
