@@ -40,8 +40,12 @@ end
 ```ruby
 @dbsample = Array.new
 ```
-- 
+- `@dbsample`に空の配列を代入
 
+```ruby
+@item = Offer.joins(:enterprise).where('? between start and end', Date.today)
+```
+- 
 
 
 ```dataviewjs
