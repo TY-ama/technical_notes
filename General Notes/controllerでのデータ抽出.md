@@ -3,6 +3,8 @@ tags:
   - t-notes/Rails
 datetimeCreate: 2025-09-08 09:14
 ---
+# サンプル
+
 ```ruby
 class DbsampleController < ApplicationController
 	def index
