@@ -46,7 +46,7 @@ end
 @item = Offer.joins(:enterprise).where('? between start and end', Date.today)
 ```
 - 一言で言うと
-	- 「今日が掲載期間内である求人情報」を、企業情報と紐づけてデータベースからすｂ
+	- 「今日が掲載期間内である求人情報」を、企業情報と紐づけてデータベースからすべて取得し、`@item`という変数に格納する処理
 
 
 ```dataviewjs
