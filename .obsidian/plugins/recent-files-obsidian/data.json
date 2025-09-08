@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "nvidiaドライバ",
+      "path": "General Notes/nvidiaドライバ.md"
+    },
+    {
+      "basename": "yomitokuに必要なもの",
+      "path": "General Notes/yomitokuに必要なもの.md"
+    },
+    {
       "basename": "求人登録",
       "path": "General Notes/求人登録.md"
     },
     {
       "basename": "旧システムのコピー",
       "path": "General Notes/旧システムのコピー.md"
-    },
-    {
-      "basename": "yomitokuに必要なもの",
-      "path": "General Notes/yomitokuに必要なもの.md"
     },
     {
       "basename": "controllerでのデータ抽出",
@@ -195,10 +199,6 @@
     {
       "basename": "クラスとインスタンス",
       "path": "Ruby/class/クラスとインスタンス.md"
-    },
-    {
-      "basename": "initilize",
-      "path": "Ruby/class/initilize.md"
     }
   ],
   "omittedPaths": [],
