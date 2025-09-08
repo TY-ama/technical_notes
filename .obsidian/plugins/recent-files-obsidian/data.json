@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "無題のファイル",
+      "path": "General Notes/無題のファイル.md"
+    },
+    {
+      "basename": "yomitokuに必要なもの",
+      "path": "General Notes/yomitokuに必要なもの.md"
+    },
+    {
       "basename": "求人登録",
       "path": "General Notes/求人登録.md"
     },
@@ -9,20 +17,12 @@
       "path": "docs/作業ログ.md"
     },
     {
-      "basename": "yomitokuに必要なもの",
-      "path": "General Notes/yomitokuに必要なもの.md"
-    },
-    {
       "basename": "旧システムのコピー",
       "path": "General Notes/旧システムのコピー.md"
     },
     {
       "basename": "コンテナの入り方",
       "path": "Docker/コンテナの入り方.md"
-    },
-    {
-      "basename": "nvidiaドライバ",
-      "path": "General Notes/nvidiaドライバ.md"
     },
     {
       "basename": "WSL→Railsアプリまで",
