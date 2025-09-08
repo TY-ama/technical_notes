@@ -33,8 +33,12 @@ class DbsampleController < ApplicationController
 end
 ```
 
-##
+## @dbsample・@item
 
+```ruby
+@dbsample = Array.new
+```
+- 
 
 
 
