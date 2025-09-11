@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "求人登録",
+      "path": "General Notes/求人登録.md"
+    },
+    {
+      "basename": "旧システムのコピー",
+      "path": "General Notes/旧システムのコピー.md"
+    },
+    {
       "basename": "WSL→Railsアプリまで",
       "path": "Docker/WSL→Railsアプリまで.md"
     },
@@ -19,14 +27,6 @@
     {
       "basename": "yomitokuに必要なもの",
       "path": "General Notes/yomitokuに必要なもの.md"
-    },
-    {
-      "basename": "求人登録",
-      "path": "General Notes/求人登録.md"
-    },
-    {
-      "basename": "旧システムのコピー",
-      "path": "General Notes/旧システムのコピー.md"
     },
     {
       "basename": "controllerでのデータ抽出",
