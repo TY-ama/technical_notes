@@ -2,6 +2,7 @@
 tags:
   - t-notes/AI
 datetimeCreate: 2025-09-11 13:36
+description: 縦書き苦手化も
 ---
 
 ### 導入
