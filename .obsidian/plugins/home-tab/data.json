@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "General Notes/Model.md",
+      "timestamp": 1757566545164
+    },
+    {
       "filepath": "Rails/MVCモデルとは.md",
       "timestamp": 1757566098617
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "Docker/WSL→Railsアプリまで.md",
       "timestamp": 1757565898715
-    },
-    {
-      "filepath": "General Notes/controllerでのデータ抽出.md",
-      "timestamp": 1757565898129
     }
   ],
   "bookmarkedFileStore": [],
