@@ -25,23 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "General Notes/求人登録.md",
-      "timestamp": 1757558172137
+      "timestamp": 1757558235339
     },
     {
-      "filepath": "General Notes/旧システムのコピー.md",
-      "timestamp": 1757558168381
+      "filepath": "docs/作業ログ.md",
+      "timestamp": 1757558233142
     },
     {
       "filepath": "Docker/WSL→Railsアプリまで.md",
-      "timestamp": 1757555452930
+      "timestamp": 1757558231792
+    },
+    {
+      "filepath": "General Notes/旧システムのコピー.md",
+      "timestamp": 1757558214167
     },
     {
       "filepath": "Clippings/windowsにWSL2+Docker環境を構築する手順.md",
       "timestamp": 1757555440158
-    },
-    {
-      "filepath": "General Notes/python 仮想環境.md",
-      "timestamp": 1757555182758
     }
   ],
   "bookmarkedFileStore": [],

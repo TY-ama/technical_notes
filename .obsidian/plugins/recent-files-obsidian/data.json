@@ -5,12 +5,16 @@
       "path": "General Notes/求人登録.md"
     },
     {
-      "basename": "旧システムのコピー",
-      "path": "General Notes/旧システムのコピー.md"
+      "basename": "作業ログ",
+      "path": "docs/作業ログ.md"
     },
     {
       "basename": "WSL→Railsアプリまで",
       "path": "Docker/WSL→Railsアプリまで.md"
+    },
+    {
+      "basename": "旧システムのコピー",
+      "path": "General Notes/旧システムのコピー.md"
     },
     {
       "basename": "windowsにWSL2+Docker環境を構築する手順",
@@ -31,10 +35,6 @@
     {
       "basename": "controllerでのデータ抽出",
       "path": "General Notes/controllerでのデータ抽出.md"
-    },
-    {
-      "basename": "作業ログ",
-      "path": "docs/作業ログ.md"
     },
     {
       "basename": "コンテナの入り方",
