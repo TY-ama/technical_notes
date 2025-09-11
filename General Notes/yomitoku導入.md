@@ -9,7 +9,17 @@ datetimeCreate: 2025-09-11 13:36
 - githubからもってくる
 	- git clone URL
 - docker build -t yomitoku
-- 
+
+### yomitokuの実行
+
+- ファイルを置いておくためのinputディレクトリとoutputディレクトリを作成
+- コマンド実行
+```bash
+docker run --rm \
+  -v $(pwd)/input:/workspace/input \
+  -v $(pwd)/output:/workspace/output \
+  yomitoku yomitoku /workspace/input -f json -o /workspace/output -v --figure
+```
 
 
 
