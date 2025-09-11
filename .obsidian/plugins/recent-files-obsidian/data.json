@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-09-11",
+      "path": "General Notes/2025-09-11.md"
+    },
+    {
       "basename": "Model",
       "path": "General Notes/Model.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Gemini-d-grid",
       "path": "Clippings/Gemini-d-grid.md"
-    },
-    {
-      "basename": "Gemini-form",
-      "path": "Clippings/Gemini-form.md"
     }
   ],
   "omittedPaths": [],

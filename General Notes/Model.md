@@ -2,7 +2,7 @@
 tags:
   - t-notes/Rails
 datetimeCreate: 2025-09-11 13:55
-description:
+description: migrationファイル作成->migration(データベースに実際にカラム追加)->モデルのインスタンスで新しい属性使える(offer.job_id)
 ---
 ## migrationファイルを作成すると
 
