@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "WSL→Railsアプリまで",
+      "path": "Docker/WSL→Railsアプリまで.md"
+    },
+    {
+      "basename": "windowsにWSL2+Docker環境を構築する手順",
+      "path": "Clippings/windowsにWSL2+Docker環境を構築する手順.md"
+    },
+    {
+      "basename": "python 仮想環境",
+      "path": "General Notes/python 仮想環境.md"
+    },
+    {
       "basename": "nvidiaドライバ",
       "path": "General Notes/nvidiaドライバ.md"
     },
@@ -27,10 +39,6 @@
     {
       "basename": "コンテナの入り方",
       "path": "Docker/コンテナの入り方.md"
-    },
-    {
-      "basename": "WSL→Railsアプリまで",
-      "path": "Docker/WSL→Railsアプリまで.md"
     },
     {
       "basename": "MVCモデルとは",
@@ -161,10 +169,6 @@
       "path": "Docker/build時のエラー.md"
     },
     {
-      "basename": "windowsにWSL2+Docker環境を構築する手順",
-      "path": "Clippings/windowsにWSL2+Docker環境を構築する手順.md"
-    },
-    {
       "basename": "コメントアウト(erb)",
       "path": "Rails/コメントアウト(erb).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "メソッド作成",
       "path": "Ruby/class/メソッド作成.md"
-    },
-    {
-      "basename": "クラスとインスタンス",
-      "path": "Ruby/class/クラスとインスタンス.md"
     }
   ],
   "omittedPaths": [],
