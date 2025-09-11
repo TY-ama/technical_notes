@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "MVCモデルとは",
+      "path": "Rails/MVCモデルとは.md"
+    },
+    {
       "basename": "求人登録",
       "path": "General Notes/求人登録.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "yomitokuに必要なもの",
       "path": "General Notes/yomitokuに必要なもの.md"
-    },
-    {
-      "basename": "MVCモデルとは",
-      "path": "Rails/MVCモデルとは.md"
     },
     {
       "basename": "旧システムでやったこと",
