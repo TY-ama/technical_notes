@@ -1,9 +1,15 @@
 ---
-tags: 
-datetimeCreate: 2025-09-11 10:46
+tags:
+  - t-notes/AI
+datetimeCreate: 2025-09-11 13:36
 ---
 
-そのままアプリは入れれない
+### 導入
+
+- githubからもってくる
+	- git clone URL
+- docker build -t yomitoku
+- 
 
 
 

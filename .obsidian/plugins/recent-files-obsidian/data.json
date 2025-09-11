@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "yomitoku導入",
+      "path": "General Notes/yomitoku導入.md"
+    },
+    {
       "basename": "求人登録",
       "path": "General Notes/求人登録.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "windowsにWSL2+Docker環境を構築する手順",
       "path": "Clippings/windowsにWSL2+Docker環境を構築する手順.md"
-    },
-    {
-      "basename": "python 仮想環境",
-      "path": "General Notes/python 仮想環境.md"
     },
     {
       "basename": "nvidiaドライバ",
@@ -195,10 +195,6 @@
     {
       "basename": "Gemini-form",
       "path": "Clippings/Gemini-form.md"
-    },
-    {
-      "basename": "メソッド作成",
-      "path": "Ruby/class/メソッド作成.md"
     }
   ],
   "omittedPaths": [],

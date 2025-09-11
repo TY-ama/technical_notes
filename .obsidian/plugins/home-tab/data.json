@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "General Notes/無題のファイル.md",
+      "timestamp": 1757565380888
+    },
+    {
       "filepath": "General Notes/求人登録.md",
       "timestamp": 1757560294704
     },
@@ -34,14 +38,6 @@
     {
       "filepath": "docs/作業ログ.md",
       "timestamp": 1757558233142
-    },
-    {
-      "filepath": "Docker/WSL→Railsアプリまで.md",
-      "timestamp": 1757558231792
-    },
-    {
-      "filepath": "General Notes/旧システムのコピー.md",
-      "timestamp": 1757558214167
     }
   ],
   "bookmarkedFileStore": [],

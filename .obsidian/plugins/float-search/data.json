@@ -4,7 +4,7 @@
     "explainSearch": false,
     "extraContext": false,
     "matchingCase": false,
-    "query": "tag:t-notes/Rails/controller",
+    "query": "#t-notes/DB :t-notes ",
     "sortOrder": "alphabetical"
   },
   "showFilePath": false,
