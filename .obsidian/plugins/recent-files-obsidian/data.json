@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "パワポ",
+      "path": "General Notes/パワポ.md"
+    },
+    {
       "basename": "2025-09-12",
       "path": "General Notes/2025-09-12.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-07-18-成果発表",
       "path": "docs/2025-07-18-成果発表.md"
-    },
-    {
-      "basename": "課題一覧",
-      "path": "docs/課題一覧.md"
     }
   ],
   "omittedPaths": [],
