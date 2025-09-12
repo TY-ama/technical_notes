@@ -5,16 +5,28 @@
       "path": "General Notes/2025-09-12.md"
     },
     {
-      "basename": "puts,p,print",
-      "path": "General Notes/puts,p,print.md"
-    },
-    {
       "basename": "2025-09-11",
       "path": "General Notes/2025-09-11.md"
     },
     {
+      "basename": "データ項目の検討",
+      "path": "General Notes/データ項目の検討.md"
+    },
+    {
+      "basename": "今回使用するバージョン",
+      "path": "docs/今回使用するバージョン.md"
+    },
+    {
+      "basename": "ほしい機能",
+      "path": "General Notes/ほしい機能.md"
+    },
+    {
       "basename": "求人登録",
       "path": "General Notes/求人登録.md"
+    },
+    {
+      "basename": "puts,p,print",
+      "path": "General Notes/puts,p,print.md"
     },
     {
       "basename": "yomitoku導入",
@@ -53,10 +65,6 @@
       "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
     },
     {
-      "basename": "今回使用するバージョン",
-      "path": "docs/今回使用するバージョン.md"
-    },
-    {
       "basename": "作業ログ",
       "path": "docs/作業ログ.md"
     },
@@ -77,16 +85,8 @@
       "path": "General Notes/旧システムでやったこと.md"
     },
     {
-      "basename": "ほしい機能",
-      "path": "General Notes/ほしい機能.md"
-    },
-    {
       "basename": "スライド作成プロンプト",
       "path": "General Notes/スライド作成プロンプト.md"
-    },
-    {
-      "basename": "データ項目の検討",
-      "path": "General Notes/データ項目の検討.md"
     },
     {
       "basename": "sassのコンパイルについて",
