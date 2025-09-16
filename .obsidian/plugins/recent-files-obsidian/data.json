@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "パワポ",
+      "path": "General Notes/パワポ.md"
+    },
+    {
+      "basename": "2025-09-12",
+      "path": "General Notes/2025-09-12.md"
+    },
+    {
       "basename": "buildのみでアプリ起動可能",
       "path": "General Notes/buildのみでアプリ起動可能.md"
+    },
+    {
+      "basename": "求人登録",
+      "path": "General Notes/求人登録.md"
+    },
+    {
+      "basename": "2025-09-11",
+      "path": "General Notes/2025-09-11.md"
+    },
+    {
+      "basename": "Railsアプリ作成の流れ",
+      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
+    },
+    {
+      "basename": "作業ログ",
+      "path": "docs/作業ログ.md"
+    },
+    {
+      "basename": "Pasted image 20250829105933",
+      "path": "res/Pasted image 20250829105933.png"
+    },
+    {
+      "basename": "Pasted image 20250829133432",
+      "path": "res/Pasted image 20250829133432.png"
     },
     {
       "basename": "Dockerコマンド",
@@ -13,20 +45,8 @@
       "path": "Docker/WSL→Railsアプリまで.md"
     },
     {
-      "basename": "2025-09-12",
-      "path": "General Notes/2025-09-12.md"
-    },
-    {
       "basename": "コメントアウト(erb)",
       "path": "Rails/コメントアウト(erb).md"
-    },
-    {
-      "basename": "2025-09-11",
-      "path": "General Notes/2025-09-11.md"
-    },
-    {
-      "basename": "パワポ",
-      "path": "General Notes/パワポ.md"
     },
     {
       "basename": "データ項目の検討",
@@ -39,10 +59,6 @@
     {
       "basename": "ほしい機能",
       "path": "General Notes/ほしい機能.md"
-    },
-    {
-      "basename": "求人登録",
-      "path": "General Notes/求人登録.md"
     },
     {
       "basename": "puts,p,print",
@@ -77,14 +93,6 @@
       "path": "General Notes/controllerでのデータ抽出.md"
     },
     {
-      "basename": "Railsアプリ作成の流れ",
-      "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
-    },
-    {
-      "basename": "作業ログ",
-      "path": "docs/作業ログ.md"
-    },
-    {
       "basename": "windowsにWSL2+Docker環境を構築する手順",
       "path": "Clippings/windowsにWSL2+Docker環境を構築する手順.md"
     },
@@ -117,16 +125,8 @@
       "path": "Info Notes/DB.md"
     },
     {
-      "basename": "Pasted image 20250829105933",
-      "path": "res/Pasted image 20250829105933.png"
-    },
-    {
       "basename": "求人データ読み込み",
       "path": "General Notes/求人データ読み込み.md"
-    },
-    {
-      "basename": "Pasted image 20250829133432",
-      "path": "res/Pasted image 20250829133432.png"
     },
     {
       "basename": "改行(br)",
