@@ -18,8 +18,34 @@ RUN apt-get update -qq && apt-get install -y nodejs yarn default-mysql-client
 ```
 
 ## entrypoint.sh
+```sh
+#!/bin/bash
+set -e # エラーが発生するとスクリプトを終了する
 
+# 以前のサーバープロセスが残っていた場合に備えてpidファイルを削除
+rm -f /myapp/tmp/pids/server.pid
 
+# ★★★ POINT 1 ★★★
+# DBコンテナの準備が完了するまで待つループ処理
+# これがないと、DBが起動しきる前にRailsが接続しようとして失敗する
+until mysqladmin ping -h "db" -u "root" -p"password" --silent; do
+  echo "Waiting for database to be ready..."
+  sleep 2
+done
+
+# ★★★ POINT 2 ★★★
+# データベースが存在しない場合のみ作成する
+# `|| true` を付けることで、DBが既に存在していてもエラーにならずに次に進める
+bundle exec rails db:create || true
+
+# ★★★ POINT 3 ★★★
+# データベースのマイグレーションを実行してテーブルを作成・更新する
+bundle exec rails db:migrate
+
+# ★★★ POINT 4 ★★★
+# このスクリプトの処理が終わったら、DockerfileのCMDで指定されたコマンドを実行する
+exec "$@"
+```
 
 
 ```dataviewjs
