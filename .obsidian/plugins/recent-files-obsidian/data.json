@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "無題のファイル",
+      "path": "General Notes/無題のファイル.md"
+    },
+    {
       "basename": "WSL→Railsアプリまで",
       "path": "Docker/WSL→Railsアプリまで.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "コメント文",
       "path": "Ruby/コメント文.md"
-    },
-    {
-      "basename": "2025-07-18-成果発表",
-      "path": "docs/2025-07-18-成果発表.md"
     }
   ],
   "omittedPaths": [],
