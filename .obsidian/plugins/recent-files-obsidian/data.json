@@ -5,6 +5,10 @@
       "path": "General Notes/buildのみでアプリ起動可能.md"
     },
     {
+      "basename": "Dockerコマンド",
+      "path": "Docker/Dockerコマンド.md"
+    },
+    {
       "basename": "WSL→Railsアプリまで",
       "path": "Docker/WSL→Railsアプリまで.md"
     },
@@ -131,10 +135,6 @@
     {
       "basename": "求人情報閲覧システム　デザイン",
       "path": "General Notes/求人情報閲覧システム　デザイン.md"
-    },
-    {
-      "basename": "Dockerコマンド",
-      "path": "Docker/Dockerコマンド.md"
     },
     {
       "basename": "cssbudling-rails",
