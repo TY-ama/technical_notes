@@ -1,9 +1,23 @@
 ---
-tags: 
+tags:
+  - t-notes/Docker
+  - t-notes/Rails
 datetimeCreate: 2025-09-16 11:46
 ---
+## Dockerfile
+```dockerfile
+# yarnパッケージ管理ツールなどをインストール 
+RUN apt-get update && apt-get install -y curl apt-transport-https wget && \ 
+curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add - && \ 
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | tee /etc/apt/sources.list.d/yarn.list && \ 
+apt-get update && apt-get install -y yarn 
 
+# ★★★ POINT ★★★ 
+# DBコンテナと通信するためのmysql-clientと、その他必要なパッケージをインストール 
+RUN apt-get update -qq && apt-get install -y nodejs yarn default-mysql-client
+```
 
+## entrypoint.sh
 
 
 
