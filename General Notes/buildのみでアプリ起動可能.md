@@ -37,7 +37,7 @@ done
 bundle exec rails db:create || true
 
 # データベースのマイグレーションを実行してテーブルを作成・更新する
-bundle exec rails db:migrat
+bundle exec rails db:migrate
 
 # このスクリプトの処理が終わったら、DockerfileのCMDで指定されたコマンドを実行する
 exec "$@"
