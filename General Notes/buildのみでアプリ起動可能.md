@@ -50,6 +50,16 @@ exec "$@"
 - `docker compose build` 
 - `docker compose up -d`
 
+## Sprockets::ArgumentError in Parts#index
+
+- `manifest.js`の`//= link_tree ../../../vendor/javascript .js`を消すかイコールを消す
+	- 標準で作成されないため
+
+
+
+
+
+
 ```dataviewjs
 // ===== 関連ノート (タグ基準) =====
 dv.header(3, "関連ノート");
