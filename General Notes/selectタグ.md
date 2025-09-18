@@ -19,8 +19,8 @@ datetimeCreate: 2025-09-18 11:31
 4. `include_blank: '全ての勤務地'`
 	1. セレクトボックスの先頭に、空の選択肢を追加するためのオプション。
 	2. 今回は「全ての勤務地」というテキストが表示され、ユーザーが何も選択していない状態を示すことができる
-5. `class: 'form-control`
-	1. 
+5. `class: 'form-control'`
+	1. `<select>`タグにform-controlというクラスを追加
 
 
 
