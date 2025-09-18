@@ -47,11 +47,12 @@ bundle exec rails db:migrate
 exec "$@"
 ```
 
-## データがもとから入っている場合
+## データがもとから入っている場合(消去することになる)
 
 - `docker-compose down -v`
 - `sudo rm -rf ./tmp/db`(念のため)
-- `docker compose build` `docker compose up -d`
+- `docker compose build` 
+- `docker compose up -d`
 
 ```dataviewjs
 // ===== 関連ノート (タグ基準) =====
