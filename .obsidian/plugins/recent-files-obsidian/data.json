@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "無題のファイル",
+      "path": "General Notes/無題のファイル.md"
+    },
+    {
+      "basename": "検索",
+      "path": "General Notes/検索.md"
+    },
+    {
+      "basename": "2025-09-18",
+      "path": "General Notes/2025-09-18.md"
+    },
+    {
       "basename": "selectタグ",
       "path": "General Notes/selectタグ.md"
     },
@@ -9,16 +21,8 @@
       "path": "General Notes/nvidiaドライバ.md"
     },
     {
-      "basename": "2025-09-18",
-      "path": "General Notes/2025-09-18.md"
-    },
-    {
       "basename": "buildのみでアプリ起動可能",
       "path": "General Notes/buildのみでアプリ起動可能.md"
-    },
-    {
-      "basename": "無題のファイル",
-      "path": "General Notes/無題のファイル.md"
     },
     {
       "basename": "コメントアウト(erb)",
@@ -195,10 +199,6 @@
     {
       "basename": "key error",
       "path": "Docker/key error.md"
-    },
-    {
-      "basename": "Gemini-Docker-本番環境",
-      "path": "Docker/Gemini-Docker-本番環境.md"
     }
   ],
   "omittedPaths": [],
