@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "コメントアウト(erb)",
+      "path": "Rails/コメントアウト(erb).md"
+    },
+    {
+      "basename": "コメント文",
+      "path": "Ruby/コメント文.md"
+    },
+    {
       "basename": "buildのみでアプリ起動可能",
       "path": "General Notes/buildのみでアプリ起動可能.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "WSL→Railsアプリまで",
       "path": "Docker/WSL→Railsアプリまで.md"
-    },
-    {
-      "basename": "コメントアウト(erb)",
-      "path": "Rails/コメントアウト(erb).md"
     },
     {
       "basename": "データ項目の検討",
@@ -195,10 +199,6 @@
     {
       "basename": "build時のエラー",
       "path": "Docker/build時のエラー.md"
-    },
-    {
-      "basename": "コメント文",
-      "path": "Ruby/コメント文.md"
     }
   ],
   "omittedPaths": [],
