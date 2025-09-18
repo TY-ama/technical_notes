@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "無題のファイル",
+      "path": "General Notes/無題のファイル.md"
+    },
+    {
       "basename": "コメントアウト(erb)",
       "path": "Rails/コメントアウト(erb).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Dockerfile(webページとは若干違う)",
       "path": "Docker/Dockerfile(webページとは若干違う).md"
-    },
-    {
-      "basename": "build時のエラー",
-      "path": "Docker/build時のエラー.md"
     }
   ],
   "omittedPaths": [],
