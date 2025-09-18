@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "求人データ読み込み",
+      "path": "General Notes/求人データ読み込み.md"
+    },
+    {
+      "basename": "DB",
+      "path": "Info Notes/DB.md"
+    },
+    {
+      "basename": "2025-09-12",
+      "path": "General Notes/2025-09-12.md"
+    },
+    {
       "basename": "buildのみでアプリ起動可能",
       "path": "General Notes/buildのみでアプリ起動可能.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "求人登録",
       "path": "General Notes/求人登録.md"
-    },
-    {
-      "basename": "2025-09-12",
-      "path": "General Notes/2025-09-12.md"
     },
     {
       "basename": "2025-09-18",
@@ -145,14 +153,6 @@
       "path": "General Notes/Sassとは.md"
     },
     {
-      "basename": "DB",
-      "path": "Info Notes/DB.md"
-    },
-    {
-      "basename": "求人データ読み込み",
-      "path": "General Notes/求人データ読み込み.md"
-    },
-    {
       "basename": "改行(br)",
       "path": "General Notes/改行(br).md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "権限変更",
       "path": "Docker/権限変更.md"
-    },
-    {
-      "basename": "基本用語",
-      "path": "Docker/基本用語.md"
     }
   ],
   "omittedPaths": [],
