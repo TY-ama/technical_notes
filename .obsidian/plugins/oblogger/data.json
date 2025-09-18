@@ -86,7 +86,8 @@
         "//Obsidian",
         "//Rails/スタイルシート",
         "//Rails/導入",
-        "//daily"
+        "//daily",
+        "//docs"
       ],
       "isVisible": true,
       "isPinned": false,

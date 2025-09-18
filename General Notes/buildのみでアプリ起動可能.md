@@ -54,6 +54,7 @@ exec "$@"
 
 - `manifest.js`の`//= link_tree ../../../vendor/javascript .js`を消すかイコールを消す
 	- 標準で作成されないため
+- ちゃんとdb:migrateされてない
 
 
 
