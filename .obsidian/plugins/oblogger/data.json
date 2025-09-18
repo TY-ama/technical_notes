@@ -83,10 +83,9 @@
         "//DB",
         "//Docker",
         "//Docker/導入",
-        "//Rails",
         "//Rails/スタイルシート",
         "//Rails/導入",
-        "//docs"
+        "//todo"
       ],
       "isVisible": true,
       "isPinned": false,
