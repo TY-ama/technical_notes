@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "General Notes/2025-09-18.md",
+      "timestamp": 1758162302036
+    },
+    {
+      "filepath": "General Notes/buildのみでアプリ起動可能.md",
+      "timestamp": 1758162299235
+    },
+    {
       "filepath": "General Notes/無題のファイル.md",
       "timestamp": 1758161727634
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "Ruby/コメント文.md",
       "timestamp": 1758161506984
-    },
-    {
-      "filepath": "General Notes/buildのみでアプリ起動可能.md",
-      "timestamp": 1758160231413
-    },
-    {
-      "filepath": "General Notes/パワポ.md",
-      "timestamp": 1758160221924
     }
   ],
   "bookmarkedFileStore": [],

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-09-18",
+      "path": "General Notes/2025-09-18.md"
+    },
+    {
+      "basename": "buildのみでアプリ起動可能",
+      "path": "General Notes/buildのみでアプリ起動可能.md"
+    },
+    {
       "basename": "無題のファイル",
       "path": "General Notes/無題のファイル.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "コメント文",
       "path": "Ruby/コメント文.md"
-    },
-    {
-      "basename": "buildのみでアプリ起動可能",
-      "path": "General Notes/buildのみでアプリ起動可能.md"
     },
     {
       "basename": "パワポ",
@@ -195,10 +199,6 @@
     {
       "basename": "Dockerとは",
       "path": "Docker/Dockerとは.md"
-    },
-    {
-      "basename": "Dockerfile(webページとは若干違う)",
-      "path": "Docker/Dockerfile(webページとは若干違う).md"
     }
   ],
   "omittedPaths": [],
