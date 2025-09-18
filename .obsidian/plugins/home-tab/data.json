@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "General Notes/無題のファイル 1.md",
+      "timestamp": 1758162718902
+    },
+    {
       "filepath": "General Notes/2025-09-18.md",
       "timestamp": 1758162302036
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "Rails/コメントアウト(erb).md",
       "timestamp": 1758161508650
-    },
-    {
-      "filepath": "Ruby/コメント文.md",
-      "timestamp": 1758161506984
     }
   ],
   "bookmarkedFileStore": [],

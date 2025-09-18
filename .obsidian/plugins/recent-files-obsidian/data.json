@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "selectタグ",
+      "path": "General Notes/selectタグ.md"
+    },
+    {
       "basename": "2025-09-18",
       "path": "General Notes/2025-09-18.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Gemini-Docker-本番環境",
       "path": "Docker/Gemini-Docker-本番環境.md"
-    },
-    {
-      "basename": "Dockerとは",
-      "path": "Docker/Dockerとは.md"
     }
   ],
   "omittedPaths": [],
