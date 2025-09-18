@@ -87,7 +87,8 @@
         "//Rails/スタイルシート",
         "//Rails/導入",
         "//daily",
-        "//docs"
+        "//docs",
+        "//アプリ"
       ],
       "isVisible": true,
       "isPinned": false,
