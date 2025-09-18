@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "General Notes/無題のファイル 1.md",
-      "timestamp": 1758162718902
+      "filepath": "General Notes/selectタグ.md",
+      "timestamp": 1758163628820
+    },
+    {
+      "filepath": "General Notes/nvidiaドライバ.md",
+      "timestamp": 1758163624191
     },
     {
       "filepath": "General Notes/2025-09-18.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "General Notes/無題のファイル.md",
       "timestamp": 1758161727634
-    },
-    {
-      "filepath": "Rails/コメントアウト(erb).md",
-      "timestamp": 1758161508650
     }
   ],
   "bookmarkedFileStore": [],

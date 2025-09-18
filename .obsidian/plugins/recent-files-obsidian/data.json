@@ -5,6 +5,10 @@
       "path": "General Notes/selectタグ.md"
     },
     {
+      "basename": "nvidiaドライバ",
+      "path": "General Notes/nvidiaドライバ.md"
+    },
+    {
       "basename": "2025-09-18",
       "path": "General Notes/2025-09-18.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "windowsにWSL2+Docker環境を構築する手順",
       "path": "Clippings/windowsにWSL2+Docker環境を構築する手順.md"
-    },
-    {
-      "basename": "nvidiaドライバ",
-      "path": "General Notes/nvidiaドライバ.md"
     },
     {
       "basename": "yomitokuに必要なもの",
