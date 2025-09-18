@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "無題のファイル",
-      "path": "General Notes/無題のファイル.md"
+      "basename": "2025-09-18",
+      "path": "General Notes/2025-09-18.md"
+    },
+    {
+      "basename": "2025-09-12",
+      "path": "General Notes/2025-09-12.md"
+    },
+    {
+      "basename": "2025-09-11",
+      "path": "General Notes/2025-09-11.md"
+    },
+    {
+      "basename": "作業ログ",
+      "path": "docs/作業ログ.md"
+    },
+    {
+      "basename": "yomitoku導入",
+      "path": "General Notes/yomitoku導入.md"
+    },
+    {
+      "basename": "template_daily",
+      "path": "Templates/template_daily.md"
+    },
+    {
+      "basename": "template",
+      "path": "Templates/template.md"
     },
     {
       "basename": "検索",
       "path": "General Notes/検索.md"
-    },
-    {
-      "basename": "2025-09-18",
-      "path": "General Notes/2025-09-18.md"
     },
     {
       "basename": "selectタグ",
@@ -37,24 +57,12 @@
       "path": "General Notes/パワポ.md"
     },
     {
-      "basename": "2025-09-12",
-      "path": "General Notes/2025-09-12.md"
-    },
-    {
       "basename": "求人登録",
       "path": "General Notes/求人登録.md"
     },
     {
-      "basename": "2025-09-11",
-      "path": "General Notes/2025-09-11.md"
-    },
-    {
       "basename": "Railsアプリ作成の流れ",
       "path": "Rails/在庫管理アプリ/Railsアプリ作成の流れ.md"
-    },
-    {
-      "basename": "作業ログ",
-      "path": "docs/作業ログ.md"
     },
     {
       "basename": "Pasted image 20250829105933",
@@ -87,10 +95,6 @@
     {
       "basename": "puts,p,print",
       "path": "General Notes/puts,p,print.md"
-    },
-    {
-      "basename": "yomitoku導入",
-      "path": "General Notes/yomitoku導入.md"
     },
     {
       "basename": "旧システムのコピー",
@@ -195,10 +199,6 @@
     {
       "basename": "基本用語",
       "path": "Docker/基本用語.md"
-    },
-    {
-      "basename": "key error",
-      "path": "Docker/key error.md"
     }
   ],
   "omittedPaths": [],

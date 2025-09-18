@@ -1,6 +1,6 @@
 ---
-tags: 
-datetimeCreate: 2025-09-18 11:15
+tags: t-note/daily
+datetimeCreate: {{date}} {{time}}
 ---
 
 
