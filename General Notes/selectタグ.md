@@ -7,7 +7,9 @@ datetimeCreate: 2025-09-18 11:31
 <%= select_tag 'area',options_for_select(@locations, params[:area]),include_blank: '全ての勤務地',  class: 'form-control' %>
 ```
 1. `select_tag`
-	1. HTMLの<select
+	1. HTMLの`<select>`タグを生成するためのヘルパーメソッド(HTMLを生成してくれる)
+2. `'area'`
+	1. 
 
 
 
