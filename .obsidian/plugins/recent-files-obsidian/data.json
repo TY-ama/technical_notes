@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "足りない情報",
+      "path": "General Notes/足りない情報.md"
+    },
+    {
+      "basename": "2025-08-29",
+      "path": "General Notes/2025-08-29.md"
+    },
+    {
       "basename": "2025-09-19",
       "path": "General Notes/2025-09-19.md"
     },
     {
       "basename": "2025-08-18",
       "path": "General Notes/2025-08-18.md"
-    },
-    {
-      "basename": "2025-08-29",
-      "path": "General Notes/2025-08-29.md"
     },
     {
       "basename": "求人登録",
@@ -195,10 +199,6 @@
     {
       "basename": "【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん",
       "path": "Clippings/【神回】Googleスライドが一瞬で完成する奇跡のプロンプト教えます｜まじん.md"
-    },
-    {
-      "basename": "権限変更",
-      "path": "Docker/権限変更.md"
     }
   ],
   "omittedPaths": [],
