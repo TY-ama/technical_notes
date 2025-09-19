@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "コンテナの入り方",
+      "path": "Docker/コンテナの入り方.md"
+    },
+    {
+      "basename": "足りない情報",
+      "path": "General Notes/足りない情報.md"
+    },
+    {
       "basename": "2025-09-19",
       "path": "General Notes/2025-09-19.md"
     },
@@ -9,16 +17,8 @@
       "path": "General Notes/MySQLワークベンチでつなげないとき.md"
     },
     {
-      "basename": "コンテナの入り方",
-      "path": "Docker/コンテナの入り方.md"
-    },
-    {
       "basename": "yomitoku導入",
       "path": "General Notes/yomitoku導入.md"
-    },
-    {
-      "basename": "足りない情報",
-      "path": "General Notes/足りない情報.md"
     },
     {
       "basename": "2025-08-29",
