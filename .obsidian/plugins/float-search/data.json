@@ -4,7 +4,7 @@
     "explainSearch": false,
     "extraContext": false,
     "matchingCase": false,
-    "query": "データベース",
+    "query": "tag:t-notes/docs",
     "sortOrder": "alphabetical"
   },
   "showFilePath": false,
