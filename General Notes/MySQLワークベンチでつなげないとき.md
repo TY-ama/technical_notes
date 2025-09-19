@@ -1,8 +1,9 @@
 ---
-tags: 
+tags:
+  - t-notes/DB
 datetimeCreate: 2025-09-19 15:57
 ---
-- windowsがw
+- windows側でmysql起動してる
 
 
 
